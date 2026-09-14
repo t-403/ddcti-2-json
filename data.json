@@ -1,0 +1,6322 @@
+[
+  {
+    "indicator": "http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/",
+    "category": "forum",
+    "description": "FUNKSEC RANSOMWARE"
+  },
+  {
+    "indicator": "http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion",
+    "category": "forum",
+    "description": "BEST CARDING WORLD"
+  },
+  {
+    "indicator": "http://bfdxjkv5e2z3ilrifzbnvxxvhbzsj67akjpj3zc6smzr4vv6oz565gyd.onion",
+    "category": "forum",
+    "description": "BFD Forum"
+  },
+  {
+    "indicator": "http://bitcoinfor.ru",
+    "category": "forum",
+    "description": "BITCOINFO.RU"
+  },
+  {
+    "indicator": "http://bittenlxkoanw3uqq6b7cszxdws76waznboekwrjbq4t4i2ybhenluqd.onion",
+    "category": "forum",
+    "description": "BITTEN FORUMS"
+  },
+  {
+    "indicator": "http://breach5yz2b5lepmq4gaqwcon3jippw3bislhvvdavem5git55sy2nid.onion",
+    "category": "forum",
+    "description": "BREACH FORUMS starting from 16/01/26 - by Hasan"
+  },
+  {
+    "indicator": "http://breachqr3dqbysbq5khaadg5ynnpxn2wrmw5y3rnzesun55l6lkq73yd.onion",
+    "category": "forum",
+    "description": "BREACH FORUMS (Dark)"
+  },
+  {
+    "indicator": "http://cebulka7uxchnbpvmqapg5pfos4ngaxglsktzvha7a5rigndghvadeyd.onion",
+    "category": "forum",
+    "description": "CEBULKA"
+  },
+  {
+    "indicator": "http://cnw4acab23przeum6ios6pw63ivxxbrvpclz5yssflkos6ano6oq4fqd.onion",
+    "category": "forum",
+    "description": "CRIMENETWORK (Dark)"
+  },
+  {
+    "indicator": "http://crime.to",
+    "category": "forum",
+    "description": "CRIMENETWORK (Deep)"
+  },
+  {
+    "indicator": "http://crimenow.is",
+    "category": "forum",
+    "description": "CRIMENOW"
+  },
+  {
+    "indicator": "http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion",
+    "category": "forum",
+    "description": "CRYPTBB"
+  },
+  {
+    "indicator": "http://cryptogid.org",
+    "category": "forum",
+    "description": "CRYPTOGID"
+  },
+  {
+    "indicator": "http://cwtvplqgymm3kbzj7g2qijhpau4tcco52qwvkm66k357svomp5bw5eqd.onion/",
+    "category": "forum",
+    "description": "DUMPFORUMS (Dark)"
+  },
+  {
+    "indicator": "http://damaga377vyvydeqeuigxvl6g5sbmipoxb5nne6gpj3sisbnslbhvrqd.onion",
+    "category": "forum",
+    "description": "DAMAGELIB"
+  },
+  {
+    "indicator": "http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion",
+    "category": "forum",
+    "description": "DARKFORUMS (Dark)"
+  },
+  {
+    "indicator": "http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion",
+    "category": "forum",
+    "description": "DARKNET ARMY"
+  },
+  {
+    "indicator": "http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion",
+    "category": "forum",
+    "description": "DARKFOREST"
+  },
+  {
+    "indicator": "http://dna777ucpo4unwxrzw5mzs4iqm5qz3uepw3k5mvwbt7tnufryvsgy5yd.onion",
+    "category": "forum",
+    "description": "DARKNET ARMY"
+  },
+  {
+    "indicator": "http://doxbyte3hunj2pi5euqhowpohjeh36mpbw5nflag4td7sd7bcrgxn6id.onion",
+    "category": "forum",
+    "description": "DOXBYTE"
+  },
+  {
+    "indicator": "http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion",
+    "category": "forum",
+    "description": "DARKWEB"
+  },
+  {
+    "indicator": "http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion",
+    "category": "forum",
+    "description": "EXILIO404"
+  },
+  {
+    "indicator": "http://fahue6hb7odzns36vfoi2dqfvqvjq4btt7vo52a67jivmyz6a6h3vzqd.onion/login",
+    "category": "forum",
+    "description": "HELIUM"
+  },
+  {
+    "indicator": "http://forum.softxaker.ru",
+    "category": "forum",
+    "description": "SOFTXAKER"
+  },
+  {
+    "indicator": "http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion",
+    "category": "forum",
+    "description": "DREAD"
+  },
+  {
+    "indicator": "http://g6ocfx3bb3pvdfawbgrbt3fqoht5t6dwc3hfmmueo76hz46qepidnxid.onion",
+    "category": "forum",
+    "description": "RANSOMED"
+  },
+  {
+    "indicator": "http://germania7zs27fu3gi76wlr5rd64cc2yjexyzvrbm4jufk7pibrpizad.onion",
+    "category": "forum",
+    "description": "GERMANIA"
+  },
+  {
+    "indicator": "http://hacktowns3sba2xavxecm23aoocvzciaxirh3vekg2ovzdjgjxedfvqd.onion/HackTown.html",
+    "category": "forum",
+    "description": "HACKTOWN"
+  },
+  {
+    "indicator": "http://hohekammer.cc",
+    "category": "forum",
+    "description": "HOHEKAMMER"
+  },
+  {
+    "indicator": "http://kcc.cat",
+    "category": "forum",
+    "description": "KCC"
+  },
+  {
+    "indicator": "http://korovka.cc",
+    "category": "forum",
+    "description": "KOROVKA"
+  },
+  {
+    "indicator": "http://lowendtalk.com",
+    "category": "forum",
+    "description": "LOWENDTALK"
+  },
+  {
+    "indicator": "http://nodo313.net",
+    "category": "forum",
+    "description": "NODO313"
+  },
+  {
+    "indicator": "http://o3nqszgvtqwcc2mxqcqgeyulkh6spiv6yaahgu7znaphzmikfvpu5aad.onion",
+    "category": "forum",
+    "description": "KICKASS"
+  },
+  {
+    "indicator": "http://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion",
+    "category": "forum",
+    "description": "PWNFORUMS (Dark) - https://t.me/PwnForums"
+  },
+  {
+    "indicator": "http://qvwje7edtrfby6pfnm3q7o3lju22mfx3xsjyl3y33l66sbq3qcnlmvad.onion",
+    "category": "forum",
+    "description": "SECRET FORUM PROPAGANDA"
+  },
+  {
+    "indicator": "http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion",
+    "category": "forum",
+    "description": "RAMBLE"
+  },
+  {
+    "indicator": "http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion",
+    "category": "forum",
+    "description": "RAMP (Dark)"
+  },
+  {
+    "indicator": "http://rutor.info",
+    "category": "forum",
+    "description": "RUTOR (Surface - torrent)"
+  },
+  {
+    "indicator": "http://rutor.is",
+    "category": "forum",
+    "description": "RUTOR (Surface - torrent)"
+  },
+  {
+    "indicator": "http://rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.onion",
+    "category": "forum",
+    "description": "RUTOR (Dark)"
+  },
+  {
+    "indicator": "http://rutorclubwiypaf63caqzlqwtcxqu5w6req6h7bjnvdlm4m7tddiwoyd.onion",
+    "category": "forum",
+    "description": "RUTOR (Dark)"
+  },
+  {
+    "indicator": "http://rutordark63xripv2a3skfrgjonvr3rqawcdpj2zcbw3sigkn6l3xpad.onion",
+    "category": "forum",
+    "description": "RUTOR (Dark)"
+  },
+  {
+    "indicator": "http://spear4h2potiyk43oilufhuq2jqbioyaizcs7xttlyw75s5ykwxpxlid.onion",
+    "category": "forum",
+    "description": "SPEAR - https://t.me/SpearAnnouncements"
+  },
+  {
+    "indicator": "http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion",
+    "category": "forum",
+    "description": "SUPERBAY"
+  },
+  {
+    "indicator": "http://thehubwav7canwaq7trm6zl3tqvkf2kwbkgwvwonfssvgvtyrdy4u3yd.onion",
+    "category": "forum",
+    "description": "THE HUB"
+  },
+  {
+    "indicator": "http://tieronemkfevyizxcnt355agysp2iemvhon6iyclwrc7yuc7oszgzrid.onion",
+    "category": "forum",
+    "description": "T1ER0NE"
+  },
+  {
+    "indicator": "http://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion/index.php",
+    "category": "forum",
+    "description": "VERIFIED (Dark)"
+  },
+  {
+    "indicator": "http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion",
+    "category": "forum",
+    "description": "SHADOW FORUM"
+  },
+  {
+    "indicator": "http://xssac4uqtauxumkktnp3knz2ag7qcb3efmb66mokjg5fcqhzvilgwfid.onion",
+    "category": "forum",
+    "description": "XSS (Dark)"
+  },
+  {
+    "indicator": "http://xssfnet2env65wnrlixkn4io3gzukirz7w767gdilk64iq6dg33jwsad.onion/",
+    "category": "forum",
+    "description": "XSSF (Dark)"
+  },
+  {
+    "indicator": "http://xssforum7mmh3n56inuf2h73hvhnzobi7h2ytb3gvklrfqm7ut3xdnyd.onion",
+    "category": "forum",
+    "description": "XSS (Dark)"
+  },
+  {
+    "indicator": "http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion",
+    "category": "forum",
+    "description": "XSS (Dark)"
+  },
+  {
+    "indicator": "http://zcfl6nxpefzmythaqbqi7s3fgjsb4tobp7stonwaqrhtza7yn3ztijid.onion",
+    "category": "forum",
+    "description": "NEFARIUM"
+  },
+  {
+    "indicator": "https://0x00sec.org/",
+    "category": "forum",
+    "description": "0x00sec"
+  },
+  {
+    "indicator": "https://4cheat.ru/",
+    "category": "forum",
+    "description": "4CHEAT"
+  },
+  {
+    "indicator": "https://alphv.pro",
+    "category": "forum",
+    "description": "ALPHV Forum - https://t.me/Alphvforum"
+  },
+  {
+    "indicator": "https://altenens.is",
+    "category": "forum",
+    "description": "ALTENEN (Deep)"
+  },
+  {
+    "indicator": "https://ascarding.com",
+    "category": "forum",
+    "description": "ASCARDING"
+  },
+  {
+    "indicator": "https://at.dublikat.club",
+    "category": "forum",
+    "description": "DUBLIKAT.CLUB"
+  },
+  {
+    "indicator": "https://bdfclub.com",
+    "category": "forum",
+    "description": "BDF CLUB"
+  },
+  {
+    "indicator": "https://bf.st",
+    "category": "forum",
+    "description": "BREACH FORUMS"
+  },
+  {
+    "indicator": "https://bhcforums.cc",
+    "category": "forum",
+    "description": "BHC Forums"
+  },
+  {
+    "indicator": "https://bhf.gg",
+    "category": "forum",
+    "description": "BHF"
+  },
+  {
+    "indicator": "https://bhf.im",
+    "category": "forum",
+    "description": "BHF"
+  },
+  {
+    "indicator": "https://bhf.pro",
+    "category": "forum",
+    "description": "BHF"
+  },
+  {
+    "indicator": "https://blackbones.net",
+    "category": "forum",
+    "description": "BLACKBONES"
+  },
+  {
+    "indicator": "https://blackhatpakistan.net",
+    "category": "forum",
+    "description": "BLACKHATPAKISTAN"
+  },
+  {
+    "indicator": "https://blackhatworld.com",
+    "category": "forum",
+    "description": "BLACKHATWORLD"
+  },
+  {
+    "indicator": "https://breachboard.zip/",
+    "category": "forum",
+    "description": "BREACH BOARD"
+  },
+  {
+    "indicator": "https://breached.su",
+    "category": "forum",
+    "description": "BREACHED (Deep) - https://t.me/breached_su"
+  },
+  {
+    "indicator": "https://breached.ws",
+    "category": "forum",
+    "description": "BREACHED"
+  },
+  {
+    "indicator": "https://breachforums.ai",
+    "category": "forum",
+    "description": "BREACH FORUMS (Deep) [ONLINE (Backup)]"
+  },
+  {
+    "indicator": "https://breachforums.rs",
+    "category": "forum",
+    "description": "BREACH FORUMS (Deep)"
+  },
+  {
+    "indicator": "https://carders.biz",
+    "category": "forum",
+    "description": "CARDERS.BIZ"
+  },
+  {
+    "indicator": "https://cardmafia.cc",
+    "category": "forum",
+    "description": "CARDMAFIA"
+  },
+  {
+    "indicator": "https://center-club.io",
+    "category": "forum",
+    "description": "CENTER CLUB"
+  },
+  {
+    "indicator": "https://chitachok.ru",
+    "category": "forum",
+    "description": "CHITACHOK"
+  },
+  {
+    "indicator": "https://comfybox.floofey.dog",
+    "category": "forum",
+    "description": "COMFYBOX"
+  },
+  {
+    "indicator": "https://coockie.pro",
+    "category": "forum",
+    "description": "COOKIEPRO"
+  },
+  {
+    "indicator": "https://cracked.sh",
+    "category": "forum",
+    "description": "CRACKED - https://t.me/crackedstatusupdate"
+  },
+  {
+    "indicator": "https://cracking.org",
+    "category": "forum",
+    "description": "CRACKING"
+  },
+  {
+    "indicator": "https://crackingmafia.is",
+    "category": "forum",
+    "description": "CRACKING MAFIA"
+  },
+  {
+    "indicator": "https://crackingx.com",
+    "category": "forum",
+    "description": "CRACKING X"
+  },
+  {
+    "indicator": "https://craxpro.io",
+    "category": "forum",
+    "description": "CRAX PRO"
+  },
+  {
+    "indicator": "https://crdpro.cc",
+    "category": "forum",
+    "description": "CRDPRO"
+  },
+  {
+    "indicator": "https://crimestate.cc",
+    "category": "forum",
+    "description": "CRIMESTATE"
+  },
+  {
+    "indicator": "https://cvvbrd.info",
+    "category": "forum",
+    "description": "CVV_BOARD"
+  },
+  {
+    "indicator": "https://cybhack.net",
+    "category": "forum",
+    "description": "CYBHACK"
+  },
+  {
+    "indicator": "https://d4rkforums.net",
+    "category": "forum",
+    "description": "D4RKFORUMS"
+  },
+  {
+    "indicator": "https://Damagelab.in",
+    "category": "forum",
+    "description": "REHUBCOM (Deep)"
+  },
+  {
+    "indicator": "https://dark2web.net",
+    "category": "forum",
+    "description": "DARK2WEB"
+  },
+  {
+    "indicator": "https://darkclub.pw",
+    "category": "forum",
+    "description": "DARKCLUB"
+  },
+  {
+    "indicator": "https://darkforums.as/",
+    "category": "forum",
+    "description": "DARKFORUMS (Deep)"
+  },
+  {
+    "indicator": "https://darkmoney.lc",
+    "category": "forum",
+    "description": "DARKMONEY"
+  },
+  {
+    "indicator": "https://darknet.rutor.nl",
+    "category": "forum",
+    "description": "RUTOR (Deep)"
+  },
+  {
+    "indicator": "https://darknet.ug",
+    "category": "forum",
+    "description": "DARKNET"
+  },
+  {
+    "indicator": "https://darkpid.com",
+    "category": "forum",
+    "description": "DARKPID"
+  },
+  {
+    "indicator": "https://darkpro.net/",
+    "category": "forum",
+    "description": "DARKPRO"
+  },
+  {
+    "indicator": "https://darkzone.uk",
+    "category": "forum",
+    "description": "DARKZONE"
+  },
+  {
+    "indicator": "https://datacloud.space",
+    "category": "forum",
+    "description": "DATACLOUD"
+  },
+  {
+    "indicator": "https://dataforums.co",
+    "category": "forum",
+    "description": "DATAFORUMS"
+  },
+  {
+    "indicator": "https://dedicatet.com",
+    "category": "forum",
+    "description": "DEDICATET"
+  },
+  {
+    "indicator": "https://demonforums.net",
+    "category": "forum",
+    "description": "DEMONFORUMS"
+  },
+  {
+    "indicator": "https://doxbyte.com",
+    "category": "forum",
+    "description": "DOXBYTE"
+  },
+  {
+    "indicator": "https://doxbyte.net",
+    "category": "forum",
+    "description": "DOXBYTE"
+  },
+  {
+    "indicator": "https://doxbyte.org",
+    "category": "forum",
+    "description": "DOXBYTE"
+  },
+  {
+    "indicator": "https://drdark.ru",
+    "category": "forum",
+    "description": "DRDARK"
+  },
+  {
+    "indicator": "https://dumped.to",
+    "category": "forum",
+    "description": "DUMPED"
+  },
+  {
+    "indicator": "https://dumpforums.to/",
+    "category": "forum",
+    "description": "DUMPFORUMS (Deep)"
+  },
+  {
+    "indicator": "https://eleaks.to",
+    "category": "forum",
+    "description": "ELEAKS"
+  },
+  {
+    "indicator": "https://endway.su",
+    "category": "forum",
+    "description": "ENDWAY"
+  },
+  {
+    "indicator": "https://eternia.to",
+    "category": "forum",
+    "description": "ETERNIA"
+  },
+  {
+    "indicator": "https://evil-zone.org",
+    "category": "forum",
+    "description": "EVILZONE"
+  },
+  {
+    "indicator": "https://evilarmy.in",
+    "category": "forum",
+    "description": "EVILARMY"
+  },
+  {
+    "indicator": "https://evilx.su/forum/",
+    "category": "forum",
+    "description": "EVILX"
+  },
+  {
+    "indicator": "https://exploit.biz",
+    "category": "forum",
+    "description": "EXPLOIT.IN (Deep)"
+  },
+  {
+    "indicator": "https://exploit.in",
+    "category": "forum",
+    "description": "EXPLOIT.IN (Deep)"
+  },
+  {
+    "indicator": "https://exploitforums.net",
+    "category": "forum",
+    "description": "EXPLOIT FORUMS"
+  },
+  {
+    "indicator": "https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion",
+    "category": "forum",
+    "description": "EXPLOIT.IN (Dark)"
+  },
+  {
+    "indicator": "https://exploits.ws",
+    "category": "forum",
+    "description": "EXPLOITS.WS"
+  },
+  {
+    "indicator": "https://ezcarder.is/",
+    "category": "forum",
+    "description": "EZCARDER"
+  },
+  {
+    "indicator": "https://femboyforum.com/",
+    "category": "forum",
+    "description": "FEMBOYFORUM"
+  },
+  {
+    "indicator": "https://forum.bits.media",
+    "category": "forum",
+    "description": "BITS.MEDIA"
+  },
+  {
+    "indicator": "https://forum.cryptocurrency.tech",
+    "category": "forum",
+    "description": "CRYPTOCURRENCY.TECH"
+  },
+  {
+    "indicator": "https://forum.cryptoff.org",
+    "category": "forum",
+    "description": "CRYPTOFF"
+  },
+  {
+    "indicator": "https://forum.dangerousthings.com",
+    "category": "forum",
+    "description": "DANGEROUSTHINGS"
+  },
+  {
+    "indicator": "https://forum.duty-free.cc/",
+    "category": "forum",
+    "description": "Duty Free Forum (Deep)"
+  },
+  {
+    "indicator": "https://forum.exodusmarket.io",
+    "category": "forum",
+    "description": "EXODUS"
+  },
+  {
+    "indicator": "https://forum.kkksec.com",
+    "category": "forum",
+    "description": "KKKSECFORUM"
+  },
+  {
+    "indicator": "https://forumteam.online",
+    "category": "forum",
+    "description": "FORUMTEAM.ONLINE"
+  },
+  {
+    "indicator": "https://forumteam.top",
+    "category": "forum",
+    "description": "FORUMTEAM.TOP"
+  },
+  {
+    "indicator": "https://getrekt.io",
+    "category": "forum",
+    "description": "GETREKT - https://t.me/getrektio"
+  },
+  {
+    "indicator": "https://hackforums.net/index.php",
+    "category": "forum",
+    "description": "HACKFORUMS"
+  },
+  {
+    "indicator": "https://hackingfather.com/",
+    "category": "forum",
+    "description": "HACKINGFATHER"
+  },
+  {
+    "indicator": "https://hackonology.com/forum/",
+    "category": "forum",
+    "description": "HACKONOLOGY"
+  },
+  {
+    "indicator": "https://hacksnation.com/",
+    "category": "forum",
+    "description": "HACKSNATION"
+  },
+  {
+    "indicator": "https://hard-tm.su",
+    "category": "forum",
+    "description": "HARD TM"
+  },
+  {
+    "indicator": "https://hydraforums.io",
+    "category": "forum",
+    "description": "HYDRA"
+  },
+  {
+    "indicator": "https://in4.bz",
+    "category": "forum",
+    "description": "IN4BZ"
+  },
+  {
+    "indicator": "https://incidious.se",
+    "category": "forum",
+    "description": "INCIDIOUS"
+  },
+  {
+    "indicator": "https://infected-zone.com",
+    "category": "forum",
+    "description": "INFECTED ZONE"
+  },
+  {
+    "indicator": "https://infinity.ink",
+    "category": "forum",
+    "description": "INFINITY"
+  },
+  {
+    "indicator": "https://korovka.cc",
+    "category": "forum",
+    "description": "KOROVKA"
+  },
+  {
+    "indicator": "https://lampeduza.la",
+    "category": "forum",
+    "description": "LAMPEDUZA"
+  },
+  {
+    "indicator": "https://leadlab.top",
+    "category": "forum",
+    "description": "LEAD LAB"
+  },
+  {
+    "indicator": "https://leak.sx",
+    "category": "forum",
+    "description": "LEAKS.SX"
+  },
+  {
+    "indicator": "https://leakbase.bz",
+    "category": "forum",
+    "description": "LEAKBASE"
+  },
+  {
+    "indicator": "https://leakbase.la",
+    "category": "forum",
+    "description": "LEAKBASE"
+  },
+  {
+    "indicator": "https://leaked.at",
+    "category": "forum",
+    "description": "LEAKED"
+  },
+  {
+    "indicator": "https://leakforum.io",
+    "category": "forum",
+    "description": "LEAK FORUM - https://t.me/leakforumio"
+  },
+  {
+    "indicator": "https://leakforum.st",
+    "category": "forum",
+    "description": "LEAK FORUM"
+  },
+  {
+    "indicator": "https://leaks.so",
+    "category": "forum",
+    "description": "LEAKS.SO"
+  },
+  {
+    "indicator": "https://leaky.pro/",
+    "category": "forum",
+    "description": "LEAKY.PRO"
+  },
+  {
+    "indicator": "https://leech.is",
+    "category": "forum",
+    "description": "LEECH"
+  },
+  {
+    "indicator": "https://leetforums.cc",
+    "category": "forum",
+    "description": "LEET FORUMS"
+  },
+  {
+    "indicator": "https://level23hacktools.com/hackers",
+    "category": "forum",
+    "description": "LEVEL23HACKTOOLS"
+  },
+  {
+    "indicator": "https://linkpass.info",
+    "category": "forum",
+    "description": "LINKPASS"
+  },
+  {
+    "indicator": "https://lolz.guru",
+    "category": "forum",
+    "description": "LOLZ"
+  },
+  {
+    "indicator": "https://masthead.social/auth/sign_in",
+    "category": "forum",
+    "description": "MASTODON"
+  },
+  {
+    "indicator": "https://megatop.biz",
+    "category": "forum",
+    "description": "MEGATOP"
+  },
+  {
+    "indicator": "https://mipped.com",
+    "category": "forum",
+    "description": "MIPPED"
+  },
+  {
+    "indicator": "https://mmgp.com",
+    "category": "forum",
+    "description": "MMGP"
+  },
+  {
+    "indicator": "https://NextGenForums.cc",
+    "category": "forum",
+    "description": "NEXTGEN FORUMS"
+  },
+  {
+    "indicator": "https://niflheim.world",
+    "category": "forum",
+    "description": "NIFLHEIM.World"
+  },
+  {
+    "indicator": "https://niggaforums.me",
+    "category": "forum",
+    "description": "NIGGAFORUMS (BLACKFORUMS MIRROR)"
+  },
+  {
+    "indicator": "https://niggaforums.net",
+    "category": "forum",
+    "description": "NIGGAFORUMS (BLACKFORUMS MIRROR)"
+  },
+  {
+    "indicator": "https://nohide.space",
+    "category": "forum",
+    "description": "NOHIDESPACE"
+  },
+  {
+    "indicator": "https://nulledbb.com",
+    "category": "forum",
+    "description": "NULLEDBB"
+  },
+  {
+    "indicator": "https://nulledx.to",
+    "category": "forum",
+    "description": "NULLEDX"
+  },
+  {
+    "indicator": "https://olvx.cc",
+    "category": "forum",
+    "description": "OLVX"
+  },
+  {
+    "indicator": "https://omert.cc",
+    "category": "forum",
+    "description": "OMERTA"
+  },
+  {
+    "indicator": "https://omerta.cx",
+    "category": "forum",
+    "description": "OMERTA"
+  },
+  {
+    "indicator": "https://onniforums.com",
+    "category": "forum",
+    "description": "OMNIFORUMS"
+  },
+  {
+    "indicator": "https://openssource.org",
+    "category": "forum",
+    "description": "OPENSSOURCE"
+  },
+  {
+    "indicator": "https://patched.to",
+    "category": "forum",
+    "description": "PATCHED.TO - https://t.me/patchedstatus"
+  },
+  {
+    "indicator": "https://payload.sh",
+    "category": "forum",
+    "description": "PAYLOAD.SH"
+  },
+  {
+    "indicator": "https://phish.pw",
+    "category": "forum",
+    "description": "PHISH.PW"
+  },
+  {
+    "indicator": "https://phreaker.info",
+    "category": "forum",
+    "description": "PHREAKER"
+  },
+  {
+    "indicator": "https://probiv.one",
+    "category": "forum",
+    "description": "PROBIV"
+  },
+  {
+    "indicator": "https://procrd.pw",
+    "category": "forum",
+    "description": "PROCRD"
+  },
+  {
+    "indicator": "https://prologic.su",
+    "category": "forum",
+    "description": "PROLOGIC"
+  },
+  {
+    "indicator": "https://proton.sc",
+    "category": "forum",
+    "description": "PROTON"
+  },
+  {
+    "indicator": "https://pshack.org",
+    "category": "forum",
+    "description": "PSHACK"
+  },
+  {
+    "indicator": "https://pwnforums.ms/",
+    "category": "forum",
+    "description": "BREACH FORUMS"
+  },
+  {
+    "indicator": "https://pwnforums.st/",
+    "category": "forum",
+    "description": "PWNFORUMS (Deep) - https://t.me/PwnForums"
+  },
+  {
+    "indicator": "https://raidforums.ru/",
+    "category": "forum",
+    "description": "RAID FORUMS - https://t.me/RaidForumsHub"
+  },
+  {
+    "indicator": "https://ramp4u.io",
+    "category": "forum",
+    "description": "RAMP (Deep)"
+  },
+  {
+    "indicator": "https://rehubcom.ag",
+    "category": "forum",
+    "description": "REHUBCOM (Deep)"
+  },
+  {
+    "indicator": "https://rehubcom.io",
+    "category": "forum",
+    "description": "REHUBCOM (Deep)"
+  },
+  {
+    "indicator": "https://rehubcom.pro",
+    "category": "forum",
+    "description": "REHUBCOM (Deep)"
+  },
+  {
+    "indicator": "https://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion",
+    "category": "forum",
+    "description": "REHUBCOM (Dark)"
+  },
+  {
+    "indicator": "https://reversing.center",
+    "category": "forum",
+    "description": "REVERSING"
+  },
+  {
+    "indicator": "https://rootsploit.org",
+    "category": "forum",
+    "description": "ROOTSPLOIT"
+  },
+  {
+    "indicator": "https://s1.piratebuhta.net",
+    "category": "forum",
+    "description": "PIRATEBUHTA"
+  },
+  {
+    "indicator": "https://seopirat.club",
+    "category": "forum",
+    "description": "SEOPIRAT"
+  },
+  {
+    "indicator": "https://sinfulsite.com",
+    "category": "forum",
+    "description": "SINFUL"
+  },
+  {
+    "indicator": "https://sinister.ly",
+    "category": "forum",
+    "description": "SINISTER"
+  },
+  {
+    "indicator": "https://skynetzone.biz",
+    "category": "forum",
+    "description": "SKYNETZONE.BIZ"
+  },
+  {
+    "indicator": "https://skynetzone.pw",
+    "category": "forum",
+    "description": "SKYNETZONE.PW"
+  },
+  {
+    "indicator": "https://spear.cx",
+    "category": "forum",
+    "description": "SPEAR - https://t.me/SpearAnnouncements"
+  },
+  {
+    "indicator": "https://spyhackerz.org",
+    "category": "forum",
+    "description": "SPYHACKERZ"
+  },
+  {
+    "indicator": "https://sqli.cloud",
+    "category": "forum",
+    "description": "SQLI"
+  },
+  {
+    "indicator": "https://st-market.link",
+    "category": "forum",
+    "description": "ST MARKET"
+  },
+  {
+    "indicator": "https://styxmarket.vg",
+    "category": "forum",
+    "description": "STYX MARKET"
+  },
+  {
+    "indicator": "https://thegoodlife.to",
+    "category": "forum",
+    "description": "THE GOOD LIFE"
+  },
+  {
+    "indicator": "https://thejavasea.com",
+    "category": "forum",
+    "description": "THE JAVA SEA"
+  },
+  {
+    "indicator": "https://thematrixstore.at",
+    "category": "forum",
+    "description": "THE MATRIX STORE"
+  },
+  {
+    "indicator": "https://thematrixstore.org",
+    "category": "forum",
+    "description": "THE MATRIX STORE"
+  },
+  {
+    "indicator": "https://toolba.se",
+    "category": "forum",
+    "description": "TOOLBASE"
+  },
+  {
+    "indicator": "https://trafa.net",
+    "category": "forum",
+    "description": "TRAFA NET"
+  },
+  {
+    "indicator": "https://umbra.by",
+    "category": "forum",
+    "description": "UMBRA"
+  },
+  {
+    "indicator": "https://v-h.guru",
+    "category": "forum",
+    "description": "V-H.GURU"
+  },
+  {
+    "indicator": "https://vavilon.cc",
+    "category": "forum",
+    "description": "VAVILON"
+  },
+  {
+    "indicator": "https://vedenet.online",
+    "category": "forum",
+    "description": "VEDENET"
+  },
+  {
+    "indicator": "https://vlmi.ws",
+    "category": "forum",
+    "description": "VLMI"
+  },
+  {
+    "indicator": "https://voided.to/",
+    "category": "forum",
+    "description": "Voided"
+  },
+  {
+    "indicator": "https://vsemmoney.com",
+    "category": "forum",
+    "description": "VSEMMONEY"
+  },
+  {
+    "indicator": "https://warriors.to/",
+    "category": "forum",
+    "description": "Warriors"
+  },
+  {
+    "indicator": "https://wwh-club.io",
+    "category": "forum",
+    "description": "WWHCLUB"
+  },
+  {
+    "indicator": "https://www.blackhatprotools.info/",
+    "category": "forum",
+    "description": "BLACKHATPROTOOLS"
+  },
+  {
+    "indicator": "https://www.crackingpro.com",
+    "category": "forum",
+    "description": "CRACKING PRO"
+  },
+  {
+    "indicator": "https://www.enclave.cc",
+    "category": "forum",
+    "description": "ENCLAVE"
+  },
+  {
+    "indicator": "https://www.oguser.com",
+    "category": "forum",
+    "description": "OGUSERS"
+  },
+  {
+    "indicator": "https://www.rf-cheats.ru",
+    "category": "forum",
+    "description": "RF-CHEAT"
+  },
+  {
+    "indicator": "https://www.turkhackteam.org",
+    "category": "forum",
+    "description": "TURKHACKTEAM"
+  },
+  {
+    "indicator": "https://xforums.st",
+    "category": "forum",
+    "description": "XFORUMS - https://t.me/+LV-lyCog6r42OWM0"
+  },
+  {
+    "indicator": "https://xreactor.org",
+    "category": "forum",
+    "description": "XREACTOR"
+  },
+  {
+    "indicator": "https://xss.ac",
+    "category": "forum",
+    "description": "XSS (Deep)"
+  },
+  {
+    "indicator": "https://xss.pro",
+    "category": "forum",
+    "description": "XSS (Deep)"
+  },
+  {
+    "indicator": "https://xssf.is/",
+    "category": "forum",
+    "description": "XSSF (Deep)"
+  },
+  {
+    "indicator": "https://xssf.net/",
+    "category": "forum",
+    "description": "XSSF (Deep)"
+  },
+  {
+    "indicator": "https://xssf.ru/",
+    "category": "forum",
+    "description": "XSSF (Deep)"
+  },
+  {
+    "indicator": "https://youhack.xyz",
+    "category": "forum",
+    "description": "YOUHACK"
+  },
+  {
+    "indicator": "https://zismo.biz",
+    "category": "forum",
+    "description": "ZISMO"
+  },
+  {
+    "indicator": "http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion",
+    "category": "markets",
+    "description": "EMPIRE MARKET"
+  },
+  {
+    "indicator": "http://2x4tmsirlqvqmwdz.onion",
+    "category": "markets",
+    "description": "UAS RDP SHOP"
+  },
+  {
+    "indicator": "http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion",
+    "category": "markets",
+    "description": "Archetyp"
+  },
+  {
+    "indicator": "http://6c5qaeiibh6ggmobsrv6vuilgb5uzjejpt2n3inoz2kv2sgzocymdvyd.onion",
+    "category": "markets",
+    "description": "CYPHER"
+  },
+  {
+    "indicator": "http://abacusall6l52n5gp357vpv4yjjvh6ewg65pjbfvacyqcldux66btlqd.onion",
+    "category": "markets",
+    "description": "Abacus"
+  },
+  {
+    "indicator": "http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion",
+    "category": "markets",
+    "description": "DARK LEAK MARKET"
+  },
+  {
+    "indicator": "http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion",
+    "category": "markets",
+    "description": "AlphaBay (Dark Tor)"
+  },
+  {
+    "indicator": "http://asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion",
+    "category": "markets",
+    "description": "ASEAN"
+  },
+  {
+    "indicator": "http://awazonsnag7pv4jxhfeiw37nuibg3gibokou2sawcgucapt3d2tyggid.onion",
+    "category": "markets",
+    "description": "Amazon Market"
+  },
+  {
+    "indicator": "http://ba72lxa2o2qxqixzeubnbookar2kssk42ds63m2qvlnr7b4oqtyayvad.onion",
+    "category": "markets",
+    "description": "MegaCiti"
+  },
+  {
+    "indicator": "http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion",
+    "category": "markets",
+    "description": "BLACKPASS"
+  },
+  {
+    "indicator": "http://bohemia65jifi6rj3dcvu23tks5teidk6wllndg62vb37f57e6ymtgid.onion",
+    "category": "markets",
+    "description": "BOHEMIA"
+  },
+  {
+    "indicator": "http://bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion",
+    "category": "markets",
+    "description": "BOHEMIA"
+  },
+  {
+    "indicator": "http://brok3r7bhcblynwpoymgarr6zwcy4ttfbhkhcmotz4lw2gcsuojgaeqd.onion/",
+    "category": "markets",
+    "description": "BR0K3R"
+  },
+  {
+    "indicator": "http://cabyceogpsji73sske5nvo45mdrkbz4m3qd3iommf3zaaa6izg3j2cqd.onion",
+    "category": "markets",
+    "description": "CABYC"
+  },
+  {
+    "indicator": "http://cardpl74ltmwe4o7pgpefljcng6qr36cnn7gzer2wermedxz3volxkqd.onion",
+    "category": "markets",
+    "description": "CAREBBAEN (Deep)"
+  },
+  {
+    "indicator": "http://cdumhlyjn3q6rzed5jtqzramrtznaahics5d2zhpspstw5stfkew3qqd.onion",
+    "category": "markets",
+    "description": "CREDIT CARD DUMPS (Deep)"
+  },
+  {
+    "indicator": "http://crimemosjicmij6jqtwww7wm2rmor5ymrs6wha6tzyiisxhy34go5sid.onion/",
+    "category": "markets",
+    "description": "CRIMEMARKET (Dark)"
+  },
+  {
+    "indicator": "http://csalryx3xenotyljyttsju6jfthrjyt6ijwd3zzykhkpyfoeao2nxaqd.onion",
+    "category": "markets",
+    "description": "CC SALE (Deep)"
+  },
+  {
+    "indicator": "http://cvvamoggrcopaeehscyic6xu3q5lbameo3kv3q3ptpfa5bsq2vrbjsad.onion",
+    "category": "markets",
+    "description": "WINXXX (Dark)"
+  },
+  {
+    "indicator": "http://darkclub7swbzf2ndqowmijp735urtfv6vp5z327vdga5iltlwzyapid.onion//",
+    "category": "markets",
+    "description": "DARKCLUB (Onion Site 2"
+  },
+  {
+    "indicator": "http://darkclubolst4fiquh7eodn3gffa4jr3y6nrfdxxii3hboulgotjj4ad.onion",
+    "category": "markets",
+    "description": "DARKCLUB (Onion Site)"
+  },
+  {
+    "indicator": "http://darkhuo35yiohrsdlbdhhrtl5ds7jtv5x2cjusqqebalj5vtrdqgqoid.onion",
+    "category": "markets",
+    "description": "DARK TOOLS (Deep)"
+  },
+  {
+    "indicator": "http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion",
+    "category": "markets",
+    "description": "DARK LEAK MARKET"
+  },
+  {
+    "indicator": "http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion",
+    "category": "markets",
+    "description": "DARK LEAK MARKET"
+  },
+  {
+    "indicator": "http://darkmat3kdxestusl437urshpsravq7oqb7t3m36u2l62vnmmldzdmid.onion",
+    "category": "markets",
+    "description": "Dark Matter"
+  },
+  {
+    "indicator": "http://darkmmk3owyft4zzg3j3t25ri4z5bw7klapq6q3l762kxra72sli4mid.onion",
+    "category": "markets",
+    "description": "Dark Matter"
+  },
+  {
+    "indicator": "http://darkmmro6j5xekpe7jje74maidkkkkw265nngjqxrv4ik7v3aiwdbtad.onion",
+    "category": "markets",
+    "description": "Dark Matter"
+  },
+  {
+    "indicator": "http://database6e2t4yvdsrbw3qq6votzyfzspaso7sjga2tchx6tov23nsid.onion",
+    "category": "markets",
+    "description": "DATABASE"
+  },
+  {
+    "indicator": "http://dq7hdxbxxw4sjssigwq4tivo22dpurpy65f7xqqcdesf4jzq5tsh7did.onion/",
+    "category": "markets",
+    "description": "DarkSsasinsShop"
+  },
+  {
+    "indicator": "http://exodusyzzpcnxxvpqoyyv3g4yvcy2zbfj4u7jxb56mlcfguqvehyjeqd.onion",
+    "category": "markets",
+    "description": "EXODUS MARKET"
+  },
+  {
+    "indicator": "http://fa72ibhl677j77dq4rt6bmiplwhpfymq2glwl5e2i563vkrcg4elfkyd.onion",
+    "category": "markets",
+    "description": "FIREARMS 72 (Deep)"
+  },
+  {
+    "indicator": "http://flydedxmmddhgt3vfhv6om63ra2u2x4jxginulhxb6nzcnj3wwgavwyd.onion",
+    "category": "markets",
+    "description": "Russian Market (Tor v3)"
+  },
+  {
+    "indicator": "http://infinityvzoe2ldb74y2klk7cs3nda2n3qozdy7sdgfouqrzfkp64sid.onion",
+    "category": "markets",
+    "description": "INFINITY SHOP"
+  },
+  {
+    "indicator": "http://intelrepository.com/",
+    "category": "markets",
+    "description": "Intel Repository - Sale of Defense Contractor and Military Files"
+  },
+  {
+    "indicator": "http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion",
+    "category": "markets",
+    "description": "ETERNITY"
+  },
+  {
+    "indicator": "http://marketir7joj2ibuouojg2nwkdwfal5dhisp3g246jl4ur7r7zfvloid.onion",
+    "category": "markets",
+    "description": "Iran Info Marketplace"
+  },
+  {
+    "indicator": "http://masterc2oss6cmeiwd6hzz44ghjdvkw2og6zv5iczcrssrbkrbuhn3qd.onion",
+    "category": "markets",
+    "description": "CVV SHOP DUMPS"
+  },
+  {
+    "indicator": "http://nexus2bmba34euohk3xo7og2zelkgbtc2p7rjsbxrjjknlecja2tdvyd.onion/categoria-produto/malware",
+    "category": "markets",
+    "description": "NEXUS"
+  },
+  {
+    "indicator": "http://p5eg3xsssjglu6tvwfazp2nqqwfpah55wr3ljil2bezp5shix5ruqsqd.onion",
+    "category": "markets",
+    "description": "DARKFOX MARKET"
+  },
+  {
+    "indicator": "http://preplyqxgvapegf44xvv3c2kgccyi7enmcbqpck63j54c6av4fj2e2qd.onion",
+    "category": "markets",
+    "description": "PREPAID CARD STORE (Deep)"
+  },
+  {
+    "indicator": "http://r4hyxmieadsyhnqzccmib45qtwa3x74gpnp24ovicuiuc5jzj3jxj2ad.onion",
+    "category": "markets",
+    "description": "RONDA STORE (Tor v3)"
+  },
+  {
+    "indicator": "http://rescatorfof3pwgux4olwxxcd22yjtuj72kmdltyr6tsr6jfohpnhead.onion",
+    "category": "markets",
+    "description": "RESCATOR (Tor v3)"
+  },
+  {
+    "indicator": "http://rondastore.cc",
+    "category": "markets",
+    "description": "RONDA STORE (Deep)"
+  },
+  {
+    "indicator": "http://royalyygxzq5fadtlgzftq3dwpdycq4gvddmvhrk3l2gjzsfqqwpvwad.onion",
+    "category": "markets",
+    "description": "Royal Market (Tor v3)"
+  },
+  {
+    "indicator": "http://rumarkstror5mvgzzodqizofkji3fna7lndfylmzeisj5tamqnwnr4ad.onion",
+    "category": "markets",
+    "description": "Russian Market (Tor v3)"
+  },
+  {
+    "indicator": "http://si3ttdyjjv63plkkwjlriztnwe5lb4ytke3llowegad4hdqfd5sm32yd.onion",
+    "category": "markets",
+    "description": "SOLOMON"
+  },
+  {
+    "indicator": "http://sn2sfdqay6cxztroslaxa36covrhoowe6a5xug6wlm6ek7nmeiujgvad.onion",
+    "category": "markets",
+    "description": "ARES"
+  },
+  {
+    "indicator": "http://solozr5dlwosdsfwtem4yfmpfh6orhzee7dbpv4dsjdsthnlur4cguqd.onion",
+    "category": "markets",
+    "description": "SOLOMON"
+  },
+  {
+    "indicator": "http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/user/login",
+    "category": "markets",
+    "description": "INDUSTRIAL SPY"
+  },
+  {
+    "indicator": "http://styxmark3zy6wt3v3wdz34vrppxu35gkqp7vmuhiovykmbevibqkvtyd.onion",
+    "category": "markets",
+    "description": "STYX - TOR"
+  },
+  {
+    "indicator": "http://thematrixskwaxyerq6zjv3jtklxj7lumztuavofiwtkrcyagh4jk3id.onion",
+    "category": "markets",
+    "description": "THE MATRIX - Card Market"
+  },
+  {
+    "indicator": "http://tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion",
+    "category": "markets",
+    "description": "THEMAJESTIC"
+  },
+  {
+    "indicator": "http://undeb6m465pjocdl6kvyiwefj5xxzcu3hgzngpfe5eolw764suu5v3id.onion",
+    "category": "markets",
+    "description": "UNDERGROUND MARKET (Deep)"
+  },
+  {
+    "indicator": "http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion",
+    "category": "markets",
+    "description": "VICE CITY"
+  },
+  {
+    "indicator": "http://vice3nwnin46cmmvg4j3wd3xguaaiwlwzxt2mxkd5ng6ougfcu4rdfid.onion",
+    "category": "markets",
+    "description": "VICE CITY"
+  },
+  {
+    "indicator": "http://viceagrs476vms3hlgotcimao4lwnpz2ffpvgbdnbeqwu74g47z4usyd.onion",
+    "category": "markets",
+    "description": "VICE CITY"
+  },
+  {
+    "indicator": "http://vorodtm2plbuobna3wmkifs53saq4mlv5v7ye5ltj25puxsbt7hdrwqd.onion",
+    "category": "markets",
+    "description": "VORON MARKET (Deep)"
+  },
+  {
+    "indicator": "http://wannab666qqm2nhtkqmwwps3x2wu2bv33ayvmf4jyb6g3ibmitdzkcyd.onion",
+    "category": "markets",
+    "description": "Wannabuy RDP"
+  },
+  {
+    "indicator": "http://waus.me",
+    "category": "markets",
+    "description": "WAUS LEAKS(new)"
+  },
+  {
+    "indicator": "http://waus.ninja",
+    "category": "markets",
+    "description": "WAUS LEAKS(new)"
+  },
+  {
+    "indicator": "http://wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion",
+    "category": "markets",
+    "description": "MGM GRAND"
+  },
+  {
+    "indicator": "http://wolft3xm254bvmv63hoe5v66kazyp7qoy2donh6fniwhur3qfynwljad.onion",
+    "category": "markets",
+    "description": "WOLF BANK HACKER (Deep)"
+  },
+  {
+    "indicator": "http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion",
+    "category": "markets",
+    "description": "XLEET (Dark)"
+  },
+  {
+    "indicator": "https://0-day.shop",
+    "category": "markets",
+    "description": "0-DAY"
+  },
+  {
+    "indicator": "https://1977.ws/",
+    "category": "markets",
+    "description": "Darth maul shop"
+  },
+  {
+    "indicator": "https://2easy.cc",
+    "category": "markets",
+    "description": "2EASY"
+  },
+  {
+    "indicator": "https://authorizecvv.cc",
+    "category": "markets",
+    "description": "AUTHORIZE CVV"
+  },
+  {
+    "indicator": "https://authorizecvv.io",
+    "category": "markets",
+    "description": "AUTHORIZE CVV"
+  },
+  {
+    "indicator": "https://b-p.sale/",
+    "category": "markets",
+    "description": "B-P Market"
+  },
+  {
+    "indicator": "https://b1nd.net",
+    "category": "markets",
+    "description": "B1ND.NET"
+  },
+  {
+    "indicator": "https://bidencash.dog",
+    "category": "markets",
+    "description": "BIDEN CASH"
+  },
+  {
+    "indicator": "https://bidencash.eu",
+    "category": "markets",
+    "description": "BIDEN CASH"
+  },
+  {
+    "indicator": "https://bidencash.fan",
+    "category": "markets",
+    "description": "BIDEN CASH"
+  },
+  {
+    "indicator": "https://bidencash.icu",
+    "category": "markets",
+    "description": "BIDEN CASH"
+  },
+  {
+    "indicator": "https://bidencash.news",
+    "category": "markets",
+    "description": "BIDEN CASH"
+  },
+  {
+    "indicator": "https://bidencash.works",
+    "category": "markets",
+    "description": "BIDEN CASH"
+  },
+  {
+    "indicator": "https://bidencash.wtf",
+    "category": "markets",
+    "description": "BIDEN CASH"
+  },
+  {
+    "indicator": "https://bidencash.zone",
+    "category": "markets",
+    "description": "BIDEN CASH"
+  },
+  {
+    "indicator": "https://blackbones.net",
+    "category": "markets",
+    "description": "BLACKBONES"
+  },
+  {
+    "indicator": "https://brainsclub.to",
+    "category": "markets",
+    "description": "BRAINSCLUB"
+  },
+  {
+    "indicator": "https://briansclub.cm",
+    "category": "markets",
+    "description": "BRIAN'S CLUB"
+  },
+  {
+    "indicator": "https://carding.store",
+    "category": "markets",
+    "description": "CARD STORE"
+  },
+  {
+    "indicator": "https://cardingteam.ru",
+    "category": "markets",
+    "description": "CARDING TEAM"
+  },
+  {
+    "indicator": "https://cardvilla.cc",
+    "category": "markets",
+    "description": "CARDVILLA"
+  },
+  {
+    "indicator": "https://crimemarket.is",
+    "category": "markets",
+    "description": "CRIMEMARKET"
+  },
+  {
+    "indicator": "https://cvv.ms",
+    "category": "markets",
+    "description": "WINXXX (Deep)"
+  },
+  {
+    "indicator": "https://darkclub.pw/",
+    "category": "markets",
+    "description": "DARKCLUB"
+  },
+  {
+    "indicator": "https://delta-marketplace.sellix.io/",
+    "category": "markets",
+    "description": "Delta Marketplace"
+  },
+  {
+    "indicator": "https://exodusmarket.io",
+    "category": "markets",
+    "description": "EXODUS MARKET"
+  },
+  {
+    "indicator": "https://exodusmarket.vc",
+    "category": "markets",
+    "description": "EXODUS MARKET"
+  },
+  {
+    "indicator": "https://freshtools.net",
+    "category": "markets",
+    "description": "FreshTools"
+  },
+  {
+    "indicator": "https://hustlers.ly/",
+    "category": "markets",
+    "description": "Hustlers"
+  },
+  {
+    "indicator": "https://hydramarket.co",
+    "category": "markets",
+    "description": "HYDRA (Deep)"
+  },
+  {
+    "indicator": "https://lolz.guru/",
+    "category": "markets",
+    "description": "LOLZ.GURU"
+  },
+  {
+    "indicator": "https://luxecc.net",
+    "category": "markets",
+    "description": "LuxeCC"
+  },
+  {
+    "indicator": "https://magbo.shop",
+    "category": "markets",
+    "description": "MAGBO (Deep)"
+  },
+  {
+    "indicator": "https://nohide.space",
+    "category": "markets",
+    "description": "NOHIDE"
+  },
+  {
+    "indicator": "https://odin.pm",
+    "category": "markets",
+    "description": "ODIN"
+  },
+  {
+    "indicator": "https://odin.pw",
+    "category": "markets",
+    "description": "ODIN"
+  },
+  {
+    "indicator": "https://odinshop.io",
+    "category": "markets",
+    "description": "ODIN"
+  },
+  {
+    "indicator": "https://odinshop.se",
+    "category": "markets",
+    "description": "ODIN"
+  },
+  {
+    "indicator": "https://odinshoyi3y5clejn3klyggxrmq5sy5efdiremz353z6ucdujgdiccad.onion",
+    "category": "markets",
+    "description": "ODIN"
+  },
+  {
+    "indicator": "https://orvx.pw/",
+    "category": "markets",
+    "description": "ORVX SHOP"
+  },
+  {
+    "indicator": "https://pois0ncc.ru",
+    "category": "markets",
+    "description": "Pois0n"
+  },
+  {
+    "indicator": "https://probiv.one",
+    "category": "markets",
+    "description": "PROBIV"
+  },
+  {
+    "indicator": "https://rescator.cn",
+    "category": "markets",
+    "description": "RESCATOR"
+  },
+  {
+    "indicator": "https://rm1.to",
+    "category": "markets",
+    "description": "Russian Market (Deep)"
+  },
+  {
+    "indicator": "https://rm1.vc",
+    "category": "markets",
+    "description": "Russian Market (Deep)"
+  },
+  {
+    "indicator": "https://rondastore.vip",
+    "category": "markets",
+    "description": "RONDA STORE (Deep - mirror)"
+  },
+  {
+    "indicator": "https://russianmarket.vc",
+    "category": "markets",
+    "description": "Russian Market (Deep)"
+  },
+  {
+    "indicator": "https://savastan0.tools/",
+    "category": "markets",
+    "description": "Savastan0"
+  },
+  {
+    "indicator": "https://shadowcarders.com",
+    "category": "markets",
+    "description": "SHADOWCARDERS"
+  },
+  {
+    "indicator": "https://st-market.link",
+    "category": "markets",
+    "description": "STYX - Access Links List (2)"
+  },
+  {
+    "indicator": "https://stealseek.io",
+    "category": "markets",
+    "description": "STEALSEEK"
+  },
+  {
+    "indicator": "https://styxmarket.to",
+    "category": "markets",
+    "description": "STYX"
+  },
+  {
+    "indicator": "https://styxmarket.vg",
+    "category": "markets",
+    "description": "STYX - Access Links List (1)"
+  },
+  {
+    "indicator": "https://swipestore.cc",
+    "category": "markets",
+    "description": "SWIPESTORE"
+  },
+  {
+    "indicator": "https://thematrixstore.at",
+    "category": "markets",
+    "description": "THE MATRIX - Card Market"
+  },
+  {
+    "indicator": "https://thematrixstore.org",
+    "category": "markets",
+    "description": "THE MATRIX - Card Market"
+  },
+  {
+    "indicator": "https://unicvv.ru",
+    "category": "markets",
+    "description": "UniCC"
+  },
+  {
+    "indicator": "https://whiteintel.io",
+    "category": "markets",
+    "description": "Stealer credential leaks"
+  },
+  {
+    "indicator": "https://xleet.is",
+    "category": "markets",
+    "description": "XLEET (Deep)"
+  },
+  {
+    "indicator": "https://zismo.biz",
+    "category": "markets",
+    "description": "ZISMO"
+  },
+  {
+    "indicator": "http://159.69.60.54",
+    "category": "ransomware_gang",
+    "description": "SENSAYQ (deep"
+  },
+  {
+    "indicator": "http://212.24.99.211",
+    "category": "ransomware_gang",
+    "description": "SATAN LOCK - CF7175635116009D235F2BC2C657CB4DF1B18317D4EADD30F8238C33E2D2116851C9344C774D"
+  },
+  {
+    "indicator": "http://22evxpggnkyrxpluewqsrv5j4jtde6hut2peq3w44d6ase676qlkoead.onion",
+    "category": "ransomware_gang",
+    "description": "CIPHERFORCE"
+  },
+  {
+    "indicator": "http://2c7nd54guzi6xhjyqrj5kdkrq2ngm2u3e6oy4nfhn3wm3r54ul2utiqd.onion",
+    "category": "ransomware_gang",
+    "description": "DAN0N"
+  },
+  {
+    "indicator": "http://2el6bpoz2ely34iqcmxsiicpdmzp37jjtsggxwukbk5jx6x6bdxbh3ad.onion",
+    "category": "ransomware_gang",
+    "description": "DARKMATTER"
+  },
+  {
+    "indicator": "http://2kieaq6jnwgrru62wwtxaafg35q6rzweg7y2xjfnbhvq5wd4eojqv6yd.onion",
+    "category": "ransomware_gang",
+    "description": "XPL0ITRS - Tox: FD714A3E7C0059EF70825AF78ED544880DC9990EBF9859B798CC8F2B03 - Session:05c8ae06e40a63cfd94d3307a3461ca668aa88bb18686083d6927e969249501075"
+  },
+  {
+    "indicator": "http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion",
+    "category": "ransomware_gang",
+    "description": "RED RANSOMWARE GROUP"
+  },
+  {
+    "indicator": "http://34o4m3f26ucyeddzpf53bksy76wd737nf2fytslovwd3viac3by5chad.onion",
+    "category": "ransomware_gang",
+    "description": "FRAG"
+  },
+  {
+    "indicator": "http://37lfmtakhknzx5t6k57ieijkiqrc4c3kpimfvrmafva25ut2tknvw3yd.onion",
+    "category": "ransomware_gang",
+    "description": "XP95 - session: 05d3d75e8370cfc72c7a563c9880995eaf4c33f1bd42a5d4e9cd65e713b190c934 - https://keybase.io/XP95 - https://breachforums.as/User-XP95"
+  },
+  {
+    "indicator": "http://3bnusfu2lgk5at43ceu7cdok5yv4gfbono2jv57ho74ucjvc7czirfid.onion/leaked-data",
+    "category": "ransomware_gang",
+    "description": "RADAR"
+  },
+  {
+    "indicator": "http://3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion",
+    "category": "ransomware_gang",
+    "description": "ABYSS"
+  },
+  {
+    "indicator": "http://3pxt6o2ipwnfbgqvknydkizry5fysq4jmktxmrnfdgiii4fdkwfsliqd.onion",
+    "category": "ransomware_gang",
+    "description": "BOLT"
+  },
+  {
+    "indicator": "http://3ytm3d25hfzvbylkxiwyqmpvzys5of7l4pbosm7ol7czlkplgukjq6yd.onion",
+    "category": "ransomware_gang",
+    "description": "SLUG"
+  },
+  {
+    "indicator": "http://47glxkuxyayqrvugfumgsblrdagvrah7gttfscgzn56eyss5wg3uvmqd.onion",
+    "category": "ransomware_gang",
+    "description": "TEAM UNDERGROUND"
+  },
+  {
+    "indicator": "http://4dwiv37h7hhuhjpvtn72hme4ylcv3qoe65arfc6mbweal7als6ma7pyd.onion",
+    "category": "ransomware_gang",
+    "description": "WALLSTREET"
+  },
+  {
+    "indicator": "http://4e3p3in2bl67hxchuwza7qvnpe7pyeloyztr5fnh257fxkovfhappjyd.onion",
+    "category": "ransomware_gang",
+    "description": "FULCRUMSEC - threatspians@fulcrumsec.net - 969F8BE40B09537CD2A5038B9DA4BADE71C5F35DD666CC0D7632A6812D7AF72626D422D22540 (Tox)"
+  },
+  {
+    "indicator": "http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion",
+    "category": "ransomware_gang",
+    "description": "M3RX"
+  },
+  {
+    "indicator": "http://4ldgw2wuidqu5ef3rzx4byonf3y7rdnh43jiw2z4sbtjiwic6gkov7yd.onion",
+    "category": "ransomware_gang",
+    "description": "BRAIN CIPHER (File Server)"
+  },
+  {
+    "indicator": "http://4zrjdyuq4sjogm2epwwoleegquavhwo3o7fakstnlgox6guqt3qpe4qd.onion",
+    "category": "ransomware_gang",
+    "description": "LGROUP - js677832@onionmail.org"
+  },
+  {
+    "indicator": "http://53d5skw4ypzku4bfq2tk2mr3xh5yqrzss25sooiubmjz67lb3gdivcad.onion",
+    "category": "ransomware_gang",
+    "description": "BLACKBYTE (6)"
+  },
+  {
+    "indicator": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion",
+    "category": "ransomware_gang",
+    "description": "SPACEBEARS"
+  },
+  {
+    "indicator": "http://5g2e.l.time4vps.cloud",
+    "category": "ransomware_gang",
+    "description": "SATAN LOCK - CF7175635116009D235F2BC2C657CB4DF1B18317D4EADD30F8238C33E2D2116851C9344C774D"
+  },
+  {
+    "indicator": "http://5vphklgizbimeq5l4yt274p533fgirhqnjhjuppcp2ibteavmro5fzad.onion",
+    "category": "ransomware_gang",
+    "description": "DARK VAULT (mirror 1)"
+  },
+  {
+    "indicator": "http://62brsjf2w77ihz5paods33cdgqnon54gjns5nmag3hmqv6fcwamtkmad.onion",
+    "category": "ransomware_gang",
+    "description": "QIULONG"
+  },
+  {
+    "indicator": "http://6czlbd2jfiy6765fbnbnzuwuqocg57ebvp3tbm35kib425k4qnmiiiqd.onion",
+    "category": "ransomware_gang",
+    "description": "KAZU - Session: 054acad09eb2c78674f3371bc9fd24218bacff3326c3d259819bf6e78de3ac0e6a - @kazu_21 - @kazu_breach (Channel) - Signal: Signal : @kazu.517 - Exploit: forum.exploit.in/profile/203546-kazu/ - DF: darkforums.st/User-Kazu"
+  },
+  {
+    "indicator": "http://6doyqxqqj36vnedtt2zwxmngx52mgyp7brbrtwkyd75jgiolocoybgid.onion",
+    "category": "ransomware_gang",
+    "description": "VALENCIA"
+  },
+  {
+    "indicator": "http://6oeuvb4fq65xlrft2ezxjmkeqnu7oafbsevrr3ocer27wft6ivvhstqd.onion",
+    "category": "ransomware_gang",
+    "description": "GUNRA"
+  },
+  {
+    "indicator": "http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion",
+    "category": "ransomware_gang",
+    "description": "STORMOUS (BLOG 3)"
+  },
+  {
+    "indicator": "http://6xdpj3sb5kekvq5ulym5qqmzsv6ektjgvpmajns3qrafgxtyxrhokfqd.onion",
+    "category": "ransomware_gang",
+    "description": "VANIR"
+  },
+  {
+    "indicator": "http://77nrxelcwh47yikvpaz2rvtsten4sen2elybo5r5st6wlxsbitv255qd.onion",
+    "category": "ransomware_gang",
+    "description": "BRAIN CIPHER"
+  },
+  {
+    "indicator": "http://7i6sfmfvmqfaabjksckwrttu3nsbopl3xev2vbxbkghsivs5lqp4yeqd.onion",
+    "category": "ransomware_gang",
+    "description": "CRAZY HUNTER TEAM"
+  },
+  {
+    "indicator": "http://7t3zi3e7ki6iseun77ofqtr6wmbpgnpc2ada6gstcxp54lw6q2zb7jad.onion",
+    "category": "ransomware_gang",
+    "description": "BOOBA"
+  },
+  {
+    "indicator": "http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion",
+    "category": "ransomware_gang",
+    "description": "DAIXIN"
+  },
+  {
+    "indicator": "http://7zvu7njrx7q734kvk435ntuf37gfll2pu46fmrfoweczwpk2rhp444yd.onion",
+    "category": "ransomware_gang",
+    "description": "ECH0RAIX"
+  },
+  {
+    "indicator": "http://92.118.36.204",
+    "category": "ransomware_gang",
+    "description": "8BASE - https://t.me/eightbase - https://twitter.com/8BASEHOME"
+  },
+  {
+    "indicator": "http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion",
+    "category": "ransomware_gang",
+    "description": "Abrahams Ax (Dark)"
+  },
+  {
+    "indicator": "http://alphvuzxyxv6ylumd2ngp46xzq3pw6zflomrghvxeuks6kklberrbmyd.onion",
+    "category": "ransomware_gang",
+    "description": "ALPHV (aka BlackCat 2)"
+  },
+  {
+    "indicator": "http://apt73grpjgjwykrenq7vnjejue76vosdzptdvmonv7vyqnsyokrw57ad.onion/",
+    "category": "ransomware_gang",
+    "description": "APT73 (ERALEIG - Dark) - 9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group"
+  },
+  {
+    "indicator": "http://arkanabb66ee4nsdji6la2bu6bwqe3dbtsyf3rxrv6vhiehod7utagad.onion",
+    "category": "ransomware_gang",
+    "description": "ARKANA"
+  },
+  {
+    "indicator": "http://arvinc7prj6ln5wpd6yydfqulsyepoc7aowngpznbn3lrap2aib6teid.onion",
+    "category": "ransomware_gang",
+    "description": "ARVIN"
+  },
+  {
+    "indicator": "http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion",
+    "category": "ransomware_gang",
+    "description": "AVOS (Victims request ID page)"
+  },
+  {
+    "indicator": "http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion",
+    "category": "ransomware_gang",
+    "description": "AVOS - YES"
+  },
+  {
+    "indicator": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion",
+    "category": "ransomware_gang",
+    "description": "BLACKSHRANTAC"
+  },
+  {
+    "indicator": "http://b4riuxx7ypobdptctf6lyfcvgi6vn74iurzdh4kn2agbk7472dvywgyd.onion",
+    "category": "ransomware_gang",
+    "description": "ALP-001"
+  },
+  {
+    "indicator": "http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion",
+    "category": "ransomware_gang",
+    "description": "APT73 (BASHEE) - 9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://twitter.com/bashe_team - bashe.team@onionmail.org - @bashe_team"
+  },
+  {
+    "indicator": "http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion/",
+    "category": "ransomware_gang",
+    "description": "APT73 (ERALEIG - Dark) - 9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group"
+  },
+  {
+    "indicator": "http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion",
+    "category": "ransomware_gang",
+    "description": "APT73 (BASHEE) - 9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://twitter.com/bashe_team - bashe.team@onionmail.org - @bashe_team"
+  },
+  {
+    "indicator": "http://basherykagbxoaiaxkgqhmhd5gbmedwb3di4ig3ouovziagosv4n77qd.onion",
+    "category": "ransomware_gang",
+    "description": "APT73 (BASHEE) - 9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://twitter.com/bashe_team - bashe.team@onionmail.org - @bashe_team"
+  },
+  {
+    "indicator": "http://bashete63b3gcijfofpw6fmn3rwnmyi5aclp55n6awcfbexivexbhyad.onion",
+    "category": "ransomware_gang",
+    "description": "APT73 (BASHEE) - 9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://twitter.com/bashe_team - bashe.team@onionmail.org - @bashe_team"
+  },
+  {
+    "indicator": "http://bashex7mokreyoxl6wlswxl4foi7okgs7or7aergnuiockuoq35yt3ad.onion",
+    "category": "ransomware_gang",
+    "description": "APT73 (BASHEE) - 9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://twitter.com/bashe_team - bashe.team@onionmail.org - @bashe_team"
+  },
+  {
+    "indicator": "http://bdhjur3agrogoxvwobbzpptkxhyewnjrhzqj4ug2dyfhf3dopyvvurid.onion",
+    "category": "ransomware_gang",
+    "description": "Mamona RANSOMWARE (Victims page)"
+  },
+  {
+    "indicator": "http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion",
+    "category": "ransomware_gang",
+    "description": "BEAST"
+  },
+  {
+    "indicator": "http://benzona6x5ggng3hx52h4mak5sgx5vukrdlrrd3of54g2uppqog2joyd.onion",
+    "category": "ransomware_gang",
+    "description": "BENZONA - 7308E8CFE8AA18D718B5EF44C34A2E5E2C90B7FDB150FA2EC31E995F5F4B23044A98802A4DF0 - Twitter: @InfinityLeak"
+  },
+  {
+    "indicator": "http://bertblogsoqmm4ow7nqyh5ik7etsmefdbf25stauecytvwy7tkgizhad.onion",
+    "category": "ransomware_gang",
+    "description": "BERT"
+  },
+  {
+    "indicator": "http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion",
+    "category": "ransomware_gang",
+    "description": "BIANLIAN - A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC"
+  },
+  {
+    "indicator": "http://bianliaoxoeriowgqohcly4a6sbkpc3se2yvxgidxomxlpuhx5ehrpad.onion",
+    "category": "ransomware_gang",
+    "description": "BIANLIAN - A8AD0FD4C931CDAA1408D5A60CBF38CEDF46B41E19A8A55E4EF1F1848AF3416AE52D278D37DF"
+  },
+  {
+    "indicator": "http://bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion",
+    "category": "ransomware_gang",
+    "description": "BIANLIAN"
+  },
+  {
+    "indicator": "http://black3gnkizshuynieigw6ejgpblb53mpasftzd6pydqpmq2vn2xf6yd.onion",
+    "category": "ransomware_gang",
+    "description": "BLACKOUT - 36A73D90C66948D9268BDC4174A40E0064C43F10A35AEAA9DD74B3A14EF5654872D5DC67FC14"
+  },
+  {
+    "indicator": "http://blog6zw62uijolee7e6aqqnqaszs3ckr5iphzdzsazgrpvtqtjwqryid.onion",
+    "category": "ransomware_gang",
+    "description": "CRYPTNET"
+  },
+  {
+    "indicator": "http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion",
+    "category": "ransomware_gang",
+    "description": "MONEYMESSAGE"
+  },
+  {
+    "indicator": "http://bluewh6bk2qt6wjib7qxdtplhgbwbi3p7cgofwnshfl5xo3xgwgstrid.onion",
+    "category": "ransomware_gang",
+    "description": "BLUE WHALE - samueladamsn344@proton.me"
+  },
+  {
+    "indicator": "http://brain4zoadgr6clxecixffvxjsw43cflyprnpfeak72nfh664kqqriyd.onion",
+    "category": "ransomware_gang",
+    "description": "BRAIN CIPHER"
+  },
+  {
+    "indicator": "http://bravoxxtrmqeeevhl7gdh2yzvlrjxajr66d33c7ozosrccx4cz7cepad.onion",
+    "category": "ransomware_gang",
+    "description": "BRAVOX"
+  },
+  {
+    "indicator": "http://brohoodyaifh2ptccph5zfljyajjabwjjo4lg6gfp4xb6ynw5w7ml6id.onion",
+    "category": "ransomware_gang",
+    "description": "BROTHERHOOD - 138A7107FE83F6CBC03A43D484C17CCBF7E6ED5060792D6AFB1BE4358FB9482831B0033BACB0"
+  },
+  {
+    "indicator": "http://bs2tlg32pfjwmclm22cyngqmoo24cdlhfxzbruwrdaxumisfeory32qd.onion",
+    "category": "ransomware_gang",
+    "description": "REYNOLDS"
+  },
+  {
+    "indicator": "http://business-data-leaks.com",
+    "category": "ransomware_gang",
+    "description": "LEAKED DATA"
+  },
+  {
+    "indicator": "http://bxwu33iefqfc3rxigynn3ghvq4gdw3gxgxna5m4aa3o4vscdeeqhiqad.onion",
+    "category": "ransomware_gang",
+    "description": "BABUK v2"
+  },
+  {
+    "indicator": "http://c2mdhim6btaiyae3xqthnxsz64brvdxsnbty4tvos65zb565y4v55iid.onion",
+    "category": "ransomware_gang",
+    "description": "PRYX (dark web) - 141C8F13F4B7A4C2EED05A29186AE10F8E849AE4AC2C3E7B167FD27B316E026A42B75D5AE83C"
+  },
+  {
+    "indicator": "http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion",
+    "category": "ransomware_gang",
+    "description": "BLUE SKY (Victims request ID Page)"
+  },
+  {
+    "indicator": "http://cephalus6oiypuwumqlwurvbmwsfglg424zjdmywfgqm4iehkqivsjyd.onion",
+    "category": "ransomware_gang",
+    "description": "CEPHALUS"
+  },
+  {
+    "indicator": "http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion",
+    "category": "ransomware_gang",
+    "description": "CICADA3301"
+  },
+  {
+    "indicator": "http://ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion",
+    "category": "ransomware_gang",
+    "description": "CIPHBIT - 5B85F0F52F989C42FE18A08351D4B9F50D7A9832DBE4A068346DE35D5CF8F410BF89FA7A7AFF"
+  },
+  {
+    "indicator": "http://cjfntkj5qeizxowuy3srceg7zo6namc3kfeor7pfn6bpdkl3w265ooid.onion",
+    "category": "ransomware_gang",
+    "description": "ORION"
+  },
+  {
+    "indicator": "http://cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion",
+    "category": "ransomware_gang",
+    "description": "CLOAK"
+  },
+  {
+    "indicator": "http://cmdnkiqjije2tllr3biee2sjgj3i4robg2cbtilbnytdhh2wy3syrlyd.onion",
+    "category": "ransomware_gang",
+    "description": "CMD ORGANIZATION"
+  },
+  {
+    "indicator": "http://cpjhb63lxycwbyus2n35ddyhdzxhf756l4rtwdttojzhzgppt3vpmsqd.onion",
+    "category": "ransomware_gang",
+    "description": "BENZONA (File Server) - 7308E8CFE8AA18D718B5EF44C34A2E5E2C90B7FDB150FA2EC31E995F5F4B23044A98802A4DF0 - Twitter: @InfinityLeak"
+  },
+  {
+    "indicator": "http://cryoblogedawivdcknyd4jsjxkrx3xrqqltxla6wwjjnzm3f3jaxjzqd.onion",
+    "category": "ransomware_gang",
+    "description": "CRY0 - 54E9450799AFBBA90992E3C40F552C8C05D5765144396C6A1A622FD9DABD01101F9DC0CF90F4"
+  },
+  {
+    "indicator": "http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion",
+    "category": "ransomware_gang",
+    "description": "CRYPTNET (Victims request ID Page)"
+  },
+  {
+    "indicator": "http://crypuglupv3bsqnbt5ruu5lgwrwoaojscwhuoccbmbzmcidft5kiccqd.onion",
+    "category": "ransomware_gang",
+    "description": "CRYPTBB"
+  },
+  {
+    "indicator": "http://ctyfftrjgtwdjzlgqh4avbd35sqrs6tde4oyam2ufbjch6oqpqtkdtid.onion",
+    "category": "ransomware_gang",
+    "description": "BLACK NEVAS"
+  },
+  {
+    "indicator": "http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion",
+    "category": "ransomware_gang",
+    "description": "CUBA - 37790E2D198DFD20C9D2887D4EF7C3E2951BB84248D192689B64DCCA3C8BD808A1895676B271"
+  },
+  {
+    "indicator": "http://cx5u7zxbvrfyoj6ughw76oa264ucuuizmmzypwum6ear7pct4yc723qd.onion",
+    "category": "ransomware_gang",
+    "description": "MEDUSA"
+  },
+  {
+    "indicator": "http://d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd.onion",
+    "category": "ransomware_gang",
+    "description": "D4rk4rmy"
+  },
+  {
+    "indicator": "http://darkshiz4d5ayumjvgbdhchwc7oeuc5jgbqkkgr2jj3ga5nvpjsswdad.onion",
+    "category": "ransomware_gang",
+    "description": "DARK SHINIGAMIS"
+  },
+  {
+    "indicator": "http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion",
+    "category": "ransomware_gang",
+    "description": "EL DORADO/BLACKLOCK"
+  },
+  {
+    "indicator": "http://dcarryhaih5oldidg3tbqwnde4lxljytnpvberrwgj2vlvunopd46dad.onion",
+    "category": "ransomware_gang",
+    "description": "DATA CARRY"
+  },
+  {
+    "indicator": "http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion/",
+    "category": "ransomware_gang",
+    "description": "DevMan"
+  },
+  {
+    "indicator": "http://dhnsppqjaaa22lsqxl2tfhji4ca43743kubltnodvsft3hkvai77p6ad.onion",
+    "category": "ransomware_gang",
+    "description": "AILOCK"
+  },
+  {
+    "indicator": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion",
+    "category": "ransomware_gang",
+    "description": "DIRE WOLF - B344BECDC01A1282F69CB82979F40439E15E1FD1EF1FE9748EE467F5869E2148E6F1E55959E2"
+  },
+  {
+    "indicator": "http://dirone3rl3vvq64ckcnrvhe2ogrhjrwu5u7hqzrlotu3rfvmqmmbsuqd.onion",
+    "category": "ransomware_gang",
+    "description": "D1R"
+  },
+  {
+    "indicator": "http://dk4mkfzqai6ure62oukzgtypedmwlfq57yj2fube7j5wsoi6tuia7nyd.onion",
+    "category": "ransomware_gang",
+    "description": "DONUT DLS (new)"
+  },
+  {
+    "indicator": "http://dkgn45pinr7nwvdaehemcrpgcjqf4fooit3c4gjw6dhzrp443ctvnoad.onion",
+    "category": "ransomware_gang",
+    "description": "MOGILEVICH"
+  },
+  {
+    "indicator": "http://dlmfciajg5s4vliyo5dhs5jyzhi2xr2fnkebul46lpf4xudtqiue4nid.onion",
+    "category": "ransomware_gang",
+    "description": "MEDUSA"
+  },
+  {
+    "indicator": "http://dounczge5jhw4iztnnpzp54kd4ot3tikhjsimurtcewqssgye6vvrhqd.onion",
+    "category": "ransomware_gang",
+    "description": "BLACKBYTE (7)"
+  },
+  {
+    "indicator": "http://dzkxxcsbrg7bwnlwwer563yuxd5pesr42dx634w5xvofm5z6qjw72ayd.onion",
+    "category": "ransomware_gang",
+    "description": "LOKI - 7290408F9A2C4D60FB77CB9CEE25E177F07C47BD22A437137CB4E60D3B1C692EBB1BA203A90F (Tox)"
+  },
+  {
+    "indicator": "http://e27z5kd2rjsern2gpgukhcioysqlfquxgf7rxpvcwepxl4lfc736piyd.onion/",
+    "category": "ransomware_gang",
+    "description": "DISPOSSESSOR (Dark)"
+  },
+  {
+    "indicator": "http://e6ujsppajgb756x7x5ykdryvlcjynltb52eiwi6pd4bfwo6hddd6neid.onion",
+    "category": "ransomware_gang",
+    "description": "ICARUS - 0530cecee355f7d0723f3990c6bfb562e29829687f16b5840ad85e18ebc80c6d6b"
+  },
+  {
+    "indicator": "http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion",
+    "category": "ransomware_gang",
+    "description": "INTERLOCK"
+  },
+  {
+    "indicator": "http://eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion",
+    "category": "ransomware_gang",
+    "description": "ECLIPSE"
+  },
+  {
+    "indicator": "http://ejzl7cjxmkx7lzhiqwidmrwtfjv45pkczbc4fnyaut3t7gll3yaiq5id.onion",
+    "category": "ransomware_gang",
+    "description": "BLACK WATER"
+  },
+  {
+    "indicator": "http://elqfbcx5nofwtqfookqml7ltx2g6q6tmddys6e25vgu3al2meim6cbqd.onion",
+    "category": "ransomware_gang",
+    "description": "WARLOCK"
+  },
+  {
+    "indicator": "http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion",
+    "category": "ransomware_gang",
+    "description": "EMBARGO"
+  },
+  {
+    "indicator": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion",
+    "category": "ransomware_gang",
+    "description": "EMPERADOR"
+  },
+  {
+    "indicator": "http://epovhlzpj3grgld7vxr2mnk33dz5rdb4kdcp44f5r527rvhwhxna.b32.i2p",
+    "category": "ransomware_gang",
+    "description": "BIANLIAN (I2P mirror) - A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC"
+  },
+  {
+    "indicator": "http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion",
+    "category": "ransomware_gang",
+    "description": "EVEREST"
+  },
+  {
+    "indicator": "http://exfil5gqmbxrg6yky5aeitkdj7kfwxxjh3wxzrtlewjqi2x67o634iyd.onion",
+    "category": "ransomware_gang",
+    "description": "EXFILSQUAD"
+  },
+  {
+    "indicator": "http://f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion",
+    "category": "ransomware_gang",
+    "description": "RANSOMED (Dark Web) - https://twitter.com/RansomedVC"
+  },
+  {
+    "indicator": "http://fewcriet5rhoy66k6c4cyvb2pqrblxtx4mekj3s5l4jjt4t4kn4vheyd.onion",
+    "category": "ransomware_gang",
+    "description": "YUREI"
+  },
+  {
+    "indicator": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion",
+    "category": "ransomware_gang",
+    "description": "COINBASE CARTEL - 1225DDE01980D7C7890A90E359EF4406D74DF7DB94F6C5F3B8378BB78444473022675C49FACB"
+  },
+  {
+    "indicator": "http://flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion",
+    "category": "ransomware_gang",
+    "description": "FSOCIETY"
+  },
+  {
+    "indicator": "http://fpwwt67hm3mkt6hdavkfyqi42oo3vkaggvjj4kxdr2ivsbzyka5yr2qd.onion/",
+    "category": "ransomware_gang",
+    "description": "RANSOM HUB Archives"
+  },
+  {
+    "indicator": "http://funksecsekgasgjqlzzkmcnutrrrafavpszijoilbd6z3dkbzvqu43id.onion",
+    "category": "ransomware_gang",
+    "description": "FUNKSEC"
+  },
+  {
+    "indicator": "http://funkxxkovrk7ctnggbjnthdajav4ggex53k6m2x3esjwlxrkb3qiztid.onion",
+    "category": "ransomware_gang",
+    "description": "FUNKSEC"
+  },
+  {
+    "indicator": "http://g3h3klsev3eiofxhykmtenmdpi67wzmaixredk5pjuttbx7okcfkftqd.onion",
+    "category": "ransomware_gang",
+    "description": "DONEX"
+  },
+  {
+    "indicator": "http://gammax6w3dkfdjfrjthtmqzsioue52vzy6lz54qy6jcvmogfpubutjyd.onion",
+    "category": "ransomware_gang",
+    "description": "GAMMAX - 536976A38B4C32F04AFD426CD44B77340028FA338FD58236F533872CB6D7F63B63C99A6A0B30"
+  },
+  {
+    "indicator": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion",
+    "category": "ransomware_gang",
+    "description": "GENESIS"
+  },
+  {
+    "indicator": "http://gg6owuhu72muoelkt2msjrp2llwr2on5634sk5v2xefzmobvryywbhid.onion",
+    "category": "ransomware_gang",
+    "description": "RANSOMCORTEX"
+  },
+  {
+    "indicator": "http://gmixcebhni6c3kcf5m7xxybomaphj7pizoqtxiqmrz5wsh6g6x5s2wqd.onion",
+    "category": "ransomware_gang",
+    "description": "SENSAYQ (dark)"
+  },
+  {
+    "indicator": "http://gookie256cvccntvenyxrvn7ht73bs6ss3oj2ocfkjt5y6vq6gfi2tad.onion",
+    "category": "ransomware_gang",
+    "description": "HELLO GOOKIE"
+  },
+  {
+    "indicator": "http://gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion",
+    "category": "ransomware_gang",
+    "description": "FRESH GUNRA"
+  },
+  {
+    "indicator": "http://handala-alert.to",
+    "category": "ransomware_gang",
+    "description": "HANDALA"
+  },
+  {
+    "indicator": "http://handala-hack.ps",
+    "category": "ransomware_gang",
+    "description": "HANDALA"
+  },
+  {
+    "indicator": "http://handala-redwanted.ps",
+    "category": "ransomware_gang",
+    "description": "HANDALA REDWANTED"
+  },
+  {
+    "indicator": "http://helixr2sncrd3ndsz5oho6mzqw3x5u7mvox5zcsngc5wm7v4l5k7oryd.onion/leaks",
+    "category": "ransomware_gang",
+    "description": "HELIX"
+  },
+  {
+    "indicator": "http://hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion",
+    "category": "ransomware_gang",
+    "description": "HELLCAT - 898923FE0699CFE1EFD17773425DECB080840877C29F883D389D6880B2B961737FACE98E82E4 - Telegram: @HCSupp - hcsupp@firemail.cc - XMPP: hellcat@5222.de"
+  },
+  {
+    "indicator": "http://hellcat.rw",
+    "category": "ransomware_gang",
+    "description": "HELLCAT - 898923FE0699CFE1EFD17773425DECB080840877C29F883D389D6880B2B961737FACE98E82E4 - Telegram: @HCSupp - hcsupp@firemail.cc - XMPP: hellcat@5222.de"
+  },
+  {
+    "indicator": "http://hgxyonufefcglpekxma55fttev3lcfucrf7jvep2c3j6447cjroadead.onion",
+    "category": "ransomware_gang",
+    "description": "CHORT"
+  },
+  {
+    "indicator": "http://hgxyonufefcglpekxma55fttev3lcfucrf7jvep2c3j6447cjroadead.onion/",
+    "category": "ransomware_gang",
+    "description": "Cyberfeeddigest"
+  },
+  {
+    "indicator": "http://hkk62og3s2tce2gipcdxg3m27z4b62mrmml6ugctzdxs25o26q3a4mid.onion",
+    "category": "ransomware_gang",
+    "description": "FS-TEAM"
+  },
+  {
+    "indicator": "http://hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion",
+    "category": "ransomware_gang",
+    "description": "RA GROUP (Storage Server)"
+  },
+  {
+    "indicator": "http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php",
+    "category": "ransomware_gang",
+    "description": "SNATCH (Dark) - https://t.me/snatch_info"
+  },
+  {
+    "indicator": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion",
+    "category": "ransomware_gang",
+    "description": "CHAOS - BFC836EBAE06450FDD36B63170F121F44ADADFF2DAFAAFA41314B6778F6003501B0799F013FA - EC99BD5A36DE69144F5402C832B5413295323FC7C12259C53E4AA6D5BC2D4E6DA44C537F9FEC"
+  },
+  {
+    "indicator": "http://hscr6cjzhgoybibuzn2xud7u4crehuoo4ykw3swut7m7irde74hdfzyd.onion",
+    "category": "ransomware_gang",
+    "description": "LOST TRUST"
+  },
+  {
+    "indicator": "http://http://85.121.48.68",
+    "category": "ransomware_gang",
+    "description": "MINTEYE - 75E3C08957DD5A6A9796CDCCC8021FEE7084CB64DAE2C512994348DCC58C8541355B423C774E"
+  },
+  {
+    "indicator": "http://i2ohjeeqe37jre4f2u7pyq73cbm6lecumdxapkvrlryna6rc3it4zsid.onion/",
+    "category": "ransomware_gang",
+    "description": "THE GENTLEMEN - F8E24C7F5B12CD69C44C73F438F65E9BF560ADF35EBBDF92CF9A9B84079F8F04060FF98D098E"
+  },
+  {
+    "indicator": "http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion",
+    "category": "ransomware_gang",
+    "description": "INSOMNIA - FA21E360945F602504728A05A39758C38B6A5B5DA1969717AF05838D14FDCD3DE17455833F11"
+  },
+  {
+    "indicator": "http://i6575ykikb3yvut4btucoqjshbktouxxyu3eb3ffa3ukvyvtam5y5pqd.onion",
+    "category": "ransomware_gang",
+    "description": "MINTEYE - 75E3C08957DD5A6A9796CDCCC8021FEE7084CB64DAE2C512994348DCC58C8541355B423C774E"
+  },
+  {
+    "indicator": "http://i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion",
+    "category": "ransomware_gang",
+    "description": "FALCON("
+  },
+  {
+    "indicator": "http://iacjvmxjb2ivqkxxzmde4w6g53gn6ym7c3g6mfifvejyhqtp4wrkypyd.onion/",
+    "category": "ransomware_gang",
+    "description": "DOOMMAGEDDON"
+  },
+  {
+    "indicator": "http://iah6477wcvisc45wl54u524fbrh4dnmtcctpg2fpe5epf3jbpkiwu4qd.onion",
+    "category": "ransomware_gang",
+    "description": "IAH647"
+  },
+  {
+    "indicator": "http://igziys7pres4644kbrtakxfbrwkyld64nxk5prpkgtcexwrrjgtfjzyd.onion",
+    "category": "ransomware_gang",
+    "description": "GD LOCKERSEC"
+  },
+  {
+    "indicator": "http://ijbw7iiyodqzpg6ooewbgn6mv2pinoer3k5pzdecoejsw5nyoe73zvad.onion/blog",
+    "category": "ransomware_gang",
+    "description": "RANSOM HUB"
+  },
+  {
+    "indicator": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion",
+    "category": "ransomware_gang",
+    "description": "QILIN"
+  },
+  {
+    "indicator": "http://imncrewwfkbjkhr2oylerfm5qtbzfphhmpcfag43xc2kfgvluqtlgoid.onion",
+    "category": "ransomware_gang",
+    "description": "IMN CREW"
+  },
+  {
+    "indicator": "http://inblog.su/blog/disclosures",
+    "category": "ransomware_gang",
+    "description": "INC RANSOM (new - Deep)"
+  },
+  {
+    "indicator": "http://incapt.su/blog/leaks",
+    "category": "ransomware_gang",
+    "description": "INC RANSOM (Deep)"
+  },
+  {
+    "indicator": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion",
+    "category": "ransomware_gang",
+    "description": "INC RANSOM - new"
+  },
+  {
+    "indicator": "http://incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion/blog/leaks",
+    "category": "ransomware_gang",
+    "description": "INC RANSOM"
+  },
+  {
+    "indicator": "http://ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion",
+    "category": "ransomware_gang",
+    "description": "PLAY"
+  },
+  {
+    "indicator": "http://iywqjjaf2zioehzzauys3sktbcdmuzm2fsjkqsblnm7dt6axjfpoxwid.onion/article",
+    "category": "ransomware_gang",
+    "description": "LINKC"
+  },
+  {
+    "indicator": "http://izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion",
+    "category": "ransomware_gang",
+    "description": "MORPHEUS"
+  },
+  {
+    "indicator": "http://j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion",
+    "category": "ransomware_gang",
+    "description": "SAFEPAY"
+  },
+  {
+    "indicator": "http://j5o5y2feotmhvr7cbcp2j2ewayv5mn5zenl3joqwx67gtfchhezjznad.onion",
+    "category": "ransomware_gang",
+    "description": "CRYPTO24 - crypto24support@pm.me"
+  },
+  {
+    "indicator": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion",
+    "category": "ransomware_gang",
+    "description": "PLAY"
+  },
+  {
+    "indicator": "http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion",
+    "category": "ransomware_gang",
+    "description": "BLACKBYTE (5)"
+  },
+  {
+    "indicator": "http://jbmk7h6xlkedn2gg5yi76zca6y3jgdlp5wchlsrd7735tlnrmmvqe5ad.onion",
+    "category": "ransomware_gang",
+    "description": "ARGONAUTS"
+  },
+  {
+    "indicator": "http://k67ivvik3dikqi4gy4ua7xa6idijl4si7k5ad5lotbaeirfcsx4sgbid.onion",
+    "category": "ransomware_gang",
+    "description": "MAD LIBERATOR"
+  },
+  {
+    "indicator": "http://kawasa2qo7345dt7ogxmx7qmn6z2hnwaoi3h5aeosupozkddqwp6lqqd.onion",
+    "category": "ransomware_gang",
+    "description": "KAWA - 6A340207246B47E37F6D094D2236E5C6242B6E4461EEF8021FED2C9855240C3E11AEE886FAAF - kawa4096@onionmail.org"
+  },
+  {
+    "indicator": "http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion",
+    "category": "ransomware_gang",
+    "description": "KILLSEC - https://t.me/k1llsec"
+  },
+  {
+    "indicator": "http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion",
+    "category": "ransomware_gang",
+    "description": "KNIGHT (ex CYCLOPS) - 9096AD7062A4232F5AA31C2F7C4DF0AC1EAD10B78D40A6A3328AD142A42B555E635954D8B6C5"
+  },
+  {
+    "indicator": "http://krakenccj3wr23452a4ibkbkuph4d6soyx2xgjoogtuamc3m7u7wemad.onion",
+    "category": "ransomware_gang",
+    "description": "Kraken"
+  },
+  {
+    "indicator": "http://krsbhaxbki6jr4zvwblvkaqzjkircj7cxf46qt3na5o5sj2hpikbupqd.onion",
+    "category": "ransomware_gang",
+    "description": "TRIGONA"
+  },
+  {
+    "indicator": "http://krybieodq754vlwufrsuxaswxb5zpxyibaawmed2jaduoz2e5m56hmid.onion",
+    "category": "ransomware_gang",
+    "description": "KRYBIT"
+  },
+  {
+    "indicator": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion",
+    "category": "ransomware_gang",
+    "description": "KRYBIT"
+  },
+  {
+    "indicator": "http://krybitx3fh5krdnhegyp2ob3lhizsaiadturtio3ginf7it5gsdgu2yd.onion",
+    "category": "ransomware_gang",
+    "description": "KRYBIT"
+  },
+  {
+    "indicator": "http://krybitxdpxohsmjooeb3gbgpmdddreh6mnflzac6bnezz74b7yje67yd.onion",
+    "category": "ransomware_gang",
+    "description": "KRYBIT"
+  },
+  {
+    "indicator": "http://kryptospnjzz7vfkr663bnqv3dxirmr3svo5zwq7cvu2wdfngujgknyd.onion",
+    "category": "ransomware_gang",
+    "description": "KRYPTOS - 5D16859E0BC70E8830DEB8DE294C7E5AF8BD4D30CB1CB01F3BE17D0F592B3264DB2B6BB15164 - 8AE76D106C7F34134CAB98E41C5EEEF15B238BC523EC2F09C7765214CB03822866E94D87B25F"
+  },
+  {
+    "indicator": "http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion",
+    "category": "ransomware_gang",
+    "description": "Kill Security 3.0"
+  },
+  {
+    "indicator": "http://kyblogtz6k3jtxnjjvluee5ec4g3zcnvyvbgsnq5thumphmqidkt7xid.onion",
+    "category": "ransomware_gang",
+    "description": "KYBER"
+  },
+  {
+    "indicator": "http://kyfiw76eol6ph2mq7pi5e5tdvce37bicddhai62qhdc5ja6jdchz4qqd.onion",
+    "category": "ransomware_gang",
+    "description": "MEDUSA"
+  },
+  {
+    "indicator": "http://lamashtux5j74mcm7lwwgn5yrvuwtrpxjoyendif3v3hrztjesfoyayd.onion/",
+    "category": "ransomware_gang",
+    "description": "Lamashtu"
+  },
+  {
+    "indicator": "http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion",
+    "category": "ransomware_gang",
+    "description": "SHADOW"
+  },
+  {
+    "indicator": "http://leak7y2247fj7dbb35rpfyxuyaqtwbshiwxp6h35ttzlhrxmhvi4fead.onion/",
+    "category": "ransomware_gang",
+    "description": "RALord"
+  },
+  {
+    "indicator": "http://lockbit23xxhej7swdop24cru7ks2w66pw7zgdkydqo6f7wfyfqo7oqd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (chat)"
+  },
+  {
+    "indicator": "http://lockbit33chewwx25efq6dgkhkw4u7nefudq4ijkuamjfd7x73on6dyd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (\"Leaked Data\")"
+  },
+  {
+    "indicator": "http://lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (New Dark mirror 1) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbit3g3ohd3katajf6zaehxz4h4cnhmz5t735zpltywhwpc6oy3id.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (New Dark mirror 2) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbit3olp7oetlc4tl5zydnoluphh7fvdt5oa6arcp2757r7xkutid.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (New Dark mirror 3) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbit435xk3ki62yun7z5nhwz6jyjdp2c64j5vge536if2eny3gtid.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (New Dark mirror 4) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbit4lahhluquhoka3t4spqym2m3dhe66d6lr337glmnlgg2nndad.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (New Dark mirror 5) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbit6knrauo3qafoksvl742vieqbujxw7rd6ofzdtapjb4rrawqad.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (New Dark mirror 6) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbit7ixelt7gn3ynrs3dgqtsom6x6sd2ope4di7bu6e6exyhazeyd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (chat)"
+  },
+  {
+    "indicator": "http://lockbit7ouvrsdgtojeoj5hvu6bljqtghitekwpdy3b6y62ixtsu5jqd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (New Dark mirror 7) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (\"Leaked Data\")"
+  },
+  {
+    "indicator": "http://lockbitapiahy43zttdhslabjvx4q6k24xx7r33qtcvwqehmnnqxy3yd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 4.0 Control Panel - ADTISZRLVUMXDJ34RCBZFNO6BNKLEYKYS5FZPNNXK4S2RSHOENUA"
+  },
+  {
+    "indicator": "http://lockbitapo3wkqddx2ka7t45hejurybzzjpos4cpeliudgv35kkizrid.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 4.0 Control Panel - ADTISZRLVUMXDJ34RCBZFNO6BNKLEYKYS5FZPNNXK4S2RSHOENUA"
+  },
+  {
+    "indicator": "http://lockbitapp24bvbi43n3qmtfcasf2veaeagjxatgbwtxnsh5w32mljad.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 4.0 Control Panel - ADTISZRLVUMXDJ34RCBZFNO6BNKLEYKYS5FZPNNXK4S2RSHOENUA"
+  },
+  {
+    "indicator": "http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (Dark mirror 1) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (Dark mirror 2) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (Dark mirror 3) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (Dark mirror 4) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (Dark mirror 5) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (Dark mirror 6) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (Dark mirror 7) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (Dark mirror 8) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://lockbitapyum2wks2lbcnrovcgxj7ne3ua7hhcmshh3s3ajtpookohqd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 4.0 Control Panel - ADTISZRLVUMXDJ34RCBZFNO6BNKLEYKYS5FZPNNXK4S2RSHOENUA"
+  },
+  {
+    "indicator": "http://lockbitapyx2kr5b7ma7qn6ziwqgbrij2czhcbojuxmgnwpkgv2yx2yd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 4.0 Control Panel - ADTISZRLVUMXDJ34RCBZFNO6BNKLEYKYS5FZPNNXK4S2RSHOENUA"
+  },
+  {
+    "indicator": "http://lockbitck6escin3p33v3f5uef3mr5fx335oyqon2uqoyxuraieuhiqd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (chat)"
+  },
+  {
+    "indicator": "http://lockbitcuo23q7qrymbk6dsp2sadltspjvjxgcyp4elbnbr6tcnwq7qd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (from July 2024)"
+  },
+  {
+    "indicator": "http://lockbitfhzimjqx2v7p2vfu57fpdm5zh2vsbfk5jkjod3k5pszbek7ad.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (chat)"
+  },
+  {
+    "indicator": "http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (\"File Share\")"
+  },
+  {
+    "indicator": "http://lockbiti7ss2wzyizvyr2x46krnezl4xjeianvupnvazhbqtz32auqqd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (chat)"
+  },
+  {
+    "indicator": "http://lockbitkwkmhfb2zr3ngduaa6sd6munslzkbtqhn5ifmwqml4sl7znad.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (chat)"
+  },
+  {
+    "indicator": "http://lockbitqfj7mmhrfa7lznj47ogknqanskj7hyk2vistn2ju5ufrhbpyd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (chat)"
+  },
+  {
+    "indicator": "http://lockbitsuppyx2jegaoyiw44ica5vdho63m5ijjlmfb7omq3tfr3qhyd.onion/",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 5.0 (chat)"
+  },
+  {
+    "indicator": "http://lockbitw2ygzasbt35ffpdb46r4vkej6flm3siyabaxzdodwpiatfgqd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (from July 2024)"
+  },
+  {
+    "indicator": "http://longcc4fqrfcqt5lzceutylaxir6h66fp6df3oin6mvwvz6pfdbxc6qd.onion",
+    "category": "ransomware_gang",
+    "description": "TENGU - A458DAEFD26B207A65C2D0164B354DA25F7A77D7E52D1B16E577F3A143D8EC7C272B58F72FDD - https://t.me/TENGUleaks"
+  },
+  {
+    "indicator": "http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion",
+    "category": "ransomware_gang",
+    "description": "LORENZ"
+  },
+  {
+    "indicator": "http://lthicpjqc7gkn5eq3epxndc2uig3yngvcbdya4u3m3byjod5km4yuwqd.onion",
+    "category": "ransomware_gang",
+    "description": "MAJINAHANASHI"
+  },
+  {
+    "indicator": "http://lunalockcccxzkpfovwzifwxcytqkiuak6wzybnniqwxcmpsetpbetid.onion",
+    "category": "ransomware_gang",
+    "description": "LUNALOCK"
+  },
+  {
+    "indicator": "http://lynxblog.net/leaks",
+    "category": "ransomware_gang",
+    "description": "LYNX"
+  },
+  {
+    "indicator": "http://lynxblogco7r37jt7p5wrmfxzqze7ghxw6rihzkqc455qluacwotciyd.onion",
+    "category": "ransomware_gang",
+    "description": "LYNX"
+  },
+  {
+    "indicator": "http://lynxblogijy4jfoblgix2klxmkbgee4leoeuge7qt4fpfkj4zbi2sjyd.onion",
+    "category": "ransomware_gang",
+    "description": "LYNX"
+  },
+  {
+    "indicator": "http://lynxblogmx3rbiwg3rpj4nds25hjsnrwkpxt5gaznetfikz4gz2csyad.onion",
+    "category": "ransomware_gang",
+    "description": "LYNX"
+  },
+  {
+    "indicator": "http://lynxblogoxllth4b46cfwlop5pfj4s7dyv37yuy7qn2ftan6gd72hsad.onion",
+    "category": "ransomware_gang",
+    "description": "LYNX"
+  },
+  {
+    "indicator": "http://lynxblogtwatfsrwj3oatpejwxk5bngqcd5f7s26iskagfu7ouaomjad.onion",
+    "category": "ransomware_gang",
+    "description": "LYNX"
+  },
+  {
+    "indicator": "http://lynxblogxstgzsarfyk2pvhdv45igghb4zmthnzmsipzeoduruz3xwqd.onion",
+    "category": "ransomware_gang",
+    "description": "LYNX"
+  },
+  {
+    "indicator": "http://lynxblogxutufossaeawlij3j3uikaloll5ko6grzhkwdclrjngrfoid.onion",
+    "category": "ransomware_gang",
+    "description": "LYNX"
+  },
+  {
+    "indicator": "http://m3ksukzn2glzfdvlusohril7n3iyk4z4fudf6mm22lwhpbpt5aiee5qd.onion",
+    "category": "ransomware_gang",
+    "description": "EXITIUM"
+  },
+  {
+    "indicator": "http://malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion",
+    "category": "ransomware_gang",
+    "description": "MALAS"
+  },
+  {
+    "indicator": "http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion",
+    "category": "ransomware_gang",
+    "description": "MONTI"
+  },
+  {
+    "indicator": "http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion",
+    "category": "ransomware_gang",
+    "description": "DARK VAULT (blog)"
+  },
+  {
+    "indicator": "http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion",
+    "category": "ransomware_gang",
+    "description": "MEDUSA"
+  },
+  {
+    "indicator": "http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion",
+    "category": "ransomware_gang",
+    "description": "MEOW"
+  },
+  {
+    "indicator": "http://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion",
+    "category": "ransomware_gang",
+    "description": "METAENCRYPTER"
+  },
+  {
+    "indicator": "http://mgeegnexyhhn5dpqewihjy33qyhng3gy66h3fogiwefl5hljhtmfznad.onion",
+    "category": "ransomware_gang",
+    "description": "SATAN LOCK - CF7175635116009D235F2BC2C657CB4DF1B18317D4EADD30F8238C33E2D2116851C9344C774D"
+  },
+  {
+    "indicator": "http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion",
+    "category": "ransomware_gang",
+    "description": "VICE SOCIETY"
+  },
+  {
+    "indicator": "http://mll5ddmdzgiq2siv3qnocmmqyiigfpajtc663xtf32qtp6weycyx2hyd.onion",
+    "category": "ransomware_gang",
+    "description": "OROVA"
+  },
+  {
+    "indicator": "http://moses-staff.se",
+    "category": "ransomware_gang",
+    "description": "Moses Staff (Deep) - https://t.me/moses_staff_se_15"
+  },
+  {
+    "indicator": "http://msleakjir7pxbe6onlqe5uwgvdmy6nq4mnwfy7ojswbhnleenm77vgad.onion",
+    "category": "ransomware_gang",
+    "description": "MS13-089 - ms13@onionmail.org"
+  },
+  {
+    "indicator": "http://mtgc3qvyedjnfu7cen2zsupdppi5ys5g2hm6xwujvoepw25p4dy6huid.onion/news.html",
+    "category": "ransomware_gang",
+    "description": "SKIRA TEAM"
+  },
+  {
+    "indicator": "http://mwojud552brg7rl3obqjvv2funhwpg6acdsuuoeytq7365kmaeoi4gqd.onion",
+    "category": "ransomware_gang",
+    "description": "LAPSUS$ GROUP (Data)"
+  },
+  {
+    "indicator": "http://mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion/blog",
+    "category": "ransomware_gang",
+    "description": "MYDATA / ALPHA LOCKER"
+  },
+  {
+    "indicator": "http://myeli53ogsryjg2kob4xqxtwkr5oc5zj7jr5fcfizpytwe566k5thxyd.onion",
+    "category": "ransomware_gang",
+    "description": "GUNRA"
+  },
+  {
+    "indicator": "http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion",
+    "category": "ransomware_gang",
+    "description": "X001XS"
+  },
+  {
+    "indicator": "http://nasir.cc",
+    "category": "ransomware_gang",
+    "description": "NASIR"
+  },
+  {
+    "indicator": "http://neclc36yt4yaa5lv54kh4qbhvjcvuv6nnaurqowkellytpvj3afh4aid.onion",
+    "category": "ransomware_gang",
+    "description": "REDACT"
+  },
+  {
+    "indicator": "http://nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion",
+    "category": "ransomware_gang",
+    "description": "KAIROS - kairossup@onionmail.com"
+  },
+  {
+    "indicator": "http://netrunrsb3bivj5gnwajzxlig5qkteb6edgthxj7fmsvhkzxtwfxwaad.onion",
+    "category": "ransomware_gang",
+    "description": "NETRUNNER"
+  },
+  {
+    "indicator": "http://nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion",
+    "category": "ransomware_gang",
+    "description": "NITROGEN - https://x.com/NitrogenSupp/ - https://www.linkedin.com/in/nitrogen-support-0b748532a/ - 620C7A54EC212FB482A684BA74381C3623CCE4D0E27FAE348688F65E0F0F6B6A149790D1AE7D"
+  },
+  {
+    "indicator": "http://nleakk6sejx45jxtk7x6iyt65hwvfrkifc5v7ertdlwm3gttbpvlvxqd.onion",
+    "category": "ransomware_gang",
+    "description": "LEAKNET"
+  },
+  {
+    "indicator": "http://nn5ua7gc7jkllpoztymtfcu64yjm7znlsriq3a6v5kw7l6jvirnczyyd.onion",
+    "category": "ransomware_gang",
+    "description": "LAMBDA (Victim Site)"
+  },
+  {
+    "indicator": "http://noescapemsqxvizdxyl7f7rmg5cdjwp33pg2wpmiaaibilb4btwzttad.onion",
+    "category": "ransomware_gang",
+    "description": "NoEscape"
+  },
+  {
+    "indicator": "http://noescaperjh3gg6oy7rck57fiefyuzmj7kmvojxgvlmwd5pdzizrb7ad.onion",
+    "category": "ransomware_gang",
+    "description": "NoEscape (Victims Page)"
+  },
+  {
+    "indicator": "http://nokoleakb76znymx443veg4n6fytx6spck6pc7nkr4dvfuygpub6jsid.onion",
+    "category": "ransomware_gang",
+    "description": "NOKOYAWA"
+  },
+  {
+    "indicator": "http://noname2j6zkgnt7ftxsjju5tfd3s45s4i3egq5bqtl72kgum4ldc6qyd.onion",
+    "category": "ransomware_gang",
+    "description": "NONAME"
+  },
+  {
+    "indicator": "http://novadmrkp4vbk2padk5t6pbxolndceuc7hrcq4mjaoyed6nxsqiuzyyd.onion",
+    "category": "ransomware_gang",
+    "description": "NOVA"
+  },
+  {
+    "indicator": "http://novag4k2te3mstt2xq5irywlpaw6edgkpiwgg4t2q7eecisj2qqtvbid.onion/",
+    "category": "ransomware_gang",
+    "description": "RALord"
+  },
+  {
+    "indicator": "http://novaoddh3vxylxqpsfdjprliknbzgbkv6nkazpzu3cvykrgpyzuywryd.onion/",
+    "category": "ransomware_gang",
+    "description": "RALord"
+  },
+  {
+    "indicator": "http://novatd4577pzlvdyy42slydhrhru7fpcflbbxlajcmbfrgzyeis6d3id.onion/",
+    "category": "ransomware_gang",
+    "description": "RALord"
+  },
+  {
+    "indicator": "http://novaxtychr6ohlc4zr5its73p6i7unpuhpwoodtzrg2y4w4seytatlid.onion",
+    "category": "ransomware_gang",
+    "description": "NOVA"
+  },
+  {
+    "indicator": "http://novazzitmugtbjwuttc5hhsemkmvwh3iyt27oeeunu5mkw62qpfeykid.onion/",
+    "category": "ransomware_gang",
+    "description": "RALord (AFFILIATES)"
+  },
+  {
+    "indicator": "http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion",
+    "category": "ransomware_gang",
+    "description": "BABUK"
+  },
+  {
+    "indicator": "http://nsalewdnfclsowcal6kn5csm4ryqmfpijznxwictukhrgvz2vbmjjjyd.onion",
+    "category": "ransomware_gang",
+    "description": "DARK ANGELS"
+  },
+  {
+    "indicator": "http://nsnhzysbntsqdwpys6mhml33muccsvterxewh5rkbmcab7bg2ttevjqd.onion",
+    "category": "ransomware_gang",
+    "description": "FRESH GUNRA (chat)"
+  },
+  {
+    "indicator": "http://nspirep7orjq73k2x2fwh2mxgh74vm2now6cdbnnxjk2f5wn34bmdxad.onion/database",
+    "category": "ransomware_gang",
+    "description": "NIGHT SPIRE"
+  },
+  {
+    "indicator": "http://nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion/blogs/79b2eb61-97e2-4a2e-81f8-1c1d45c3b59c",
+    "category": "ransomware_gang",
+    "description": "CYCLOPS"
+  },
+  {
+    "indicator": "http://nv5lbsrr4rxmewzmpe25nnalowe4ga7ki6yfvit3wlpu7dfc36pyh4ad.onion/Insane.html",
+    "category": "ransomware_gang",
+    "description": "INSANE"
+  },
+  {
+    "indicator": "http://nv5p2mmpctvyqdyyi5zwh4gnifq2uxdx4etvnmaheqlrw6ordrjwxryd.onion",
+    "category": "ransomware_gang",
+    "description": "SIEGEDSEC"
+  },
+  {
+    "indicator": "http://nz4z6ruzcekriti5cjjiiylzvrmysyqwibxztk6voem4trtx7gstpjid.onion",
+    "category": "ransomware_gang",
+    "description": "SAFEPAY"
+  },
+  {
+    "indicator": "http://o3ydbkayttkyg4iw2nc732jxmmex25bjeyqyvuuyngnxmpehdefjr3qd.onion",
+    "category": "ransomware_gang",
+    "description": "CIPHERFORCE"
+  },
+  {
+    "indicator": "http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion",
+    "category": "ransomware_gang",
+    "description": "GLOBAL SECRET"
+  },
+  {
+    "indicator": "http://oaptxiyisljt2kv3we2we34kuudmqda7f2geffoylzpeo7ourhtz4dad.onion",
+    "category": "ransomware_gang",
+    "description": "0APT"
+  },
+  {
+    "indicator": "http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion",
+    "category": "ransomware_gang",
+    "description": "OBSCURA - AE55FC0EB1C25A5B081650108F9081E236DECE1CE08D2E185A6F15B9FB48E700210BED374643"
+  },
+  {
+    "indicator": "http://odaygplp3zhyx7zl45egetl6dzc4reduisnoyym34rjdmaryfaz5doqd.onion",
+    "category": "ransomware_gang",
+    "description": "0DAY"
+  },
+  {
+    "indicator": "http://ofj3oaltwaf67qtd7oafk5r44upm6wkc2jurpsdyih2c7mbrbshuwayd.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 3.0 (from June 2024) - 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7"
+  },
+  {
+    "indicator": "http://ojcmpbdncjo5dhaxxll44bq6to3kwqtoeraevgsjquhdtt4uv5l4igid.onion",
+    "category": "ransomware_gang",
+    "description": "TRIPLE X"
+  },
+  {
+    "indicator": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion",
+    "category": "ransomware_gang",
+    "description": "ANUBIS - Session:05d2edf73f36e59991a118f2529b57ea12422b155e48e37e2f2b21d2b6a5f8041a - qTox:35421788C5D0A82C32B450BEC5CB8A02F7B1385A3E722A91988AA8A2D424F47B672A5A2F948F - https://x.com/Anubis__media - E-mail:anubisit@onionmail.org"
+  },
+  {
+    "indicator": "http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion",
+    "category": "ransomware_gang",
+    "description": "0mega (Dark)"
+  },
+  {
+    "indicator": "http://onyxcym4mjilrsptk5uo2dhesbwntuban55mvww2olk5ygqafhu3i3yd.onion/",
+    "category": "ransomware_gang",
+    "description": "HELLDOWN - 19A549A57160F384CF4E36EE1A24747ED99C623C48EA545F343296FB7092795D00875C94151E"
+  },
+  {
+    "indicator": "http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion",
+    "category": "ransomware_gang",
+    "description": "ORCA"
+  },
+  {
+    "indicator": "http://orfc3joknhrzscdbuxajypgrvlcawtuagbj7f44ugbosuvavg3dc3zid.onion",
+    "category": "ransomware_gang",
+    "description": "TRISEC - https://t.me/Trise_vision"
+  },
+  {
+    "indicator": "http://owt3kwkxod2pvxlv3uljzskfhebhrhoedrh5gqrxyyd6rrco4frzj5ad.onion",
+    "category": "ransomware_gang",
+    "description": "Mamona RANSOMWARE"
+  },
+  {
+    "indicator": "http://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion",
+    "category": "ransomware_gang",
+    "description": "OX THIEF"
+  },
+  {
+    "indicator": "http://p6wmotxzvg34tdmpwm4beqgrcyp5iys43snkccsahnw74la3k3xx6pad.onion",
+    "category": "ransomware_gang",
+    "description": "BRAIN CIPHER"
+  },
+  {
+    "indicator": "http://pa32ymaeu62yo5th5mraikgw5fcvznnsiiwti42carjliarodltmqcqd.onion",
+    "category": "ransomware_gang",
+    "description": "RA GROUP"
+  },
+  {
+    "indicator": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion",
+    "category": "ransomware_gang",
+    "description": "PAYLOAD"
+  },
+  {
+    "indicator": "http://pdcizqzjitsgfcgqeyhuee5u6uki6zy5slzioinlhx6xjnsw25irdgqd.onion",
+    "category": "ransomware_gang",
+    "description": "STORMOUS (BLOG 1) - C286720F7592E5668A932F1D06EDEECBAFACB3BE369632C908F9511D072C142575BA8109CBC6"
+  },
+  {
+    "indicator": "http://peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion",
+    "category": "ransomware_gang",
+    "description": "PEAR - pear@onionmail.org - 457BB4E5DF0E650509322CA894758D925A568828090A3449D5AEEED30E9B8E18DDDFF71909ED"
+  },
+  {
+    "indicator": "http://pippahtohg6qgioqu3ixrsueefuw7thythmmeanyrgwn3eixcuu6jvqd.onion",
+    "category": "ransomware_gang",
+    "description": "M3RX"
+  },
+  {
+    "indicator": "http://po4tq2brx4rgwbdx4mac24fz34uuuf7oigosebp32n2462m2vxl6biqd.onion/wall_of_shame",
+    "category": "ransomware_gang",
+    "description": "DESOLATOR"
+  },
+  {
+    "indicator": "http://prinzfkbjiazbrur4mjje6mntjc4vydx3iatkkzycufoylqcoo4y7pqd.onion",
+    "category": "ransomware_gang",
+    "description": "PRINZ EUGEN"
+  },
+  {
+    "indicator": "http://prinzkpn6d3itrgcytmsmlcpt5mgwn3ihpck2hsed5cezlbtbi3wklid.onion",
+    "category": "ransomware_gang",
+    "description": "PRINZ EUGEN"
+  },
+  {
+    "indicator": "http://pryx.cc",
+    "category": "ransomware_gang",
+    "description": "PRYX (deep web) - 141C8F13F4B7A4C2EED05A29186AE10F8E849AE4AC2C3E7B167FD27B316E026A42B75D5AE83C"
+  },
+  {
+    "indicator": "http://ptyctpveqfevlukjw4hpdh6nb5oiemq6ek6tuuvxbtrfghvuutvscsid.onion",
+    "category": "ransomware_gang",
+    "description": "ARACHNA LEAK"
+  },
+  {
+    "indicator": "http://q7gmt7pbo4rrt27ydkiv2kxd7cimhztq2x7hzd557jthhu5zp6ujieid.onion",
+    "category": "ransomware_gang",
+    "description": "MIGA"
+  },
+  {
+    "indicator": "http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion",
+    "category": "ransomware_gang",
+    "description": "MEDUSA LOCKER (Victims page)"
+  },
+  {
+    "indicator": "http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion",
+    "category": "ransomware_gang",
+    "description": "QUANTUM"
+  },
+  {
+    "indicator": "http://ralord3htj7v2dkavss2hjzviviwgsf4anfdnihn5qcjl6eb5if3cuqd.onion/",
+    "category": "ransomware_gang",
+    "description": "RALord"
+  },
+  {
+    "indicator": "http://ralordqe33mpufkpsr6zkdatktlu3t2uei4ught3sitxgtzfmqmbsuyd.onion/",
+    "category": "ransomware_gang",
+    "description": "RALord"
+  },
+  {
+    "indicator": "http://ralordt7gywtkkkkq2suldao6mpibsb7cpjvdfezpzwgltyj2laiuuid.onion/",
+    "category": "ransomware_gang",
+    "description": "RALord"
+  },
+  {
+    "indicator": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion",
+    "category": "ransomware_gang",
+    "description": "EVEREST"
+  },
+  {
+    "indicator": "http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion",
+    "category": "ransomware_gang",
+    "description": "RANSOMWARE GROUP SITES (list)"
+  },
+  {
+    "indicator": "http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion",
+    "category": "ransomware_gang",
+    "description": "RANSOM HUB"
+  },
+  {
+    "indicator": "http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion",
+    "category": "ransomware_gang",
+    "description": "RANSOMWARE GROUP SITES (list)"
+  },
+  {
+    "indicator": "http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion",
+    "category": "ransomware_gang",
+    "description": "RAWORLD"
+  },
+  {
+    "indicator": "http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion",
+    "category": "ransomware_gang",
+    "description": "RAGNAR LOCKER"
+  },
+  {
+    "indicator": "http://rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion/",
+    "category": "ransomware_gang",
+    "description": "RHYSIDA (Mirror)"
+  },
+  {
+    "indicator": "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion",
+    "category": "ransomware_gang",
+    "description": "RHYSIDA - rhysidaeverywhere@onionmail.org - rhysidaofficial@onionmail.org"
+  },
+  {
+    "indicator": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion",
+    "category": "ransomware_gang",
+    "description": "RANSOMEXX"
+  },
+  {
+    "indicator": "http://rnsmwareartse3m4hjsumjf222pnka6gad26cqxqmbjvevhbnym5p6ad.onion",
+    "category": "ransomware_gang",
+    "description": "RUN SOME WARES"
+  },
+  {
+    "indicator": "http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion",
+    "category": "ransomware_gang",
+    "description": "ROYAL (Victims Page)"
+  },
+  {
+    "indicator": "http://rrrbay3nf4c2wxmhprc6eotjlpqkeowfuobodic4x4nzqtosx3ebirid.onion/news",
+    "category": "ransomware_gang",
+    "description": "RANSOM BAY"
+  },
+  {
+    "indicator": "http://ryrw2ojab62yij4y33ssfgvm2d2vwt3tcqetu6qmpwznqhooqxz3wpqd.onion",
+    "category": "ransomware_gang",
+    "description": "GUNRA"
+  },
+  {
+    "indicator": "http://rzzfiwoop67jrxadngcy7nvjm7suwtrjznview63ooowqfsm5sq7gmqd.onion",
+    "category": "ransomware_gang",
+    "description": "TiMc"
+  },
+  {
+    "indicator": "http://s7lmmhlt3iwnwirxvgjidl6omcblvw2rg75txjfduy73kx5brlmiulad.onion",
+    "category": "ransomware_gang",
+    "description": "MEDUSA"
+  },
+  {
+    "indicator": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion",
+    "category": "ransomware_gang",
+    "description": "SAFEPAY"
+  },
+  {
+    "indicator": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion",
+    "category": "ransomware_gang",
+    "description": "CLOP"
+  },
+  {
+    "indicator": "http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion",
+    "category": "ransomware_gang",
+    "description": "SARCOMA - SarcomaGroup@onionmail.org - D7A5E0027572764BE600925712D079472FF950F954553FF07E823FF1D068C31292E5E5F31AE4"
+  },
+  {
+    "indicator": "http://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion",
+    "category": "ransomware_gang",
+    "description": "DONUT BLOG"
+  },
+  {
+    "indicator": "http://sdwbytqeb664krp2wz2qs3lxxah2rhneuotot5hy7g4jpn2pindigcad.onion",
+    "category": "ransomware_gang",
+    "description": "SHADOWBYT3$ - ShadowByt3S@proton.me"
+  },
+  {
+    "indicator": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion",
+    "category": "ransomware_gang",
+    "description": "SECUROTROP"
+  },
+  {
+    "indicator": "http://settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion",
+    "category": "ransomware_gang",
+    "description": "Settra"
+  },
+  {
+    "indicator": "http://shdwbt3ja2ptjt6poluegas44i35727lgmoqqquoww642x3zyocyhuqd.onion",
+    "category": "ransomware_gang",
+    "description": "SHADOWBYT3$"
+  },
+  {
+    "indicator": "http://shibaitobajtr6yctvrijfitnugfulkmprrqbmu2ysk3zyzx2ufe3yqd.onion",
+    "category": "ransomware_gang",
+    "description": "SHIBA"
+  },
+  {
+    "indicator": "http://shnyhntww34phqoa6dcgnvps2yu7dlwzmy5lkvejwjdo6z7bmgshzayd.onion",
+    "category": "ransomware_gang",
+    "description": "SHINYHUNTERS"
+  },
+  {
+    "indicator": "http://shrantacpxim7z6m6pnszi52bb2tp23sntby3hklt36rezdja7bdjsyd.onion/leaks",
+    "category": "ransomware_gang",
+    "description": "BLACKSHRANTAC"
+  },
+  {
+    "indicator": "http://sicari7m63wlggfxajiuonfsk72fgencne5ztzakyuhfxzq5rnbkjead.onion",
+    "category": "ransomware_gang",
+    "description": "SICARI KNIFE - 2368C617830435DD74C41323BD684F04627A8047F92A885419E0191AC21F6D49733E4FF2C60E"
+  },
+  {
+    "indicator": "http://sicari7zpu3mtxqggde7mu3ywppntdqg22arcukvlaihjbfcb2rnktid.onion",
+    "category": "ransomware_gang",
+    "description": "SICARI KNIFE - 2368C617830435DD74C41323BD684F04627A8047F92A885419E0191AC21F6D49733E4FF2C60E"
+  },
+  {
+    "indicator": "http://sicariifoucvhyqg54smi3esg5sfcyw5z65t6yigqu4loyuoz62bb2id.onion",
+    "category": "ransomware_gang",
+    "description": "SICARI KNIFE - 2368C617830435DD74C41323BD684F04627A8047F92A885419E0191AC21F6D49733E4FF2C60E"
+  },
+  {
+    "indicator": "http://sicariktdbhjtrk6f2pwdh6wlequw7pcjva25skkzz4m3zz3opyox3qd.onion",
+    "category": "ransomware_gang",
+    "description": "SICARI KNIFE - 2368C617830435DD74C41323BD684F04627A8047F92A885419E0191AC21F6D49733E4FF2C60E"
+  },
+  {
+    "indicator": "http://sicarilxx2br6esqnhad4w26bcgb5j2snbbnhyo4b6t7kby2oy4x3jad.onion",
+    "category": "ransomware_gang",
+    "description": "SICARI KNIFE - 2368C617830435DD74C41323BD684F04627A8047F92A885419E0191AC21F6D49733E4FF2C60E"
+  },
+  {
+    "indicator": "http://sicarinb4ktqcdpubjifzw3vixvzgtwacjmc5ks56kev52gxitegigad.onion",
+    "category": "ransomware_gang",
+    "description": "SICARI KNIFE - 2368C617830435DD74C41323BD684F04627A8047F92A885419E0191AC21F6D49733E4FF2C60E"
+  },
+  {
+    "indicator": "http://silentbgdghp3zeldwpumnwabglreql7jcffhx5vqkvtf2lshc4n5zid.onion",
+    "category": "ransomware_gang",
+    "description": "SILENT"
+  },
+  {
+    "indicator": "http://sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion/leaks",
+    "category": "ransomware_gang",
+    "description": "SINOBI"
+  },
+  {
+    "indicator": "http://sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion/leaks",
+    "category": "ransomware_gang",
+    "description": "SINOBI"
+  },
+  {
+    "indicator": "http://sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd.onion/leaks",
+    "category": "ransomware_gang",
+    "description": "SINOBI"
+  },
+  {
+    "indicator": "http://sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion/leaks",
+    "category": "ransomware_gang",
+    "description": "SINOBI"
+  },
+  {
+    "indicator": "http://sinobi7l3wet3uqn4cagjiessuomv75aw3bvgah4jpj43od7xndb7kad.onion/leaks",
+    "category": "ransomware_gang",
+    "description": "SINOBI"
+  },
+  {
+    "indicator": "http://sinobi7sukclb3ygtorysbtrodgdbnrmgbhov45rwzipubbzhiu5jvqd.onion/leaks",
+    "category": "ransomware_gang",
+    "description": "SINOBI"
+  },
+  {
+    "indicator": "http://sinobia6mw6ht2wcdjphessyzpy7ph2y4dyqbd74bgobgju4ybytmkqd.onion/leaks",
+    "category": "ransomware_gang",
+    "description": "SINOBI"
+  },
+  {
+    "indicator": "http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion",
+    "category": "ransomware_gang",
+    "description": "VICE SOCIETY"
+  },
+  {
+    "indicator": "http://stmxylixiz4atpmkspvhkym4xccjvpcv3v67uh3dze7xwwhtnz4faxid.onion",
+    "category": "ransomware_gang",
+    "description": "STORMOUS (BLOG 2) - C286720F7592E5668A932F1D06EDEECBAFACB3BE369632C908F9511D072C142575BA8109CBC6"
+  },
+  {
+    "indicator": "http://stmxylixiz4atpmkspvhkym4xccjvpcv3v67uh3dze7xwwhtnz4faxid.onion/10fes-e87d-9987f-96s-zzd6.html",
+    "category": "ransomware_gang",
+    "description": "STORMOUS (PORTALS) - C286720F7592E5668A932F1D06EDEECBAFACB3BE369632C908F9511D072C142575BA8109CBC6"
+  },
+  {
+    "indicator": "http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion",
+    "category": "ransomware_gang",
+    "description": "BLACKBASTA"
+  },
+  {
+    "indicator": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion",
+    "category": "ransomware_gang",
+    "description": "MEDUSA LOCKER (aka BAVACAI"
+  },
+  {
+    "indicator": "http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion",
+    "category": "ransomware_gang",
+    "description": "TERMITE"
+  },
+  {
+    "indicator": "http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion",
+    "category": "ransomware_gang",
+    "description": "V IS VENDETTA"
+  },
+  {
+    "indicator": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+    "category": "ransomware_gang",
+    "description": "THE GENTLEMEN - F8E24C7F5B12CD69C44C73F438F65E9BF560ADF35EBBDF92CF9A9B84079F8F04060FF98D098E"
+  },
+  {
+    "indicator": "http://tgsst34i6z4mwdj2kpigixxb3k3xfz7xhuqnsowvfvyu3snm6nv4s5ad.onion",
+    "category": "ransomware_gang",
+    "description": "GUNRA"
+  },
+  {
+    "indicator": "http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion",
+    "category": "ransomware_gang",
+    "description": "ThreeAM"
+  },
+  {
+    "indicator": "http://titanblog.org",
+    "category": "ransomware_gang",
+    "description": "TITAN"
+  },
+  {
+    "indicator": "http://tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion",
+    "category": "ransomware_gang",
+    "description": "CRPX0"
+  },
+  {
+    "indicator": "http://toolatedhs5dtr2pv6h5kdraneak5gs3sxrecqhoufc5e45edior7mqd.onion",
+    "category": "ransomware_gang",
+    "description": "SHINYHUNTERS"
+  },
+  {
+    "indicator": "http://toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion",
+    "category": "ransomware_gang",
+    "description": "CLOP (torrents)"
+  },
+  {
+    "indicator": "http://tp5cwh6d2b5hekcg6jlhoe6mawa7dlwiv47epvnfmzuaaur2dnaa3uid.onion",
+    "category": "ransomware_gang",
+    "description": "TEAM XXX"
+  },
+  {
+    "indicator": "http://trfqksm6peaeyz4q6egxbij5n2ih6zrg65of4kwasrejc7hnw2jtxryd.onion",
+    "category": "ransomware_gang",
+    "description": "RADIANT"
+  },
+  {
+    "indicator": "http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/articles",
+    "category": "ransomware_gang",
+    "description": "TRIDENT"
+  },
+  {
+    "indicator": "http://ttvbuilv5mf2wggfjgmvin22ndzghpukhsyy6coz3p4wt5nqnxah7tyd.onion",
+    "category": "ransomware_gang",
+    "description": "MNT6"
+  },
+  {
+    "indicator": "http://twniiyed6mydtbe64i5mdl56nihl7atfaqtpww6gqyaiohgc75apzpad.onion",
+    "category": "ransomware_gang",
+    "description": "J GROUP"
+  },
+  {
+    "indicator": "http://tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion",
+    "category": "ransomware_gang",
+    "description": "DARK VAULT (mirror 2)"
+  },
+  {
+    "indicator": "http://txtggyng5euqkyzl2knbejwpm4rlq575jn2egqldu27osbqytrj6ruyd.onion/articles",
+    "category": "ransomware_gang",
+    "description": "TRINITY"
+  },
+  {
+    "indicator": "http://tzhwmgguyxrg6q3tu4q3gvopcjynrhw6ryx2bdl5ghisdkyunfua5xyd.onion",
+    "category": "ransomware_gang",
+    "description": "SATAN LOCK V2 - CF7175635116009D235F2BC2C657CB4DF1B18317D4EADD30F8238C33E2D2116851C9344C774D"
+  },
+  {
+    "indicator": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion",
+    "category": "ransomware_gang",
+    "description": "AUR0RA"
+  },
+  {
+    "indicator": "http://undgrddapc4reaunnrdrmnagvdelqfvmgycuvilgwb5uxm25sxawaoqd[.]onion/auth/login",
+    "category": "ransomware_gang",
+    "description": "TEAM UNDERGROUND (Victims page) - https://t.me/UndergroundDataLeaks"
+  },
+  {
+    "indicator": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion",
+    "category": "ransomware_gang",
+    "description": "UNSAFE"
+  },
+  {
+    "indicator": "http://uvm6hk4wwstfddja5z5htgtlehmfyflffijz6iozsuqyacyibzxefkqd.onion",
+    "category": "ransomware_gang",
+    "description": "BARRACUDA"
+  },
+  {
+    "indicator": "http://v76bdil3v7hczufr7kwk75eq6oks27d3qwj6v5ajj6v6rubbvwhcq2qd.onion",
+    "category": "ransomware_gang",
+    "description": "SECTION9"
+  },
+  {
+    "indicator": "http://vanhelqmjstkvlhrjwzgjzpq422iku6wlggiz5y5r3rmfdeiaj3ljaid.onion",
+    "category": "ransomware_gang",
+    "description": "VANHELSING"
+  },
+  {
+    "indicator": "http://vanhelvuuo4k3xsiq626zkqvp6kobc2abry5wowxqysibmqs5yjh4uqd.onion/blog",
+    "category": "ransomware_gang",
+    "description": "VANHELSING"
+  },
+  {
+    "indicator": "http://vanhelwmbf2bwzw7gmseg36qqm4ekc5uuhqbsew4eihzcahyq7sukzad.onion/blog",
+    "category": "ransomware_gang",
+    "description": "VANHELSING"
+  },
+  {
+    "indicator": "http://vanhelxjo52qr2ixcmtjayqqrcodkuh36n7uq7q7xj23ggotyr3y72yd.onion/blog",
+    "category": "ransomware_gang",
+    "description": "VANHELSING"
+  },
+  {
+    "indicator": "http://vctmy3tytuah2offux4bixzunh53pnepsnsrr2hly6blpgiewqodnzad.onion/",
+    "category": "ransomware_gang",
+    "description": "RALord"
+  },
+  {
+    "indicator": "http://vectordntlcrlmfkcm4alni734tbcrnd5lk44v6sp4lqal6noqrgnbyd.onion",
+    "category": "ransomware_gang",
+    "description": "VECT"
+  },
+  {
+    "indicator": "http://vexytsr3chimdz6siwaqi2lvxxwfkxvffkpwyanr2llequ2hkm56jvqd.onion",
+    "category": "ransomware_gang",
+    "description": "VEXY"
+  },
+  {
+    "indicator": "http://vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id.onion",
+    "category": "ransomware_gang",
+    "description": "GLOBAL - 0532b290d16a48f8f81dc1a41c0840145aede477af674c56e6599507aa7f27933c"
+  },
+  {
+    "indicator": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion",
+    "category": "ransomware_gang",
+    "description": "BRAIN CIPHER"
+  },
+  {
+    "indicator": "http://vlofmq2u3f5amxmnblvxaghy73aedwta74fyceywr6eeguw3cn6h6uad.onion",
+    "category": "ransomware_gang",
+    "description": "PLAYBOY"
+  },
+  {
+    "indicator": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion",
+    "category": "ransomware_gang",
+    "description": "HANDALA"
+  },
+  {
+    "indicator": "http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion",
+    "category": "ransomware_gang",
+    "description": "ALPHV (collection data leaks)"
+  },
+  {
+    "indicator": "http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion",
+    "category": "ransomware_gang",
+    "description": "VICE SOCIETY"
+  },
+  {
+    "indicator": "http://w4d5aqmdxkcsc2xwcz7w7jo6wdmvmakgy3y6mfmdtzmyvxe77cjkfbad.onion",
+    "category": "ransomware_gang",
+    "description": "J GROUP"
+  },
+  {
+    "indicator": "http://weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd.onion/",
+    "category": "ransomware_gang",
+    "description": "WALocker"
+  },
+  {
+    "indicator": "http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion",
+    "category": "ransomware_gang",
+    "description": "BLACK SUIT"
+  },
+  {
+    "indicator": "http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion",
+    "category": "ransomware_gang",
+    "description": "VICE SOCIETY"
+  },
+  {
+    "indicator": "http://wn6vonooq6fggjdgyocp7bioykmfjket7sbp47cwhgubvowwd7ws5pyd.onion",
+    "category": "ransomware_gang",
+    "description": "APT73 (ERALEIG - Dark) - 9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group"
+  },
+  {
+    "indicator": "http://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion",
+    "category": "ransomware_gang",
+    "description": "WORLDLEAKS"
+  },
+  {
+    "indicator": "http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion",
+    "category": "ransomware_gang",
+    "description": "MALLOX - mallox.resurrection@onionmail.org"
+  },
+  {
+    "indicator": "http://www.handala-team.to",
+    "category": "ransomware_gang",
+    "description": "HANDALA"
+  },
+  {
+    "indicator": "http://x4bccxlsmjsxlnnf3ocvndlshgfkagzytpqmsjnlfykceumnw6i4hkqd.onion",
+    "category": "ransomware_gang",
+    "description": "TITAN"
+  },
+  {
+    "indicator": "http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion",
+    "category": "ransomware_gang",
+    "description": "8BASE - https://t.me/eightbase - https://twitter.com/8BASEHOME"
+  },
+  {
+    "indicator": "http://xbg52c5agytmtjpwfu7mrs4xtaitc4mukkiy2kqdxeqbcmuhaid.onion",
+    "category": "ransomware_gang",
+    "description": "BRAIN CIPHER (File Server)"
+  },
+  {
+    "indicator": "http://xbkv2qey6u3gd3qxcojynrt4h5sgrhkar6whuo74wo63hijnn677jnyd.onion/",
+    "category": "ransomware_gang",
+    "description": "FOG"
+  },
+  {
+    "indicator": "http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion",
+    "category": "ransomware_gang",
+    "description": "MEDUSA"
+  },
+  {
+    "indicator": "http://xfycpauc22t5jsmfjcaz2oydrrrfy75zuk6chr32664bsscq4fgyaaqd.onion",
+    "category": "ransomware_gang",
+    "description": "8BASE - https://t.me/eightbase - https://twitter.com/8BASEHOME"
+  },
+  {
+    "indicator": "http://xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion",
+    "category": "ransomware_gang",
+    "description": "DRAGON FORCE - 1C054B722BCBF41A918EF3C485712742088F5C3E81B2FDD91ADEA6BA55F4A856D90A65E99D20"
+  },
+  {
+    "indicator": "http://xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion/",
+    "category": "ransomware_gang",
+    "description": "FOG"
+  },
+  {
+    "indicator": "http://xtxtpqpyaaek4p4525ksepyyy75gfvi47fptm2gftw7cn656rnfhzdqd.onion/leaks",
+    "category": "ransomware_gang",
+    "description": "WEYHRO"
+  },
+  {
+    "indicator": "http://y3maveiwszbnrziufbbberx74cvrdcsf72nxzuqxzv7ppdmmqzffazid.onion",
+    "category": "ransomware_gang",
+    "description": "DYSPHOR1A - https://t.me/normalhuntercrime"
+  },
+  {
+    "indicator": "http://ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion",
+    "category": "ransomware_gang",
+    "description": "BLACKLOCKS"
+  },
+  {
+    "indicator": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion",
+    "category": "ransomware_gang",
+    "description": "STORM"
+  },
+  {
+    "indicator": "http://yrz6bayqwhleymbeviter7ejccxm64sv2ppgqgderzgdhutozcbbhpqd.onion",
+    "category": "ransomware_gang",
+    "description": "Apos Security - E6DE9A810847293EC993A6FFCF615F43178489048D2974C215B2D1BAEED3A950432030DA3572"
+  },
+  {
+    "indicator": "http://yywhylvqeqynzik6ibocb53o2nat7lmzn5ynjpar3stndzcgmy6dkgid.onion",
+    "category": "ransomware_gang",
+    "description": "BQTLOCK - https://t.me/BQTLock - https://t.me/liwaamohammad - https://t.me/Fuch0u"
+  },
+  {
+    "indicator": "http://yzcpwxuhbkyjnyn4qsf4o5dkvu6m2fyo7dwizmnlutanlmzlos7pa6qd.onion",
+    "category": "ransomware_gang",
+    "description": "NASIR"
+  },
+  {
+    "indicator": "http://z3mojpjnxt5tgqvu4wgosihl7pxvrcbyjcgquw2bwkyye5gwbhnf4kqd.onion",
+    "category": "ransomware_gang",
+    "description": "SOVCALI"
+  },
+  {
+    "indicator": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion",
+    "category": "ransomware_gang",
+    "description": "DRAGON FORCE"
+  },
+  {
+    "indicator": "http://z5jixbfejdu5wtxd2baliu6hwzgcitlspnttr7c2eopl5ccfcjrhkqid.onion",
+    "category": "ransomware_gang",
+    "description": "RABBIT HOLE"
+  },
+  {
+    "indicator": "http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
+    "category": "ransomware_gang",
+    "description": "MEDUSA"
+  },
+  {
+    "indicator": "http://zfytizegsze6uiswodhbaalyy5rawaytv2nzyzdkt3susbewviqqh7yd.onion",
+    "category": "ransomware_gang",
+    "description": "WARLOCK"
+  },
+  {
+    "indicator": "http://zhuobnfsddn2myfxxdqtpxk367dqnntjf3kq7mrzdgienfxjyllq4rqd.onion",
+    "category": "ransomware_gang",
+    "description": "Zero Tolerance"
+  },
+  {
+    "indicator": "http://zktnif5vckhmz5tyrukp5bamatbfhkxjnb23rspsanyzywcrx3bvtqad.onion",
+    "category": "ransomware_gang",
+    "description": "BRAIN CIPHER (File Server)"
+  },
+  {
+    "indicator": "http://znuzuy4hkjacew5y2q7mo63hufhzzjtsr2bkjetxqjibk4ctfl7jghyd.onion/signin",
+    "category": "ransomware_gang",
+    "description": "TRIGONA (Access Portal)"
+  },
+  {
+    "indicator": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion",
+    "category": "ransomware_gang",
+    "description": "RANSOM HOUSE"
+  },
+  {
+    "indicator": "http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion",
+    "category": "ransomware_gang",
+    "description": "BLUEBOX"
+  },
+  {
+    "indicator": "https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion",
+    "category": "ransomware_gang",
+    "description": "KARAKURT (Dark)"
+  },
+  {
+    "indicator": "https://3jguvp6xhyypdjgxhxweu4zklse66v3awjj2zljpftcjyeoimepnwtyd.onion",
+    "category": "ransomware_gang",
+    "description": "WORLDLEAKS (Early Access)"
+  },
+  {
+    "indicator": "https://5tqdhriujqb7tb3cw3i3ffwaamjtnph6wsijdbecscyqhii3jbjz2rqd.onion",
+    "category": "ransomware_gang",
+    "description": "MEDUZA LOCKER"
+  },
+  {
+    "indicator": "https://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion",
+    "category": "ransomware_gang",
+    "description": "AUDIT"
+  },
+  {
+    "indicator": "https://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion",
+    "category": "ransomware_gang",
+    "description": "BLACKBASTA (Victims request ID Page)"
+  },
+  {
+    "indicator": "https://abrahams-ax.se",
+    "category": "ransomware_gang",
+    "description": "Abrahams Ax (Deep)"
+  },
+  {
+    "indicator": "https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion",
+    "category": "ransomware_gang",
+    "description": "Akira"
+  },
+  {
+    "indicator": "https://akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion/",
+    "category": "ransomware_gang",
+    "description": "Akira (Victims request ID page)"
+  },
+  {
+    "indicator": "https://apos.blog",
+    "category": "ransomware_gang",
+    "description": "Apos Security - E6DE9A810847293EC993A6FFCF615F43178489048D2974C215B2D1BAEED3A950432030DA3572"
+  },
+  {
+    "indicator": "https://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion",
+    "category": "ransomware_gang",
+    "description": "ARCUS MEDIA"
+  },
+  {
+    "indicator": "https://ausare.net/app/news",
+    "category": "ransomware_gang",
+    "description": "OSIRIS PROJECT"
+  },
+  {
+    "indicator": "https://blackxppq2jvqyg4slyg3sbszv7ib2avaaycvhff5qipgdoepqi57xyd.onion",
+    "category": "ransomware_gang",
+    "description": "BLACKX"
+  },
+  {
+    "indicator": "https://bravoxxwcfz5qk43ychgveprpd5mw5hvxfs4a2uz2okx7mumiht4fzyd.onion",
+    "category": "ransomware_gang",
+    "description": "BRAVOX"
+  },
+  {
+    "indicator": "https://cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion",
+    "category": "ransomware_gang",
+    "description": "CACTUS"
+  },
+  {
+    "indicator": "https://crpx0.su",
+    "category": "ransomware_gang",
+    "description": "CRPX0"
+  },
+  {
+    "indicator": "https://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion",
+    "category": "ransomware_gang",
+    "description": "DARK PROJECT"
+  },
+  {
+    "indicator": "https://deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion",
+    "category": "ransomware_gang",
+    "description": "DEADLOCK"
+  },
+  {
+    "indicator": "https://discord.com/invite/jjZQdDNnGh",
+    "category": "ransomware_gang",
+    "description": "WIPER LEAK (only on Discord)"
+  },
+  {
+    "indicator": "https://ethics67vxjomvlcugjovv4fc3g6ru5tpwotg533d4j3uf2btmnndead.onion/showcase",
+    "category": "ransomware_gang",
+    "description": "ETHICS"
+  },
+  {
+    "indicator": "https://fyenuhkq3pfhnbpidj5jm2fl2lryxip4byhg6eozynrnlomu4szf2nyd.onion",
+    "category": "ransomware_gang",
+    "description": "ZAWOO"
+  },
+  {
+    "indicator": "https://github.com/Casualtek/Ransomchats",
+    "category": "ransomware_gang",
+    "description": "RansomChats"
+  },
+  {
+    "indicator": "https://handala.to",
+    "category": "ransomware_gang",
+    "description": "HANDALA [ONLINE (Parked)]"
+  },
+  {
+    "indicator": "https://hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd.onion",
+    "category": "ransomware_gang",
+    "description": "HUNTERS INTERNATIONAL (Victim Site)"
+  },
+  {
+    "indicator": "https://hunters55atbdusuladzv7vzv6a423bkh6ksl2uftwrxyuarbzlfh7yd.onion",
+    "category": "ransomware_gang",
+    "description": "HUNTERS INTERNATIONAL"
+  },
+  {
+    "indicator": "https://hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion",
+    "category": "ransomware_gang",
+    "description": "HUNTERS INTERNATIONAL - HUNTERS INTERNATIONAL( )"
+  },
+  {
+    "indicator": "https://lapsus.by",
+    "category": "ransomware_gang",
+    "description": "LAPSUS$ GROUP"
+  },
+  {
+    "indicator": "https://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion",
+    "category": "ransomware_gang",
+    "description": "LOCKBIT 5.0 (blog/ransomware claims)"
+  },
+  {
+    "indicator": "https://malekteam.ac",
+    "category": "ransomware_gang",
+    "description": "MALEKTEAM - https://twitter.com/malekteam2"
+  },
+  {
+    "indicator": "https://mes4qo4rd6t3biyrm6q4twkquspzd7r4kg7va765nbdfxqgnc2w3pead.onion",
+    "category": "ransomware_gang",
+    "description": "LEAK BAZAR"
+  },
+  {
+    "indicator": "https://nullbulge.co/blog.html",
+    "category": "ransomware_gang",
+    "description": "NULLBULGE"
+  },
+  {
+    "indicator": "https://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion",
+    "category": "ransomware_gang",
+    "description": "KARAKURT (chat panel)"
+  },
+  {
+    "indicator": "https://osirisbm3357xrccnid23nlyuqwzbgqheaei6dxvyi34tbkqr3bmvfid.onion",
+    "category": "ransomware_gang",
+    "description": "OSIRIS PROJECT"
+  },
+  {
+    "indicator": "https://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion",
+    "category": "ransomware_gang",
+    "description": "0X Thief"
+  },
+  {
+    "indicator": "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion",
+    "category": "ransomware_gang",
+    "description": "Payouts King - 535F403A2EA2DC71A392E18D7DB77FEF70845C0B7E5B9114CD30D301870304379C3547E324E2"
+  },
+  {
+    "indicator": "https://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion",
+    "category": "ransomware_gang",
+    "description": "PANZER"
+  },
+  {
+    "indicator": "https://raas.lgiil72vkmdtbc3qv4tyq6wedyjxqr2qd4ze7xl2cxgerdnymxj7soqd.onion",
+    "category": "ransomware_gang",
+    "description": "GUNRA"
+  },
+  {
+    "indicator": "https://radar.ltd/",
+    "category": "ransomware_gang",
+    "description": "DISPOSSESSOR (Deep)"
+  },
+  {
+    "indicator": "https://ransom.insicurezzadigitale.com/index.php",
+    "category": "ransomware_gang",
+    "description": "Ransomfeed"
+  },
+  {
+    "indicator": "https://ransomed.biz",
+    "category": "ransomware_gang",
+    "description": "RANSOMEDVC or REBORNVC - FF59E28C08A4D0D9BA95EC6D72A15F7677D58E48EC5EE0D7CADEE0E7A1B3E37BFBD4996B41DD"
+  },
+  {
+    "indicator": "https://ransomed.vc",
+    "category": "ransomware_gang",
+    "description": "RANSOMED (Deep Web) - FF59E28C08A4D0D9BA95EC6D72A15F7677D58E48EC5EE0D7CADEE0E7A1B3E37BFBD4996B41DD - https://twitter.com/RansomedVC"
+  },
+  {
+    "indicator": "https://ransomwatch.telemetry.ltd/#/INDEX",
+    "category": "ransomware_gang",
+    "description": "RANSOMWARE GROUP SITES (list)"
+  },
+  {
+    "indicator": "https://shinyhunte.rs",
+    "category": "ransomware_gang",
+    "description": "SCATTERED SPIDER - shinygroup@onionmail.com"
+  },
+  {
+    "indicator": "https://snatchnews.top/",
+    "category": "ransomware_gang",
+    "description": "SNATCH (Deep) - https://t.me/snatch_info"
+  },
+  {
+    "indicator": "https://snatchteam.top/",
+    "category": "ransomware_gang",
+    "description": "SNATCH (Deep) - https://t.me/snatch_info"
+  },
+  {
+    "indicator": "https://spycorp.pro",
+    "category": "ransomware_gang",
+    "description": "SPY CORPORATE"
+  },
+  {
+    "indicator": "https://vipsuscription.org",
+    "category": "ransomware_gang",
+    "description": "KELVIN SECURITY - https://t.me/kelvinsecteam"
+  },
+  {
+    "indicator": "https://vs6ccwled72hwmescxr2e32mmfrm6vbqbo7gbmmkxnu7g5fps7ndeeyd.onion",
+    "category": "ransomware_gang",
+    "description": "KITTYKATKREW"
+  },
+  {
+    "indicator": "https://werewolves.pro/en/",
+    "category": "ransomware_gang",
+    "description": "WEREWOLVES GROUP"
+  },
+  {
+    "indicator": "https://www.ransom-db.com",
+    "category": "ransomware_gang",
+    "description": "RANSOM DB"
+  },
+  {
+    "indicator": "https://www.ransomlook.io/",
+    "category": "ransomware_gang",
+    "description": "RANSOMWARE GROUPS MONITORING TOOL"
+  },
+  {
+    "indicator": "https://www.ransomware.live/",
+    "category": "ransomware_gang",
+    "description": "RANSOMWARE GROUPS MONITORING TOOL"
+  },
+  {
+    "indicator": "https://t.me/+0fqudHsyHp83MWQx",
+    "category": "telegram_infostealer",
+    "description": ".boxed.pw"
+  },
+  {
+    "indicator": "https://t.me/+0IAf5VIrl_EzNWRi",
+    "category": "telegram_infostealer",
+    "description": "BradMax Cloud Malware Data Logs"
+  },
+  {
+    "indicator": "https://t.me/+8DxOrHQdrzw1ZjUy",
+    "category": "telegram_infostealer",
+    "description": "GODELESS CLOUD Botnet Logs"
+  },
+  {
+    "indicator": "https://t.me/+abRpT5eRHCplNzIy",
+    "category": "telegram_infostealer",
+    "description": "darkside linklogs"
+  },
+  {
+    "indicator": "https://t.me/+E9biBdpOv35iMmEy",
+    "category": "telegram_infostealer",
+    "description": "SNATCH LOGS CLOUD"
+  },
+  {
+    "indicator": "https://t.me/+eVzekG0gSCcyN2Y1",
+    "category": "telegram_infostealer",
+    "description": "LeakBase Files 2.0"
+  },
+  {
+    "indicator": "https://t.me/+fcxhFl9JSRE3YTdi",
+    "category": "telegram_infostealer",
+    "description": "HUBHEAD Logs"
+  },
+  {
+    "indicator": "https://t.me/+FnHchisk1aU0ODVi",
+    "category": "telegram_infostealer",
+    "description": "Invite Link - Harmony Cloud"
+  },
+  {
+    "indicator": "https://t.me/+IqEnwfj7CLU1Yjcy",
+    "category": "telegram_infostealer",
+    "description": "Invite Link - OMEGA Cloud"
+  },
+  {
+    "indicator": "https://t.me/+kB8-KwFmfaQzZmUx",
+    "category": "telegram_infostealer",
+    "description": "textbases"
+  },
+  {
+    "indicator": "https://t.me/+ll-i0WgcnqYwMjI0",
+    "category": "telegram_infostealer",
+    "description": "Ottoman Cloud Logs"
+  },
+  {
+    "indicator": "https://t.me/+M1WRRV5fJMk3NmE1",
+    "category": "telegram_infostealer",
+    "description": "EVIL CLOUD"
+  },
+  {
+    "indicator": "https://t.me/+mBXM5tDc1II2YmU0",
+    "category": "telegram_infostealer",
+    "description": "Darkside Reborn"
+  },
+  {
+    "indicator": "https://t.me/+OZheKtZ368YxMDBl",
+    "category": "telegram_infostealer",
+    "description": "Goblin's Free Logs"
+  },
+  {
+    "indicator": "https://t.me/+p--PGff5qRUzZmIy",
+    "category": "telegram_infostealer",
+    "description": "Fehu Cloud"
+  },
+  {
+    "indicator": "https://t.me/+Ur4QkkziwJI0ZDQx",
+    "category": "telegram_infostealer",
+    "description": "EVIL CLOUD"
+  },
+  {
+    "indicator": "https://t.me/+V_oM-vx0YnSN7nzH",
+    "category": "telegram_infostealer",
+    "description": "Log Leaks Group"
+  },
+  {
+    "indicator": "https://t.me/+VbZVKqzgUURlMjdi",
+    "category": "telegram_infostealer",
+    "description": "Everlasting Cloud"
+  },
+  {
+    "indicator": "https://t.me/+WvAKkgzuGO1jNWVl",
+    "category": "telegram_infostealer",
+    "description": "LeakBase 2.0"
+  },
+  {
+    "indicator": "https://t.me/anonymous_algeria_chat",
+    "category": "telegram_infostealer",
+    "description": "Anonymous Algeria Group"
+  },
+  {
+    "indicator": "https://t.me/berserklogs",
+    "category": "telegram_infostealer",
+    "description": "Redline Stealer"
+  },
+  {
+    "indicator": "https://t.me/BHF_CLOUD",
+    "category": "telegram_infostealer",
+    "description": "BHF Cloud"
+  },
+  {
+    "indicator": "https://t.me/BorwitaFreeLogs",
+    "category": "telegram_infostealer",
+    "description": "Redline Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/BurnCloudLogs",
+    "category": "telegram_infostealer",
+    "description": "Burn Cloud Logs"
+  },
+  {
+    "indicator": "https://t.me/CLOUDCASPERLINK",
+    "category": "telegram_infostealer",
+    "description": "Casper Cloud"
+  },
+  {
+    "indicator": "https://t.me/clouddvd",
+    "category": "telegram_infostealer",
+    "description": "DVD Cloud"
+  },
+  {
+    "indicator": "https://t.me/cloudxlog",
+    "category": "telegram_infostealer",
+    "description": "LOGS"
+  },
+  {
+    "indicator": "https://t.me/Creditunionbanksstore",
+    "category": "telegram_infostealer",
+    "description": "Bank Logs"
+  },
+  {
+    "indicator": "https://t.me/cvv190_cloud",
+    "category": "telegram_infostealer",
+    "description": "CVV190 Cloud"
+  },
+  {
+    "indicator": "https://t.me/darknescloud",
+    "category": "telegram_infostealer",
+    "description": "Darkness Cloud"
+  },
+  {
+    "indicator": "https://t.me/darkside_hubb",
+    "category": "telegram_infostealer",
+    "description": "Darkside Hub"
+  },
+  {
+    "indicator": "https://t.me/Developer_Astra/",
+    "category": "telegram_infostealer",
+    "description": "Anonymous Algeria Channel"
+  },
+  {
+    "indicator": "https://t.me/EuropeCloud",
+    "category": "telegram_infostealer",
+    "description": "Europe Cloud"
+  },
+  {
+    "indicator": "https://t.me/FehuCloud",
+    "category": "telegram_infostealer",
+    "description": "Fehu Cloud"
+  },
+  {
+    "indicator": "https://t.me/frilogs",
+    "category": "telegram_infostealer",
+    "description": "Frilogs Redline Stealer - Usually logs pillaged from other sites"
+  },
+  {
+    "indicator": "https://t.me/joinchat/aLzjwn_93JtkMDA8",
+    "category": "telegram_infostealer",
+    "description": "Logs Market"
+  },
+  {
+    "indicator": "https://t.me/joinchat/Cyv2m5zFE6JmMjVi",
+    "category": "telegram_infostealer",
+    "description": "Logs"
+  },
+  {
+    "indicator": "https://t.me/joinchat/ZST8YodAuzo2NGVk",
+    "category": "telegram_infostealer",
+    "description": "Logs Market"
+  },
+  {
+    "indicator": "https://t.me/Log_Market_Place",
+    "category": "telegram_infostealer",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/logsgang2",
+    "category": "telegram_infostealer",
+    "description": "Logs Market"
+  },
+  {
+    "indicator": "https://t.me/MalwareLogs",
+    "category": "telegram_infostealer",
+    "description": "Logs"
+  },
+  {
+    "indicator": "https://t.me/ManticoreCloud",
+    "category": "telegram_infostealer",
+    "description": "Manticore"
+  },
+  {
+    "indicator": "https://t.me/Mariarticloud",
+    "category": "telegram_infostealer",
+    "description": "Mariatri Cloud (Repackaged Stealer Logs)"
+  },
+  {
+    "indicator": "https://t.me/mercedesbenzcloud",
+    "category": "telegram_infostealer",
+    "description": "Arcane Logs"
+  },
+  {
+    "indicator": "https://t.me/PegasusCloud",
+    "category": "telegram_infostealer",
+    "description": "Pegasus Cloud"
+  },
+  {
+    "indicator": "https://t.me/realcloud0",
+    "category": "telegram_infostealer",
+    "description": "RealCloud"
+  },
+  {
+    "indicator": "https://t.me/Redline_Cl0ud4",
+    "category": "telegram_infostealer",
+    "description": "Redline_Cl0ud4"
+  },
+  {
+    "indicator": "https://t.me/Skyl1neCloud",
+    "category": "telegram_infostealer",
+    "description": "Skyline Cloud"
+  },
+  {
+    "indicator": "https://t.me/Sl1ddifree",
+    "category": "telegram_infostealer",
+    "description": "Sl1ddi CLOUD FREE LOGS"
+  },
+  {
+    "indicator": "https://t.me/snatch_cloud",
+    "category": "telegram_infostealer",
+    "description": "Redline Malware Logs"
+  },
+  {
+    "indicator": "https://t.me/tichancloud",
+    "category": "telegram_infostealer",
+    "description": "Tichan Cloud"
+  },
+  {
+    "indicator": "https://t.me/Trident_Cloud",
+    "category": "telegram_infostealer",
+    "description": "Trident Cloud"
+  },
+  {
+    "indicator": "https://t.me/typicaltemshchik",
+    "category": "telegram_infostealer",
+    "description": "WLFR Project"
+  },
+  {
+    "indicator": "https://t.me/universecloudtxt",
+    "category": "telegram_infostealer",
+    "description": "Universe Cloud"
+  },
+  {
+    "indicator": "https://t.me/+3ZYKShO-lpM2NTM1",
+    "category": "telegram_threat_actors",
+    "description": "Escanors Official"
+  },
+  {
+    "indicator": "https://t.me/+5Q-AbruRPvs1ODg1",
+    "category": "telegram_threat_actors",
+    "description": "Team1914_official | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/+5UAb5KgYPChiMzhk",
+    "category": "telegram_threat_actors",
+    "description": "Hider Nex (Backup) | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/+6nmGy6pn1b03OTk0",
+    "category": "telegram_threat_actors",
+    "description": "Hider Nex (Shop) | Type of attacks: DataLeaks"
+  },
+  {
+    "indicator": "https://t.me/+_d-aW--RLXszYmU0",
+    "category": "telegram_threat_actors",
+    "description": "Openbullet Config Service"
+  },
+  {
+    "indicator": "https://t.me/+AAAAAFNLmVP0ZCy51tNOig",
+    "category": "telegram_threat_actors",
+    "description": "Forum"
+  },
+  {
+    "indicator": "https://t.me/+Bat9QqJcSuE0MTg1",
+    "category": "telegram_threat_actors",
+    "description": "AresLoader"
+  },
+  {
+    "indicator": "https://t.me/+D2e-YSFvtAhhMWU1",
+    "category": "telegram_threat_actors",
+    "description": "BFRepoV4Files | Type of attacks: DataLeaks"
+  },
+  {
+    "indicator": "https://t.me/+DdTJZYISZSs0MzRk",
+    "category": "telegram_threat_actors",
+    "description": "Hyder_N3x Buckup Channel | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/+f6HgnXuFRiIxMzhk",
+    "category": "telegram_threat_actors",
+    "description": "Pro Team Channel | Type of attacks: combos"
+  },
+  {
+    "indicator": "https://t.me/+HG32VQZ93-4zMjE1",
+    "category": "telegram_threat_actors",
+    "description": "SUMATRA UTARA CYBER TEAM"
+  },
+  {
+    "indicator": "https://t.me/+hSH4gfaaAOA4YzY6",
+    "category": "telegram_threat_actors",
+    "description": "Sector16/S16 #Killnet"
+  },
+  {
+    "indicator": "https://t.me/+ipEzVrjM43NkODc0",
+    "category": "telegram_threat_actors",
+    "description": "AKATSUKI gang (Algerian Ministry breach)"
+  },
+  {
+    "indicator": "https://t.me/+jCjbvdsUSJIzN2Vl",
+    "category": "telegram_threat_actors",
+    "description": "The Collective Sentinel"
+  },
+  {
+    "indicator": "https://t.me/+l2fmYlvJnTA2MTc0",
+    "category": "telegram_threat_actors",
+    "description": "Bucket Leaks | Type of attacks: Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/+Lj3K9WgZFrxkNDY1",
+    "category": "telegram_threat_actors",
+    "description": "OBSCURION"
+  },
+  {
+    "indicator": "https://t.me/+lPVDPudjxSE0M2Q1",
+    "category": "telegram_threat_actors",
+    "description": "Data Globe | Type of attacks: Data Breach"
+  },
+  {
+    "indicator": "https://t.me/+n0Z8jU9JpgEwOTY9",
+    "category": "telegram_threat_actors",
+    "description": "GARUDIANS INDO BLACK HAT"
+  },
+  {
+    "indicator": "https://t.me/+O7yT5lylY89lMTcy",
+    "category": "telegram_threat_actors",
+    "description": "TCG"
+  },
+  {
+    "indicator": "https://t.me/+uIojmLMIJz0yNzIy",
+    "category": "telegram_threat_actors",
+    "description": "Hunting for Data | Type of attacks: Data Leak"
+  },
+  {
+    "indicator": "https://t.me/+uV_Lxf2uOHhkMjAy",
+    "category": "telegram_threat_actors",
+    "description": "Killnet Store Chat"
+  },
+  {
+    "indicator": "https://t.me/+WCSE2vgon6IYGLgz",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/+wP33Q9NXAURlMzNk",
+    "category": "telegram_threat_actors",
+    "description": "AnonSec | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/+wuOFH81f2us1YmQ0",
+    "category": "telegram_threat_actors",
+    "description": "xorcat vouch"
+  },
+  {
+    "indicator": "https://t.me/+XhceuAZW9QJkOWJl",
+    "category": "telegram_threat_actors",
+    "description": "Garuna Ops"
+  },
+  {
+    "indicator": "https://t.me/+xKUeFc1nB89hNTM1",
+    "category": "telegram_threat_actors",
+    "description": "Escanors Marketplace"
+  },
+  {
+    "indicator": "https://t.me/+y58X1DJL5DdmZTNi",
+    "category": "telegram_threat_actors",
+    "description": "Team1914_official_Chat | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/+YR89p_rg8Oo0Y2Ux",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/+ZMoidrbayTgyMzQ9",
+    "category": "telegram_threat_actors",
+    "description": "Garuda Error system"
+  },
+  {
+    "indicator": "https://t.me/AccountSquadChat",
+    "category": "telegram_threat_actors",
+    "description": "Illicit Service Group"
+  },
+  {
+    "indicator": "https://t.me/Aero4Sec",
+    "category": "telegram_threat_actors",
+    "description": "Aero4Sec"
+  },
+  {
+    "indicator": "https://t.me/AFN_RU",
+    "category": "telegram_threat_actors",
+    "description": "АльфаНет"
+  },
+  {
+    "indicator": "https://t.me/alixsecenglish",
+    "category": "telegram_threat_actors",
+    "description": "Alixsec | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/Allhak_mv",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/altenens",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/anon_by",
+    "category": "telegram_threat_actors",
+    "description": "Anonymous Russia channel"
+  },
+  {
+    "indicator": "https://t.me/anoncambodia",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/ANONMOUS_KASHMIR",
+    "category": "telegram_threat_actors",
+    "description": "ANONYMOUS KASHMIR"
+  },
+  {
+    "indicator": "https://t.me/AnonPioneers",
+    "category": "telegram_threat_actors",
+    "description": "AnonPioneers | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/ANONXF34RL3SS",
+    "category": "telegram_threat_actors",
+    "description": "ANON X FEARLESS"
+  },
+  {
+    "indicator": "https://t.me/Anonymous_Guys_313",
+    "category": "telegram_threat_actors",
+    "description": "Anonymous Guys | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/anonymous_south_africa",
+    "category": "telegram_threat_actors",
+    "description": "Anonymous South Africa | Type of attacks: Data Leak"
+  },
+  {
+    "indicator": "https://t.me/AnonymousGuys0",
+    "category": "telegram_threat_actors",
+    "description": "Anonymous Guys"
+  },
+  {
+    "indicator": "https://t.me/AnonymousVNLBN99",
+    "category": "telegram_threat_actors",
+    "description": "Lực Lượng Đặc Biệt Quân Đội Điện Tử"
+  },
+  {
+    "indicator": "https://t.me/antiextchatt",
+    "category": "telegram_threat_actors",
+    "description": "AE Chat"
+  },
+  {
+    "indicator": "https://t.me/anzu_team",
+    "category": "telegram_threat_actors",
+    "description": "Anzu Team"
+  },
+  {
+    "indicator": "https://t.me/APIddosMirai",
+    "category": "telegram_threat_actors",
+    "description": "Killnet API DDoS Mirai | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/APTANALYSIS",
+    "category": "telegram_threat_actors",
+    "description": "Exploits"
+  },
+  {
+    "indicator": "https://t.me/APTIRGC",
+    "category": "telegram_threat_actors",
+    "description": "APT IRGC"
+  },
+  {
+    "indicator": "https://t.me/arabghostschat",
+    "category": "telegram_threat_actors",
+    "description": "ArabGhost"
+  },
+  {
+    "indicator": "https://t.me/ARABIAN_GHOSTS",
+    "category": "telegram_threat_actors",
+    "description": "ARABIAN GHOSTS | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/Assasins_Official",
+    "category": "telegram_threat_actors",
+    "description": "Assassins"
+  },
+  {
+    "indicator": "https://t.me/atlantiscyberarmy",
+    "category": "telegram_threat_actors",
+    "description": "Atlantis - CyberArmy - A.I.G"
+  },
+  {
+    "indicator": "https://t.me/atw2022",
+    "category": "telegram_threat_actors",
+    "description": "Against The West"
+  },
+  {
+    "indicator": "https://t.me/azzasec_back",
+    "category": "telegram_threat_actors",
+    "description": "AzzaSec | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/BabayoErorSytem1",
+    "category": "telegram_threat_actors",
+    "description": "BABAYO EROR SYSTEM"
+  },
+  {
+    "indicator": "https://t.me/baseleeak",
+    "category": "telegram_threat_actors",
+    "description": "BaseLeak | Type of attacks: Data Breach"
+  },
+  {
+    "indicator": "https://t.me/BEARITARMY",
+    "category": "telegram_threat_actors",
+    "description": "BearITArmy"
+  },
+  {
+    "indicator": "https://t.me/bfsup",
+    "category": "telegram_threat_actors",
+    "description": "BreachForums | Type of attacks: Forum"
+  },
+  {
+    "indicator": "https://t.me/bjorkanismen",
+    "category": "telegram_threat_actors",
+    "description": "Bjorkanism | Type of attacks: DataLeaks"
+  },
+  {
+    "indicator": "https://t.me/bl4ck_cyb3r",
+    "category": "telegram_threat_actors",
+    "description": "BL4CK CYB3R"
+  },
+  {
+    "indicator": "https://t.me/Bl4ck_Room",
+    "category": "telegram_threat_actors",
+    "description": "Checkers, Hacking Tools"
+  },
+  {
+    "indicator": "https://t.me/blackforumsarchive",
+    "category": "telegram_threat_actors",
+    "description": "BlacksForums archive"
+  },
+  {
+    "indicator": "https://t.me/blackforumsbf",
+    "category": "telegram_threat_actors",
+    "description": "Blackforum"
+  },
+  {
+    "indicator": "https://t.me/blackshadowhackers",
+    "category": "telegram_threat_actors",
+    "description": "Blackshadow Hackers"
+  },
+  {
+    "indicator": "https://t.me/blackvaultcc",
+    "category": "telegram_threat_actors",
+    "description": "Blackvault"
+  },
+  {
+    "indicator": "https://t.me/BLOODNET_RUS",
+    "category": "telegram_threat_actors",
+    "description": "Bloodnet"
+  },
+  {
+    "indicator": "https://t.me/blueshadow67",
+    "category": "telegram_threat_actors",
+    "description": "Blue Shadow"
+  },
+  {
+    "indicator": "https://t.me/bratvacorp",
+    "category": "telegram_threat_actors",
+    "description": "Bratva"
+  },
+  {
+    "indicator": "https://t.me/breachdetect",
+    "category": "telegram_threat_actors",
+    "description": "Data Leak Monitor"
+  },
+  {
+    "indicator": "https://t.me/breachdetector",
+    "category": "telegram_threat_actors",
+    "description": "Data Leak Monitor"
+  },
+  {
+    "indicator": "https://t.me/breaches",
+    "category": "telegram_threat_actors",
+    "description": "Breaches (breached.st forum)"
+  },
+  {
+    "indicator": "https://t.me/BreachForumsNews",
+    "category": "telegram_threat_actors",
+    "description": "BreachForums | Type of attacks: Forum"
+  },
+  {
+    "indicator": "https://t.me/breachstars",
+    "category": "telegram_threat_actors",
+    "description": "BreachStars | Type of attacks: Data Leak (related to Scattered Spider/$Lapsus)"
+  },
+  {
+    "indicator": "https://t.me/Bust3d",
+    "category": "telegram_threat_actors",
+    "description": "волчья свалка"
+  },
+  {
+    "indicator": "https://t.me/byjax7",
+    "category": "telegram_threat_actors",
+    "description": "JAX7"
+  },
+  {
+    "indicator": "https://t.me/canyoupwnme",
+    "category": "telegram_threat_actors",
+    "description": "News"
+  },
+  {
+    "indicator": "https://t.me/cas_files",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/CHO1CHO1",
+    "category": "telegram_threat_actors",
+    "description": "CH01 group"
+  },
+  {
+    "indicator": "https://t.me/cIub1337",
+    "category": "telegram_threat_actors",
+    "description": "club1337"
+  },
+  {
+    "indicator": "https://t.me/civiliandarkcode404",
+    "category": "telegram_threat_actors",
+    "description": "Civilan dark code"
+  },
+  {
+    "indicator": "https://t.me/ckeArsenal",
+    "category": "telegram_threat_actors",
+    "description": "ckeArsenal"
+  },
+  {
+    "indicator": "https://t.me/Combolistfresh",
+    "category": "telegram_threat_actors",
+    "description": "Combo List"
+  },
+  {
+    "indicator": "https://t.me/COMBOWORKON",
+    "category": "telegram_threat_actors",
+    "description": "Mail Access Combos"
+  },
+  {
+    "indicator": "https://t.me/Configsandcombos",
+    "category": "telegram_threat_actors",
+    "description": "Configs, Combos"
+  },
+  {
+    "indicator": "https://t.me/ConfigsServices",
+    "category": "telegram_threat_actors",
+    "description": "Configs, Combos"
+  },
+  {
+    "indicator": "https://t.me/CoupTeam",
+    "category": "telegram_threat_actors",
+    "description": "Coup Team"
+  },
+  {
+    "indicator": "https://t.me/cpartisans",
+    "category": "telegram_threat_actors",
+    "description": "Кибер-Партизаны (Cyber Partisans)"
+  },
+  {
+    "indicator": "https://t.me/crackcodes",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/CrazyHuntersTeam",
+    "category": "telegram_threat_actors",
+    "description": "Crazy Hunters Team | Type of attacks: Ransomware gang"
+  },
+  {
+    "indicator": "https://t.me/crewcomboteams",
+    "category": "telegram_threat_actors",
+    "description": "Crew Combo Teams"
+  },
+  {
+    "indicator": "https://t.me/cristallineforum",
+    "category": "telegram_threat_actors",
+    "description": "Cristalline Forum"
+  },
+  {
+    "indicator": "https://t.me/ctifeeds",
+    "category": "telegram_threat_actors",
+    "description": "Cyber Threat Intelligence Feeds"
+  },
+  {
+    "indicator": "https://t.me/cveNotify",
+    "category": "telegram_threat_actors",
+    "description": "CVE Feed"
+  },
+  {
+    "indicator": "https://t.me/Cyb3rBlitz",
+    "category": "telegram_threat_actors",
+    "description": "Cyber Blitz"
+  },
+  {
+    "indicator": "https://t.me/cyb3rtr0nian",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/cybdetective",
+    "category": "telegram_threat_actors",
+    "description": "News & Info Sharing"
+  },
+  {
+    "indicator": "https://t.me/cyber_anarchy_squad",
+    "category": "telegram_threat_actors",
+    "description": "[ Cyber.Anarchy.Squad ]"
+  },
+  {
+    "indicator": "https://t.me/Cyber_Dark_Echo",
+    "category": "telegram_threat_actors",
+    "description": "CYBER DARK ECHO"
+  },
+  {
+    "indicator": "https://t.me/cyberactiveXXII",
+    "category": "telegram_threat_actors",
+    "description": "CA XXII Hacktivist Gang"
+  },
+  {
+    "indicator": "https://t.me/cybercourt_io",
+    "category": "telegram_threat_actors",
+    "description": "CyberCourt Group (pro Palestine) - https://cybercourt.io | Type of attacks: Data Leak"
+  },
+  {
+    "indicator": "https://t.me/CyberDragonRussia",
+    "category": "telegram_threat_actors",
+    "description": "Cyber Dragon Russia"
+  },
+  {
+    "indicator": "https://t.me/CyberJihadMovement",
+    "category": "telegram_threat_actors",
+    "description": "Cyber Jihad Movement | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/CyperBattle",
+    "category": "telegram_threat_actors",
+    "description": "Cyber Battle | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/D1rkSec",
+    "category": "telegram_threat_actors",
+    "description": "D1rkSec | Type of attacks: Leaks & Breaches"
+  },
+  {
+    "indicator": "https://t.me/D3v1LZoNe",
+    "category": "telegram_threat_actors",
+    "description": "Devilzone 1 - configs, combos"
+  },
+  {
+    "indicator": "https://t.me/dailydarkweb",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/DangerZoneForum",
+    "category": "telegram_threat_actors",
+    "description": "Danger Zone Forum | Type of attacks: Forum"
+  },
+  {
+    "indicator": "https://t.me/DarkBitChannel",
+    "category": "telegram_threat_actors",
+    "description": "Darkbit Channel"
+  },
+  {
+    "indicator": "https://t.me/DarkfeedNews",
+    "category": "telegram_threat_actors",
+    "description": "News"
+  },
+  {
+    "indicator": "https://t.me/DarkfireDragon7",
+    "category": "telegram_threat_actors",
+    "description": "DarkNess7"
+  },
+  {
+    "indicator": "https://t.me/DarkForums_HN",
+    "category": "telegram_threat_actors",
+    "description": "Darkforums | Type of attacks: Forum"
+  },
+  {
+    "indicator": "https://t.me/DarkForumsNews",
+    "category": "telegram_threat_actors",
+    "description": "Darkforums | Type of attacks: Forum"
+  },
+  {
+    "indicator": "https://t.me/DarkLancer_news",
+    "category": "telegram_threat_actors",
+    "description": "DarkLancer_news"
+  },
+  {
+    "indicator": "https://t.me/Darkstormre",
+    "category": "telegram_threat_actors",
+    "description": "Dark Storm Team"
+  },
+  {
+    "indicator": "https://t.me/Darkstormteamback",
+    "category": "telegram_threat_actors",
+    "description": "Dark Storm Team"
+  },
+  {
+    "indicator": "https://t.me/darxe_base",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/databasemarkett",
+    "category": "telegram_threat_actors",
+    "description": "Database Market"
+  },
+  {
+    "indicator": "https://t.me/databreach",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/dataflows",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/DataLeakHome",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/DBleak",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/ddos_separ",
+    "category": "telegram_threat_actors",
+    "description": "DDoS Services | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/ddoswfree",
+    "category": "telegram_threat_actors",
+    "description": "Meows alive | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/DeepCoreNetwork",
+    "category": "telegram_threat_actors",
+    "description": "DeepCore Network"
+  },
+  {
+    "indicator": "https://t.me/DefacerIndonesia1337",
+    "category": "telegram_threat_actors",
+    "description": "Defacer Indonesia"
+  },
+  {
+    "indicator": "https://t.me/dienet1",
+    "category": "telegram_threat_actors",
+    "description": "DieNet | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/dienet2",
+    "category": "telegram_threat_actors",
+    "description": "DieNet Backup/News | Type of attacks: DDoS & Data Breach"
+  },
+  {
+    "indicator": "https://t.me/dienet3",
+    "category": "telegram_threat_actors",
+    "description": "DieNet | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/DIeNlt",
+    "category": "telegram_threat_actors",
+    "description": "DieNet | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/digitalsghost",
+    "category": "telegram_threat_actors",
+    "description": "Digital Ghost"
+  },
+  {
+    "indicator": "https://t.me/diplomatet",
+    "category": "telegram_threat_actors",
+    "description": "Diplomat | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/disc_hack",
+    "category": "telegram_threat_actors",
+    "description": "Discord | Type of attacks: related to Discord data breach"
+  },
+  {
+    "indicator": "https://t.me/dontleakmydata",
+    "category": "telegram_threat_actors",
+    "description": "DontLeakMyData"
+  },
+  {
+    "indicator": "https://t.me/dragonforceio",
+    "category": "telegram_threat_actors",
+    "description": "DragonForce Malaysia"
+  },
+  {
+    "indicator": "https://t.me/dropleak",
+    "category": "telegram_threat_actors",
+    "description": "Database Catalog | Type of attacks: Data leaks and Combo lists"
+  },
+  {
+    "indicator": "https://t.me/dropsleak",
+    "category": "telegram_threat_actors",
+    "description": "DBCollection"
+  },
+  {
+    "indicator": "https://t.me/dropsumshi",
+    "category": "telegram_threat_actors",
+    "description": "data catalog | Type of attacks: Data Breach"
+  },
+  {
+    "indicator": "https://t.me/DumpedOfficial",
+    "category": "telegram_threat_actors",
+    "description": "Dumped forum"
+  },
+  {
+    "indicator": "https://t.me/EarthImpact_hack",
+    "category": "telegram_threat_actors",
+    "description": "EarthImpact Team"
+  },
+  {
+    "indicator": "https://t.me/easycloudlogsback0",
+    "category": "telegram_threat_actors",
+    "description": "Easy Cloud Logs Free | Type of attacks: combos"
+  },
+  {
+    "indicator": "https://t.me/ehdanstock",
+    "category": "telegram_threat_actors",
+    "description": "Selling Accounts"
+  },
+  {
+    "indicator": "https://t.me/eightbase",
+    "category": "telegram_threat_actors",
+    "description": "8BASE"
+  },
+  {
+    "indicator": "https://t.me/emailistsdatabase",
+    "category": "telegram_threat_actors",
+    "description": "Database Email Lists and Numbers Lists | Type of attacks: combos"
+  },
+  {
+    "indicator": "https://t.me/EternityMalwareTeam",
+    "category": "telegram_threat_actors",
+    "description": "Eternity Malware"
+  },
+  {
+    "indicator": "https://t.me/exodusmarketchannel",
+    "category": "telegram_threat_actors",
+    "description": "Exodus Logs Market"
+  },
+  {
+    "indicator": "https://t.me/ExploitService",
+    "category": "telegram_threat_actors",
+    "description": "Exploit Service"
+  },
+  {
+    "indicator": "https://t.me/flannels",
+    "category": "telegram_threat_actors",
+    "description": "Market"
+  },
+  {
+    "indicator": "https://t.me/FR3DENSOFSECURITY_2023",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/fredenscombos",
+    "category": "telegram_threat_actors",
+    "description": "Fredens of Security | Type of attacks: combos"
+  },
+  {
+    "indicator": "https://t.me/freshtoolsnet",
+    "category": "telegram_threat_actors",
+    "description": "Freshtools Market"
+  },
+  {
+    "indicator": "https://t.me/gangexposed_eng",
+    "category": "telegram_threat_actors",
+    "description": "Gang Exposed Chat"
+  },
+  {
+    "indicator": "https://t.me/garudasec4",
+    "category": "telegram_threat_actors",
+    "description": "Garuda Security"
+  },
+  {
+    "indicator": "https://t.me/garunaops",
+    "category": "telegram_threat_actors",
+    "description": "Garuna Ops"
+  },
+  {
+    "indicator": "https://t.me/GhostSecS",
+    "category": "telegram_threat_actors",
+    "description": "GhostSec Service | Type of attacks: Ransomware, Exfiltration"
+  },
+  {
+    "indicator": "https://t.me/GitTools",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/gladdos69_official",
+    "category": "telegram_threat_actors",
+    "description": "DDoS | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/goblins_gang",
+    "category": "telegram_threat_actors",
+    "description": "chat"
+  },
+  {
+    "indicator": "https://t.me/goblins_hub",
+    "category": "telegram_threat_actors",
+    "description": "hub links"
+  },
+  {
+    "indicator": "https://t.me/Golden_falcon_team",
+    "category": "telegram_threat_actors",
+    "description": "Golden Falcon"
+  },
+  {
+    "indicator": "https://t.me/GoneTeam410",
+    "category": "telegram_threat_actors",
+    "description": "GoneTeam"
+  },
+  {
+    "indicator": "https://t.me/GonjeshkeDarand",
+    "category": "telegram_threat_actors",
+    "description": "Gonjeshke Darande"
+  },
+  {
+    "indicator": "https://t.me/goripoolcodes",
+    "category": "telegram_threat_actors",
+    "description": "Goripool Codes | Type of attacks: Phishing pages,panels"
+  },
+  {
+    "indicator": "https://t.me/grandgive",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/groupcracked",
+    "category": "telegram_threat_actors",
+    "description": "Group Cracked"
+  },
+  {
+    "indicator": "https://t.me/gulfdocs",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks (Gulf Region), Middle East Document Dumps"
+  },
+  {
+    "indicator": "https://t.me/hackberegini",
+    "category": "telegram_threat_actors",
+    "description": "Beregini"
+  },
+  {
+    "indicator": "https://t.me/hacker_trick",
+    "category": "telegram_threat_actors",
+    "description": "Hack Tricks"
+  },
+  {
+    "indicator": "https://t.me/hackerforse",
+    "category": "telegram_threat_actors",
+    "description": "7 October Union | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/hackgit",
+    "category": "telegram_threat_actors",
+    "description": "Offensive Security"
+  },
+  {
+    "indicator": "https://t.me/hackrsk70",
+    "category": "telegram_threat_actors",
+    "description": "Team K70 | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/HANDALA_INTEL",
+    "category": "telegram_threat_actors",
+    "description": "Handala"
+  },
+  {
+    "indicator": "https://t.me/HANDALA_SEC",
+    "category": "telegram_threat_actors",
+    "description": "Handala Hack"
+  },
+  {
+    "indicator": "https://t.me/hannibalmaaleaks",
+    "category": "telegram_threat_actors",
+    "description": "HannibalMAA LE4kS | Type of attacks: Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/HaxChipper",
+    "category": "telegram_threat_actors",
+    "description": "HaxChipper"
+  },
+  {
+    "indicator": "https://t.me/hazardouscyberteam",
+    "category": "telegram_threat_actors",
+    "description": "Hazardous Cyber Team | Type of attacks: Defacements"
+  },
+  {
+    "indicator": "https://t.me/Hexvior_breach",
+    "category": "telegram_threat_actors",
+    "description": "Hexvior OSINT"
+  },
+  {
+    "indicator": "https://t.me/Hider_Nex_Attacks",
+    "category": "telegram_threat_actors",
+    "description": "Hider Nex | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/HK4GANG",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/hooshyarane",
+    "category": "telegram_threat_actors",
+    "description": "Hooshyaran-e Vatan group"
+  },
+  {
+    "indicator": "https://t.me/horus_reservs",
+    "category": "telegram_threat_actors",
+    "description": "Horus Evolution reserve"
+  },
+  {
+    "indicator": "https://t.me/HorusForumRus",
+    "category": "telegram_threat_actors",
+    "description": "Horus Forum"
+  },
+  {
+    "indicator": "https://t.me/horusteam_officiall",
+    "category": "telegram_threat_actors",
+    "description": "Horus Evolution"
+  },
+  {
+    "indicator": "https://t.me/HQPROX",
+    "category": "telegram_threat_actors",
+    "description": "Proxy service"
+  },
+  {
+    "indicator": "https://t.me/icrewhackers",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/illsvc",
+    "category": "telegram_threat_actors",
+    "description": "Illicit Service"
+  },
+  {
+    "indicator": "https://t.me/illsvcchat",
+    "category": "telegram_threat_actors",
+    "description": "Illicit Service chat"
+  },
+  {
+    "indicator": "https://t.me/illsvcleaksupload",
+    "category": "telegram_threat_actors",
+    "description": "Illicit Service Upload"
+  },
+  {
+    "indicator": "https://t.me/INDIAN_CYBER_FORCE",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/Industrial_Spy",
+    "category": "telegram_threat_actors",
+    "description": "Industrial Spy"
+  },
+  {
+    "indicator": "https://t.me/infernaliis",
+    "category": "telegram_threat_actors",
+    "description": "𝐼𝑁𝐹𝐸𝑅𝑁𝐴𝐿𝐼𝑆 #INF"
+  },
+  {
+    "indicator": "https://t.me/infinity_hackers_group",
+    "category": "telegram_threat_actors",
+    "description": "Infinity Hackers By"
+  },
+  {
+    "indicator": "https://t.me/infrastructurek",
+    "category": "telegram_threat_actors",
+    "description": "infrastructure destruction squad"
+  },
+  {
+    "indicator": "https://t.me/inteid",
+    "category": "telegram_threat_actors",
+    "description": "Inteid | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/ironatlas_organization",
+    "category": "telegram_threat_actors",
+    "description": "ɪʀᴏɴ ᴀᴛʟᴀꜱ ɴᴇᴡ ɢᴇɴᴇʀᴀᴛɪᴏɴ"
+  },
+  {
+    "indicator": "https://t.me/itarmyofrussianews",
+    "category": "telegram_threat_actors",
+    "description": "IT Army Of Russia"
+  },
+  {
+    "indicator": "https://t.me/itarmyofukraine2022",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/itsecalert",
+    "category": "telegram_threat_actors",
+    "description": "News"
+  },
+  {
+    "indicator": "https://t.me/jacuzszi",
+    "category": "telegram_threat_actors",
+    "description": "The Jacuzzi New Era"
+  },
+  {
+    "indicator": "https://t.me/jacuzzi",
+    "category": "telegram_threat_actors",
+    "description": "life of the party (breached.st forum)"
+  },
+  {
+    "indicator": "https://t.me/jacuzzidf",
+    "category": "telegram_threat_actors",
+    "description": "The Jacuzzi"
+  },
+  {
+    "indicator": "https://t.me/Jacuzzihub",
+    "category": "telegram_threat_actors",
+    "description": "Jacuzzi 2.0"
+  },
+  {
+    "indicator": "https://t.me/Jax702",
+    "category": "telegram_threat_actors",
+    "description": "JAX7"
+  },
+  {
+    "indicator": "https://t.me/jester_stealer_channel",
+    "category": "telegram_threat_actors",
+    "description": "Jester Stealer Channel | Type of attacks: Infostealer"
+  },
+  {
+    "indicator": "https://t.me/jokersworlds",
+    "category": "telegram_threat_actors",
+    "description": "Joker's world of Free Database"
+  },
+  {
+    "indicator": "https://t.me/jokmajd",
+    "category": "telegram_threat_actors",
+    "description": "TEAM1910"
+  },
+  {
+    "indicator": "https://t.me/JusticeHomeland1",
+    "category": "telegram_threat_actors",
+    "description": "HomeLand Justice"
+  },
+  {
+    "indicator": "https://t.me/KALOSHA319",
+    "category": "telegram_threat_actors",
+    "description": "Kal Egy 319"
+  },
+  {
+    "indicator": "https://t.me/kedirisecteam",
+    "category": "telegram_threat_actors",
+    "description": "KEDIRISECTEAM | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/KillMillk",
+    "category": "telegram_threat_actors",
+    "description": "KillMilk"
+  },
+  {
+    "indicator": "https://t.me/killnet_mirror",
+    "category": "telegram_threat_actors",
+    "description": "Killnet mirror"
+  },
+  {
+    "indicator": "https://t.me/KillnetChatLATAM",
+    "category": "telegram_threat_actors",
+    "description": "KillnetLATAM chat"
+  },
+  {
+    "indicator": "https://t.me/KILLNETddos",
+    "category": "telegram_threat_actors",
+    "description": "Killnet DDoS | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/Killneto",
+    "category": "telegram_threat_actors",
+    "description": "Killnet Officiale (with invites for closed channel)"
+  },
+  {
+    "indicator": "https://t.me/KillNetSyndicate",
+    "category": "telegram_threat_actors",
+    "description": "KillNet Syndicate"
+  },
+  {
+    "indicator": "https://t.me/kittensec",
+    "category": "telegram_threat_actors",
+    "description": "KittenSec"
+  },
+  {
+    "indicator": "https://t.me/kittykatkrew",
+    "category": "telegram_threat_actors",
+    "description": "Kittykatkrew | Type of attacks: Ransomware"
+  },
+  {
+    "indicator": "https://t.me/Ktama_Official",
+    "category": "telegram_threat_actors",
+    "description": "Ktama Official | Type of attacks: RATs"
+  },
+  {
+    "indicator": "https://t.me/lapsusfr",
+    "category": "telegram_threat_actors",
+    "description": "LAPSUS$ France"
+  },
+  {
+    "indicator": "https://t.me/lazarus_apt18",
+    "category": "telegram_threat_actors",
+    "description": "Lazarus channel"
+  },
+  {
+    "indicator": "https://t.me/LCdatabase",
+    "category": "telegram_threat_actors",
+    "description": "Low-Cost-Database"
+  },
+  {
+    "indicator": "https://t.me/Leak_23andme",
+    "category": "telegram_threat_actors",
+    "description": "23andme Leak Database"
+  },
+  {
+    "indicator": "https://t.me/leak_db2",
+    "category": "telegram_threat_actors",
+    "description": "d3ltaboys group 2 (DB Leaks)"
+  },
+  {
+    "indicator": "https://t.me/leaked_databases",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/leaksdatabreach",
+    "category": "telegram_threat_actors",
+    "description": "Data Breach (related to ShinyHunters)"
+  },
+  {
+    "indicator": "https://t.me/LearnExploit",
+    "category": "telegram_threat_actors",
+    "description": "General hacking, Tutorials"
+  },
+  {
+    "indicator": "https://t.me/lefousamples",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/Liquid_Blood",
+    "category": "telegram_threat_actors",
+    "description": "Liquid Blood | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/LockBit_APT",
+    "category": "telegram_threat_actors",
+    "description": "LockBit APT"
+  },
+  {
+    "indicator": "https://t.me/logsgang2",
+    "category": "telegram_threat_actors",
+    "description": "Logs | Type of attacks: combos"
+  },
+  {
+    "indicator": "https://t.me/lulzsecmuslimsworld",
+    "category": "telegram_threat_actors",
+    "description": "SH7 G4NG"
+  },
+  {
+    "indicator": "https://t.me/Lun4risSec",
+    "category": "telegram_threat_actors",
+    "description": "LunarisSec | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/lunarisS3C/",
+    "category": "telegram_threat_actors",
+    "description": "LunarisSec | Type of attacks: Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/M0roccan_Black_CyberArmy",
+    "category": "telegram_threat_actors",
+    "description": "Moroccan Black Cyber Army | Type of attacks: DDoS & Data Breach"
+  },
+  {
+    "indicator": "https://t.me/marketo_leaks",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/MBCRANSOMWARE",
+    "category": "telegram_threat_actors",
+    "description": "Ransomware Gang"
+  },
+  {
+    "indicator": "https://t.me/membersofxaknet",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/meris_botnet",
+    "category": "telegram_threat_actors",
+    "description": "Meris botnet | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/metastealer_official",
+    "category": "telegram_threat_actors",
+    "description": "Metastealer Officiale | Type of attacks: Infostealer"
+  },
+  {
+    "indicator": "https://t.me/MexicanMafiaTheShit",
+    "category": "telegram_threat_actors",
+    "description": "MexicanMafia Announcement | Type of attacks: Data Leak"
+  },
+  {
+    "indicator": "https://t.me/Mhwear96",
+    "category": "telegram_threat_actors",
+    "description": "Holy League"
+  },
+  {
+    "indicator": "https://t.me/MiladLeaks",
+    "category": "telegram_threat_actors",
+    "description": "Milad Leaks"
+  },
+  {
+    "indicator": "https://t.me/milkdude",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/mlcloud_hosting_news",
+    "category": "telegram_threat_actors",
+    "description": "mlcloud_hosting_news | Type of attacks: Data breach MlCloud BPH"
+  },
+  {
+    "indicator": "https://t.me/MR_X10_SY",
+    "category": "telegram_threat_actors",
+    "description": "Data leaks: Merged with HIDER_NIX"
+  },
+  {
+    "indicator": "https://t.me/MrhexStore",
+    "category": "telegram_threat_actors",
+    "description": "Mrhex Store"
+  },
+  {
+    "indicator": "https://t.me/mrtanjirox",
+    "category": "telegram_threat_actors",
+    "description": "Tanjiro DDoS Botnet Service"
+  },
+  {
+    "indicator": "https://t.me/musicarusaesp",
+    "category": "telegram_threat_actors",
+    "description": "🐻Desinformador ruso👁‍🗨"
+  },
+  {
+    "indicator": "https://t.me/naosbase",
+    "category": "telegram_threat_actors",
+    "description": "DB / Data Leak Search Engine"
+  },
+  {
+    "indicator": "https://t.me/ndtgroup_kh",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/neko500",
+    "category": "telegram_threat_actors",
+    "description": "Nekoneko200"
+  },
+  {
+    "indicator": "https://t.me/NetHunt3r",
+    "category": "telegram_threat_actors",
+    "description": "NetHunt3r Group (pro Palestine) | Type of attacks: Data Leak"
+  },
+  {
+    "indicator": "https://t.me/NetSurvivalist",
+    "category": "telegram_threat_actors",
+    "description": "General Hacking, Privacy"
+  },
+  {
+    "indicator": "https://t.me/networker_apt",
+    "category": "telegram_threat_actors",
+    "description": "NET-WORKER"
+  },
+  {
+    "indicator": "https://t.me/NewBlood_Project",
+    "category": "telegram_threat_actors",
+    "description": "New Blood Project"
+  },
+  {
+    "indicator": "https://t.me/nightmare_hacker",
+    "category": "telegram_threat_actors",
+    "description": "NIGHTMARE"
+  },
+  {
+    "indicator": "https://t.me/nightspire_breach",
+    "category": "telegram_threat_actors",
+    "description": "Nightspire breach"
+  },
+  {
+    "indicator": "https://t.me/nnm05716english",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16) Eng_vers | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/normalhuntercrime",
+    "category": "telegram_threat_actors",
+    "description": "Normal Hunters"
+  },
+  {
+    "indicator": "https://t.me/nullsechackers",
+    "category": "telegram_threat_actors",
+    "description": "Nullsec Philippines | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/OfficialBaphomet",
+    "category": "telegram_threat_actors",
+    "description": "BaphometOfficial"
+  },
+  {
+    "indicator": "https://t.me/OnePlusChat",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/openleak",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/OXO_News_HN",
+    "category": "telegram_threat_actors",
+    "description": "OXO News HN"
+  },
+  {
+    "indicator": "https://t.me/p3Nt3st3rsTAr",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/Patriot_Black_x",
+    "category": "telegram_threat_actors",
+    "description": "Patriot Black Matrix"
+  },
+  {
+    "indicator": "https://t.me/peass",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/perunswaroga",
+    "category": "telegram_threat_actors",
+    "description": "Перун Сварога | Type of attacks: Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/phantom_tg",
+    "category": "telegram_threat_actors",
+    "description": "PHANTOM DEV"
+  },
+  {
+    "indicator": "https://t.me/PhiserXman",
+    "category": "telegram_threat_actors",
+    "description": "PhiserXman"
+  },
+  {
+    "indicator": "https://t.me/phoenix_inform",
+    "category": "telegram_threat_actors",
+    "description": "PHOENIX"
+  },
+  {
+    "indicator": "https://t.me/phoenixinform",
+    "category": "telegram_threat_actors",
+    "description": "Phoenix group"
+  },
+  {
+    "indicator": "https://t.me/Phorcy",
+    "category": "telegram_threat_actors",
+    "description": "Phorcy Stealer | Type of attacks: Infostealer"
+  },
+  {
+    "indicator": "https://t.me/PredatorySparrowIL",
+    "category": "telegram_threat_actors",
+    "description": "Predatory Sparrow"
+  },
+  {
+    "indicator": "https://t.me/PrivateCompanyPirates",
+    "category": "telegram_threat_actors",
+    "description": "PrivateCompanyPirates | Type of attacks: combos"
+  },
+  {
+    "indicator": "https://t.me/privetOTof223",
+    "category": "telegram_threat_actors",
+    "description": "Overflame | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/proxy_bar",
+    "category": "telegram_threat_actors",
+    "description": "Exploits, Hacking and Leaks"
+  },
+  {
+    "indicator": "https://t.me/ProxyMTProto",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/PwnShoutbox",
+    "category": "telegram_threat_actors",
+    "description": "PwnForums | Type of attacks: Forum"
+  },
+  {
+    "indicator": "https://t.me/PwnUpdates",
+    "category": "telegram_threat_actors",
+    "description": "PwnForums | Type of attacks: Forum"
+  },
+  {
+    "indicator": "https://t.me/pwnwiki_zhchannel",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/qZann",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/R00TK1TDB",
+    "category": "telegram_threat_actors",
+    "description": "R00tk1t DB"
+  },
+  {
+    "indicator": "https://t.me/r3_6j",
+    "category": "telegram_threat_actors",
+    "description": "FAD Team"
+  },
+  {
+    "indicator": "https://t.me/radnetbak",
+    "category": "telegram_threat_actors",
+    "description": "RADNET64 | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/raidbinchat",
+    "category": "telegram_threat_actors",
+    "description": "RaidBin"
+  },
+  {
+    "indicator": "https://t.me/raidsecretforums",
+    "category": "telegram_threat_actors",
+    "description": "Claims to be the backup channel of RaidForums"
+  },
+  {
+    "indicator": "https://t.me/RalfHackerChannel",
+    "category": "telegram_threat_actors",
+    "description": "Ralf Hacker Channel"
+  },
+  {
+    "indicator": "https://t.me/RansomTeam",
+    "category": "telegram_threat_actors",
+    "description": "RansomTeam Chat"
+  },
+  {
+    "indicator": "https://t.me/RansomwareTeam",
+    "category": "telegram_threat_actors",
+    "description": "Ransomware Team"
+  },
+  {
+    "indicator": "https://t.me/ransomwatcher",
+    "category": "telegram_threat_actors",
+    "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/rdpstealer",
+    "category": "telegram_threat_actors",
+    "description": "Rdp Stealer | Type of attacks: Infostealer"
+  },
+  {
+    "indicator": "https://t.me/revolusihime666",
+    "category": "telegram_threat_actors",
+    "description": "HIME666"
+  },
+  {
+    "indicator": "https://t.me/RFShoutbox",
+    "category": "telegram_threat_actors",
+    "description": "Raid Forums"
+  },
+  {
+    "indicator": "https://t.me/ru_62IX",
+    "category": "telegram_threat_actors",
+    "description": "62IX Group"
+  },
+  {
+    "indicator": "https://t.me/russiagoodbuy_rgb_team",
+    "category": "telegram_threat_actors",
+    "description": "RGB Team (https://rgb-team.com) | Type of attacks: Data Leak"
+  },
+  {
+    "indicator": "https://t.me/sanaski",
+    "category": "telegram_threat_actors",
+    "description": "Configs, combos"
+  },
+  {
+    "indicator": "https://t.me/scatteredLapsus",
+    "category": "telegram_threat_actors",
+    "description": "Scattered Lapsus$ Hunter 6.0"
+  },
+  {
+    "indicator": "https://t.me/ShadowClawZ404",
+    "category": "telegram_threat_actors",
+    "description": "Shadow ClawZ 404"
+  },
+  {
+    "indicator": "https://t.me/ShadowClawz404v2",
+    "category": "telegram_threat_actors",
+    "description": "Shadow Clawz 404 - v.2 | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/shadowleakss",
+    "category": "telegram_threat_actors",
+    "description": "ShadowHacker Leaks"
+  },
+  {
+    "indicator": "https://t.me/shadowseekers5",
+    "category": "telegram_threat_actors",
+    "description": "Shadow Seekers | Type of attacks: Data Leak"
+  },
+  {
+    "indicator": "https://t.me/shieldteam1",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/ShizoPrivacy",
+    "category": "telegram_threat_actors",
+    "description": "0% Privacy"
+  },
+  {
+    "indicator": "https://t.me/shseller13",
+    "category": "telegram_threat_actors",
+    "description": "scattered LAPSUS$ hunters part 7 Chat | Type of attacks: related to Scattered Spider"
+  },
+  {
+    "indicator": "https://t.me/slivaidlocker",
+    "category": "telegram_threat_actors",
+    "description": "AiDLocker Group Data Leaks Channel"
+  },
+  {
+    "indicator": "https://t.me/slivnoviy123",
+    "category": "telegram_threat_actors",
+    "description": "Erernity Team Redline Stealer | Type of attacks: Infostealer"
+  },
+  {
+    "indicator": "https://t.me/snatch_info",
+    "category": "telegram_threat_actors",
+    "description": "Snatch ransomware gang | Type of attacks: Ransomware, Exfiltration"
+  },
+  {
+    "indicator": "https://t.me/snatch_news",
+    "category": "telegram_threat_actors",
+    "description": "Snatch Team (Ransomware Gang)"
+  },
+  {
+    "indicator": "https://t.me/solntsepekZ",
+    "category": "telegram_threat_actors",
+    "description": "Sandworm"
+  },
+  {
+    "indicator": "https://t.me/SolonikChannels",
+    "category": "telegram_threat_actors",
+    "description": "Solonik Files | Type of attacks: DataLeaks"
+  },
+  {
+    "indicator": "https://t.me/SpidrXXX",
+    "category": "telegram_threat_actors",
+    "description": "Spider-X | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/SSSO_Official",
+    "category": "telegram_threat_actors",
+    "description": "KILLNET # РЕЗЕРВ"
+  },
+  {
+    "indicator": "https://t.me/statesponsored",
+    "category": "telegram_threat_actors",
+    "description": "scattered LAPSUS$ hunters Impending part 8 backup | Type of attacks: related to Scattered Spider"
+  },
+  {
+    "indicator": "https://t.me/StealerStore",
+    "category": "telegram_threat_actors",
+    "description": "Stealer Store | Type of attacks: Infostealer"
+  },
+  {
+    "indicator": "https://t.me/stkdatabase",
+    "category": "telegram_threat_actors",
+    "description": "Mapper (former STK Database)"
+  },
+  {
+    "indicator": "https://t.me/sultengblackhat",
+    "category": "telegram_threat_actors",
+    "description": "INDONESIAN CYBER OF SULAWESI TENGAH BLACKHAT | Type of attacks: Leaks & Breaches"
+  },
+  {
+    "indicator": "https://t.me/SumatraUtaraCyberTeam",
+    "category": "telegram_threat_actors",
+    "description": "SumatraUtara | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/T34M_F34RL3SS",
+    "category": "telegram_threat_actors",
+    "description": "team fearless 🇵🇸"
+  },
+  {
+    "indicator": "https://t.me/talkaboutclassifieddocuments",
+    "category": "telegram_threat_actors",
+    "description": "JRIntel Chat | Type of attacks: Data Breach Group"
+  },
+  {
+    "indicator": "https://t.me/tbotlist",
+    "category": "telegram_threat_actors",
+    "description": "Bots"
+  },
+  {
+    "indicator": "https://t.me/TE1915",
+    "category": "telegram_threat_actors",
+    "description": "1915 team"
+  },
+  {
+    "indicator": "https://t.me/team1914_backup",
+    "category": "telegram_threat_actors",
+    "description": "Team1914_backup | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/team1916",
+    "category": "telegram_threat_actors",
+    "description": "TEAM1916"
+  },
+  {
+    "indicator": "https://t.me/TeamAnonSec",
+    "category": "telegram_threat_actors",
+    "description": "AnonSec | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/TeamDemon",
+    "category": "telegram_threat_actors",
+    "description": "Illicit Service"
+  },
+  {
+    "indicator": "https://t.me/teamimm0rtal",
+    "category": "telegram_threat_actors",
+    "description": "Team Imm0rtal channel"
+  },
+  {
+    "indicator": "https://t.me/techpwnews",
+    "category": "telegram_threat_actors",
+    "description": "News"
+  },
+  {
+    "indicator": "https://t.me/TG_SECurityTr8Ker",
+    "category": "telegram_threat_actors",
+    "description": "SECurityTr8Ker | Type of attacks: SEC's RSS feed monitor"
+  },
+  {
+    "indicator": "https://t.me/the_archivists_domain",
+    "category": "telegram_threat_actors",
+    "description": "Source Code Dumps"
+  },
+  {
+    "indicator": "https://t.me/the_seeker8",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/thebrotherhoodcorp",
+    "category": "telegram_threat_actors",
+    "description": "The Brotherhood | Type of attacks: Ransomware Gang"
+  },
+  {
+    "indicator": "https://t.me/TheMoskovskiTimes",
+    "category": "telegram_threat_actors",
+    "description": "The Moskovski Times | Type of attacks: Data Breach"
+  },
+  {
+    "indicator": "https://t.me/ThreatMarket",
+    "category": "telegram_threat_actors",
+    "description": "Threat Market | Type of attacks: DataLeaks"
+  },
+  {
+    "indicator": "https://t.me/ThreatSec",
+    "category": "telegram_threat_actors",
+    "description": "ThreatSec"
+  },
+  {
+    "indicator": "https://t.me/TorZireael1",
+    "category": "telegram_threat_actors",
+    "description": "Tor Zireael"
+  },
+  {
+    "indicator": "https://t.me/TripleXTriple",
+    "category": "telegram_threat_actors",
+    "description": "TripleX"
+  },
+  {
+    "indicator": "https://t.me/Turbotelproxy",
+    "category": "telegram_threat_actors",
+    "description": "The fastest Telegram proxies"
+  },
+  {
+    "indicator": "https://t.me/udacha123yes",
+    "category": "telegram_threat_actors",
+    "description": "Ransomware Gang"
+  },
+  {
+    "indicator": "https://t.me/unitninee",
+    "category": "telegram_threat_actors",
+    "description": "UNIT NINE"
+  },
+  {
+    "indicator": "https://t.me/unknowns_cyberteam",
+    "category": "telegram_threat_actors",
+    "description": "Unknowns Cyber Team"
+  },
+  {
+    "indicator": "https://t.me/usersecc",
+    "category": "telegram_threat_actors",
+    "description": "UserSec # KillNet"
+  },
+  {
+    "indicator": "https://t.me/V3TerN",
+    "category": "telegram_threat_actors",
+    "description": "Devilzone (2) - configs, combos, etc"
+  },
+  {
+    "indicator": "https://t.me/vassal_of_the_Joker",
+    "category": "telegram_threat_actors",
+    "description": "Вассал Джокера"
+  },
+  {
+    "indicator": "https://t.me/Venari_By_BetterCyber",
+    "category": "telegram_threat_actors",
+    "description": "VenariX"
+  },
+  {
+    "indicator": "https://t.me/vulture_001",
+    "category": "telegram_threat_actors",
+    "description": "Vulture | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/vulzsec_official",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/We_are_not_eternal",
+    "category": "telegram_threat_actors",
+    "description": ""
+  },
+  {
+    "indicator": "https://t.me/WeAreKillnet_Channel",
+    "category": "telegram_threat_actors",
+    "description": "WE ARE KILLNET"
+  },
+  {
+    "indicator": "https://t.me/WeAreKillnet_Official",
+    "category": "telegram_threat_actors",
+    "description": "WE ARE KILLNET +"
+  },
+  {
+    "indicator": "https://t.me/webpwn",
+    "category": "telegram_threat_actors",
+    "description": "Hacking, Privacy"
+  },
+  {
+    "indicator": "https://t.me/weedforumslol",
+    "category": "telegram_threat_actors",
+    "description": "WeedSec"
+  },
+  {
+    "indicator": "https://t.me/weleaklabs",
+    "category": "telegram_threat_actors",
+    "description": "WeLeakLabs | Type of attacks: Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/who0is0whoare",
+    "category": "telegram_threat_actors",
+    "description": "whoare"
+  },
+  {
+    "indicator": "https://t.me/win_def",
+    "category": "telegram_threat_actors",
+    "description": "Windef"
+  },
+  {
+    "indicator": "https://t.me/wwhsmi",
+    "category": "telegram_threat_actors",
+    "description": "WWH Forum"
+  },
+  {
+    "indicator": "https://t.me/www_paypal",
+    "category": "telegram_threat_actors",
+    "description": "Pro Team Channe | Type of attacks: combos"
+  },
+  {
+    "indicator": "https://t.me/X8ZZX",
+    "category": "telegram_threat_actors",
+    "description": "National Security - To Destroy Israel"
+  },
+  {
+    "indicator": "https://t.me/xaknet_team",
+    "category": "telegram_threat_actors",
+    "description": "xaknet"
+  },
+  {
+    "indicator": "https://t.me/xinject_official",
+    "category": "telegram_threat_actors",
+    "description": "(Dead)XInject Information Channel"
+  },
+  {
+    "indicator": "https://t.me/xServerKillersx",
+    "category": "telegram_threat_actors",
+    "description": "Server Killers"
+  },
+  {
+    "indicator": "https://t.me/xstuxnet",
+    "category": "telegram_threat_actors",
+    "description": "STUXNET - ستوكسنت"
+  },
+  {
+    "indicator": "https://t.me/xX313XxTeam",
+    "category": "telegram_threat_actors",
+    "description": "313TEAM | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/Xyph0rix",
+    "category": "telegram_threat_actors",
+    "description": "N赛弗里克斯 私密"
+  },
+  {
+    "indicator": "https://t.me/z_bl4cx_h4t_id",
+    "category": "telegram_threat_actors",
+    "description": "Z-BL4CX-H4T.ID"
+  },
+  {
+    "indicator": "https://t.me/zaher_infinity01",
+    "category": "telegram_threat_actors",
+    "description": "𝐙𝐀𝐇𝐄𝐑 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘"
+  },
+  {
+    "indicator": "https://t.me/zendatamarket",
+    "category": "telegram_threat_actors",
+    "description": "ZenData Database Market"
+  },
+  {
+    "indicator": "https://t.me/zerodayforums",
+    "category": "telegram_threat_actors",
+    "description": "ZeroDay Forums"
+  },
+  {
+    "indicator": "https://t.me/zerodaymarkets",
+    "category": "telegram_threat_actors",
+    "description": "Zeroday Market | Type of attacks: Exploit sell"
+  },
+  {
+    "indicator": "https://t.me/zpentest_fucknato",
+    "category": "telegram_threat_actors",
+    "description": "Z-Pentest Alliance"
+  },
+  {
+    "indicator": "https://t.me/ZulikGroupChat",
+    "category": "telegram_threat_actors",
+    "description": "ZulikGroup Chat"
+  },
+  {
+    "indicator": "https://t.me/ZulikGroupTG",
+    "category": "telegram_threat_actors",
+    "description": "ZulikGroup"
+  },
+  {
+    "indicator": "https://t.me/ZxS3xx",
+    "category": "telegram_threat_actors",
+    "description": "ZxS3C🪬"
+  },
+  {
+    "indicator": "https://telegram.me/Defacement",
+    "category": "telegram_threat_actors",
+    "description": "Telkom Zone H"
+  },
+  {
+    "indicator": "https://x.com/8BASEH0ME",
+    "category": "twitter_threat_actors",
+    "description": "8BASE - Type: Ransomware"
+  },
+  {
+    "indicator": "https://x.com/altoufanteam",
+    "category": "twitter_threat_actors",
+    "description": "Al Toufan Team"
+  },
+  {
+    "indicator": "https://x.com/Anubis__media",
+    "category": "twitter_threat_actors",
+    "description": "Anubis - Type: Ransomware"
+  },
+  {
+    "indicator": "https://x.com/BLOODY48139604",
+    "category": "twitter_threat_actors",
+    "description": "BL🩸🩸DY - Type: Ransomware"
+  },
+  {
+    "indicator": "https://x.com/D1eNet",
+    "category": "twitter_threat_actors",
+    "description": "DieNet - Type: DDoS"
+  },
+  {
+    "indicator": "https://x.com/GonjeshkeDarand",
+    "category": "twitter_threat_actors",
+    "description": "Gonjeshke Darande - Type: Data BReaches"
+  },
+  {
+    "indicator": "https://x.com/HiderNex36505",
+    "category": "twitter_threat_actors",
+    "description": "Hider Nex"
+  },
+  {
+    "indicator": "https://x.com/holypryx",
+    "category": "twitter_threat_actors",
+    "description": "PRYX - HellCat - Type: Ransomware"
+  },
+  {
+    "indicator": "https://x.com/IMN_Crew",
+    "category": "twitter_threat_actors",
+    "description": "IMN Crew - Type: Ransomware"
+  },
+  {
+    "indicator": "https://x.com/Inifintyink",
+    "category": "twitter_threat_actors",
+    "description": "DevMan - Type: Ransomware"
+  },
+  {
+    "indicator": "https://x.com/KeymousTeam",
+    "category": "twitter_threat_actors",
+    "description": "keymous+ - Type: DDoS"
+  },
+  {
+    "indicator": "https://x.com/MrHamza_Op",
+    "category": "twitter_threat_actors",
+    "description": "Mr Hamza - Type: DDoS"
+  },
+  {
+    "indicator": "https://x.com/NitrogenSupp",
+    "category": "twitter_threat_actors",
+    "description": "Nitrogen - Type: Ransomware"
+  },
+  {
+    "indicator": "https://x.com/NullBulgeGroup",
+    "category": "twitter_threat_actors",
+    "description": "NullBulge"
+  },
+  {
+    "indicator": "https://x.com/PROTEAMFEARLESS",
+    "category": "twitter_threat_actors",
+    "description": "Team Fearless - Type: DDoS"
+  },
+  {
+    "indicator": "https://x.com/PsExec64",
+    "category": "twitter_threat_actors",
+    "description": "Conti - Type: Ransomware"
+  },
+  {
+    "indicator": "https://x.com/ransomboris",
+    "category": "twitter_threat_actors",
+    "description": "Wazawka (Mikhail Matvee) - Type: Ransomware"
+  },
+  {
+    "indicator": "https://x.com/red_wolf_cyber",
+    "category": "twitter_threat_actors",
+    "description": "Red Wolf Cyber - Type: DDoS"
+  },
+  {
+    "indicator": "https://x.com/RooTDoS",
+    "category": "twitter_threat_actors",
+    "description": "RootDDoS - Type: DDoS"
+  },
+  {
+    "indicator": "https://x.com/SkBoss484479",
+    "category": "twitter_threat_actors",
+    "description": "Akatsuki Cyber Team"
+  },
+  {
+    "indicator": "https://x.com/stucxnet",
+    "category": "twitter_threat_actors",
+    "description": "STUCX TEAM"
+  },
+  {
+    "indicator": "https://x.com/TheGentlemen26",
+    "category": "twitter_threat_actors",
+    "description": "TheGentlemen - Type: Ransomware"
+  }
+]
