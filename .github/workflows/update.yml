@@ -1,0 +1,47 @@
+name: update ddcti data.json
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data-json
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: set up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: install dependencies
+        run: pip install --no-cache-dir requests==2.32.3
+
+      - name: run update script
+        run: python update.py
+
+      - name: commit and push if data.json changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- data.json stats.json; then
+            echo "no effective change in data.json/stats.json — nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json stats.json
+          git commit -m "chore: update data.json [automated]"
+          git push
