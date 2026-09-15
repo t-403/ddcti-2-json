@@ -4125,6 +4125,11 @@
     "description": "Ottoman Cloud Logs"
   },
   {
+    "indicator": "https://t.me/+m0FiUkO4wHU1MjBi",
+    "category": "telegram_infostealer",
+    "description": "BOXED.INFO"
+  },
+  {
     "indicator": "https://t.me/+M1WRRV5fJMk3NmE1",
     "category": "telegram_infostealer",
     "description": "EVIL CLOUD"
@@ -4390,6 +4395,11 @@
     "description": "Pro Team Channel | Type of attacks: combos"
   },
   {
+    "indicator": "https://t.me/+gchoNXafnZRiMzg0",
+    "category": "telegram_threat_actors",
+    "description": "I Am Not A villain"
+  },
+  {
     "indicator": "https://t.me/+HG32VQZ93-4zMjE1",
     "category": "telegram_threat_actors",
     "description": "SUMATRA UTARA CYBER TEAM"
@@ -4453,11 +4463,6 @@
     "indicator": "https://t.me/+wP33Q9NXAURlMzNk",
     "category": "telegram_threat_actors",
     "description": "AnonSec | Type of attacks: DDoS"
-  },
-  {
-    "indicator": "https://t.me/+wuOFH81f2us1YmQ0",
-    "category": "telegram_threat_actors",
-    "description": "xorcat vouch"
   },
   {
     "indicator": "https://t.me/+XhceuAZW9QJkOWJl",
@@ -4905,11 +4910,6 @@
     "description": "Darkforums | Type of attacks: Forum"
   },
   {
-    "indicator": "https://t.me/DarkLancer_news",
-    "category": "telegram_threat_actors",
-    "description": "DarkLancer_news"
-  },
-  {
     "indicator": "https://t.me/Darkstormre",
     "category": "telegram_threat_actors",
     "description": "Dark Storm Team"
@@ -5328,11 +5328,6 @@
     "indicator": "https://t.me/itsecalert",
     "category": "telegram_threat_actors",
     "description": "News"
-  },
-  {
-    "indicator": "https://t.me/jacuzszi",
-    "category": "telegram_threat_actors",
-    "description": "The Jacuzzi New Era"
   },
   {
     "indicator": "https://t.me/jacuzzi",
