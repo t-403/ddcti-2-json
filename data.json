@@ -85,6 +85,11 @@
     "description": "DARKNET ARMY"
   },
   {
+    "indicator": "http://deeptyspkdq3nfvqvyzbkgwhtok4qoyhypsyiuo24wux4jnb6e3nyiqd.onion",
+    "category": "forum",
+    "description": "DEEP ANSWERS"
+  },
+  {
     "indicator": "http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion",
     "category": "forum",
     "description": "DARKFOREST"
@@ -188,6 +193,11 @@
     "indicator": "http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion",
     "category": "forum",
     "description": "RAMP (Dark)"
+  },
+  {
+    "indicator": "http://runionv3do7jdylpx7ufc6qkmygehsiuichjcstpj4hb2ycqrnmp67ad.onion",
+    "category": "forum",
+    "description": "RUNION"
   },
   {
     "indicator": "http://rutor.info",
@@ -298,6 +308,11 @@
     "indicator": "https://at.dublikat.club",
     "category": "forum",
     "description": "DUBLIKAT.CLUB"
+  },
+  {
+    "indicator": "https://batchforums.site",
+    "category": "forum",
+    "description": "BATCHFORUMS"
   },
   {
     "indicator": "https://bdfclub.com",
@@ -1348,6 +1363,11 @@
     "indicator": "http://intelrepository.com/",
     "category": "markets",
     "description": "Intel Repository - Sale of Defense Contractor and Military Files"
+  },
+  {
+    "indicator": "http://kw4zlnfhxje7top26u57iosg55i7dzuljjcyswo2clgc3mdliviswwyd.onion",
+    "category": "markets",
+    "description": "DIGITAL THRIFT SHOP"
   },
   {
     "indicator": "http://malwarewrn7fvd7zq243d74dxs3ca4wh5kw6i2opkzeusuoajtd2j5yd.onion",
@@ -2492,7 +2512,7 @@
   {
     "indicator": "http://iah6477wcvisc45wl54u524fbrh4dnmtcctpg2fpe5epf3jbpkiwu4qd.onion",
     "category": "ransomware_gang",
-    "description": "IAH647"
+    "description": "CINDER"
   },
   {
     "indicator": "http://igziys7pres4644kbrtakxfbrwkyld64nxk5prpkgtcexwrrjgtfjzyd.onion",
@@ -4378,6 +4398,11 @@
     "indicator": "https://t.me/+Bat9QqJcSuE0MTg1",
     "category": "telegram_threat_actors",
     "description": "AresLoader"
+  },
+  {
+    "indicator": "https://t.me/+bcLw92YXGD9kZWNk",
+    "category": "telegram_threat_actors",
+    "description": "Tor Zireael"
   },
   {
     "indicator": "https://t.me/+D2e-YSFvtAhhMWU1",
