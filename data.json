@@ -2330,6 +2330,11 @@
     "description": "EMPERADOR"
   },
   {
+    "indicator": "http://endzonezgz3sqzmtqg4acp4z7ao7xc6vunfhezjsnfqrm2ksudsredyd.onion",
+    "category": "ransomware_gang",
+    "description": "ENDZONE"
+  },
+  {
     "indicator": "http://epovhlzpj3grgld7vxr2mnk33dz5rdb4kdcp44f5r527rvhwhxna.b32.i2p",
     "category": "ransomware_gang",
     "description": "BIANLIAN (I2P mirror) - A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC"
@@ -3470,6 +3475,11 @@
     "description": "SINOBI"
   },
   {
+    "indicator": "http://spiralstfe7rtbna7zlv6szdwmjvjszf2d64zkf6z5jykrwnw5jbgpyd.onion",
+    "category": "ransomware_gang",
+    "description": "SPIRALS"
+  },
+  {
     "indicator": "http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion",
     "category": "ransomware_gang",
     "description": "VICE SOCIETY"
@@ -4418,11 +4428,6 @@
     "indicator": "https://t.me/+f6HgnXuFRiIxMzhk",
     "category": "telegram_threat_actors",
     "description": "Pro Team Channel | Type of attacks: combos"
-  },
-  {
-    "indicator": "https://t.me/+gchoNXafnZRiMzg0",
-    "category": "telegram_threat_actors",
-    "description": "I Am Not A villain"
   },
   {
     "indicator": "https://t.me/+HG32VQZ93-4zMjE1",
@@ -6338,5 +6343,10 @@
     "indicator": "https://x.com/TheGentlemen26",
     "category": "twitter_threat_actors",
     "description": "TheGentlemen - Type: Ransomware"
+  },
+  {
+    "indicator": "https://x.com/virinmadison",
+    "category": "twitter_threat_actors",
+    "description": "YOSCRYPT - Type: DDoS/Ransomware/Data BReaches"
   }
 ]
