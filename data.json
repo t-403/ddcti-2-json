@@ -3050,6 +3050,11 @@
     "description": "NONAME"
   },
   {
+    "indicator": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
+    "category": "ransomware_gang",
+    "description": "N0N"
+  },
+  {
     "indicator": "http://novadmrkp4vbk2padk5t6pbxolndceuc7hrcq4mjaoyed6nxsqiuzyyd.onion",
     "category": "ransomware_gang",
     "description": "NOVA"
