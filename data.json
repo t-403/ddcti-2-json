@@ -4480,6 +4480,11 @@
     "description": "TCG"
   },
   {
+    "indicator": "https://t.me/+SixmeKWogKY1NTk0",
+    "category": "telegram_threat_actors",
+    "description": "For Close System - F.C.S"
+  },
+  {
     "indicator": "https://t.me/+uIojmLMIJz0yNzIy",
     "category": "telegram_threat_actors",
     "description": "Hunting for Data | Type of attacks: Data Leak"
@@ -5045,6 +5050,11 @@
     "description": "DontLeakMyData"
   },
   {
+    "indicator": "https://t.me/dr4k7h",
+    "category": "telegram_threat_actors",
+    "description": "DR4K7H CYBER TEAM ( D C T )"
+  },
+  {
     "indicator": "https://t.me/dragonforceio",
     "category": "telegram_threat_actors",
     "description": "DragonForce Malaysia"
@@ -5113,6 +5123,11 @@
     "indicator": "https://t.me/flannels",
     "category": "telegram_threat_actors",
     "description": "Market"
+  },
+  {
+    "indicator": "https://t.me/ForCloseSystem",
+    "category": "telegram_threat_actors",
+    "description": "For Close System - F.C.S"
   },
   {
     "indicator": "https://t.me/FR3DENSOFSECURITY_2023",
@@ -5233,11 +5248,6 @@
     "indicator": "https://t.me/HANDALA_INTEL",
     "category": "telegram_threat_actors",
     "description": "Handala"
-  },
-  {
-    "indicator": "https://t.me/HANDALA_SEC",
-    "category": "telegram_threat_actors",
-    "description": "Handala Hack"
   },
   {
     "indicator": "https://t.me/hannibalmaaleaks",
