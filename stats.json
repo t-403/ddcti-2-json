@@ -1,9 +1,9 @@
 {
-  "total": 1273,
+  "total": 1275,
   "by_category": {
     "forum": 238,
     "markets": 125,
-    "telegram_threat_actors": 374,
+    "telegram_threat_actors": 376,
     "telegram_infostealer": 55,
     "twitter_threat_actors": 23,
     "ransomware_gang": 458

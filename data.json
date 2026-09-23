@@ -4520,6 +4520,11 @@
     "description": "Team1914_official_Chat | Type of attacks: DDoS"
   },
   {
+    "indicator": "https://t.me/+yHbZsasiHkE0MWYy",
+    "category": "telegram_threat_actors",
+    "description": "Elite Squad Chat"
+  },
+  {
     "indicator": "https://t.me/+YR89p_rg8Oo0Y2Ux",
     "category": "telegram_threat_actors",
     "description": ""
@@ -4553,6 +4558,11 @@
     "indicator": "https://t.me/Allhak_mv",
     "category": "telegram_threat_actors",
     "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/alnaaze757",
+    "category": "telegram_threat_actors",
+    "description": "Elite Squad"
   },
   {
     "indicator": "https://t.me/altenens",
