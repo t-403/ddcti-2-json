@@ -6210,11 +6210,6 @@
     "description": "N赛弗里克斯 私密"
   },
   {
-    "indicator": "https://t.me/z_bl4cx_h4t_id",
-    "category": "telegram_threat_actors",
-    "description": "Z-BL4CX-H4T.ID"
-  },
-  {
     "indicator": "https://t.me/zaher_infinity01",
     "category": "telegram_threat_actors",
     "description": "𝐙𝐀𝐇𝐄𝐑 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘"
