@@ -2185,6 +2185,11 @@
     "description": "CLOAK"
   },
   {
+    "indicator": "http://clopofffr7tth6hsvxx3cys4qkshrbbiitnxfwts6hj64mtnaovjieyd.onion",
+    "category": "ransomware_gang",
+    "description": "CLOP"
+  },
+  {
     "indicator": "http://cmdnkiqjije2tllr3biee2sjgj3i4robg2cbtilbnytdhh2wy3syrlyd.onion",
     "category": "ransomware_gang",
     "description": "CMD ORGANIZATION"
@@ -3135,6 +3140,11 @@
     "description": "GLOBAL SECRET"
   },
   {
+    "indicator": "http://o6rtgcjdjqyimjxexpejddhdfbehsjn4fcsazfkgwydeb27gqhtdntyd.onion",
+    "category": "ransomware_gang",
+    "description": "IAMNOTAVILLAIN"
+  },
+  {
     "indicator": "http://oaptxiyisljt2kv3we2we34kuudmqda7f2geffoylzpeo7ourhtz4dad.onion",
     "category": "ransomware_gang",
     "description": "0APT"
@@ -3920,6 +3930,11 @@
     "description": "CACTUS"
   },
   {
+    "indicator": "https://cikleak.net",
+    "category": "ransomware_gang",
+    "description": "CIKLEAK"
+  },
+  {
     "indicator": "https://crpx0.su",
     "category": "ransomware_gang",
     "description": "CRPX0"
@@ -3993,6 +4008,11 @@
     "indicator": "https://mes4qo4rd6t3biyrm6q4twkquspzd7r4kg7va765nbdfxqgnc2w3pead.onion",
     "category": "ransomware_gang",
     "description": "LEAK BAZAR"
+  },
+  {
+    "indicator": "https://n0n.to",
+    "category": "ransomware_gang",
+    "description": "N0N (CLEARNET)"
   },
   {
     "indicator": "https://nullbulge.co/blog.html",
@@ -5613,11 +5633,6 @@
     "indicator": "https://t.me/MR_X10_SY",
     "category": "telegram_threat_actors",
     "description": "Data leaks: Merged with HIDER_NIX"
-  },
-  {
-    "indicator": "https://t.me/MrhexStore",
-    "category": "telegram_threat_actors",
-    "description": "Mrhex Store"
   },
   {
     "indicator": "https://t.me/mrtanjirox",
