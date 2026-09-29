@@ -2410,6 +2410,11 @@
     "description": "RANSOMCORTEX"
   },
   {
+    "indicator": "http://globalrbweyhxxa5b65bjjsm5bfuqfs5ydizefupqcminoedzn6o2sqd.onion",
+    "category": "ransomware_gang",
+    "description": "GLOBAL CYBERNETIC COLLECTIVE"
+  },
+  {
     "indicator": "http://gmixcebhni6c3kcf5m7xxybomaphj7pizoqtxiqmrz5wsh6g6x5s2wqd.onion",
     "category": "ransomware_gang",
     "description": "SENSAYQ (dark)"
