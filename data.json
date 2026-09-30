@@ -1410,6 +1410,11 @@
     "description": "RESCATOR (Tor v3)"
   },
   {
+    "indicator": "http://roiuzftqij2buyxgsfxdk4rcjl2dujoe5wcgwscr7cshc5hl6ulqgkyd.onion",
+    "category": "markets",
+    "description": "SIBERIANSHELVES"
+  },
+  {
     "indicator": "http://rondastore.cc",
     "category": "markets",
     "description": "RONDA STORE (Deep)"
@@ -2288,6 +2293,11 @@
     "indicator": "http://dounczge5jhw4iztnnpzp54kd4ot3tikhjsimurtcewqssgye6vvrhqd.onion",
     "category": "ransomware_gang",
     "description": "BLACKBYTE (7)"
+  },
+  {
+    "indicator": "http://dr5beljvyqljgq5ppro57pgetg4yeslcsexmuhvv3p46wod3odsh3fid.onion",
+    "category": "ransomware_gang",
+    "description": "VLADIVOSTOK"
   },
   {
     "indicator": "http://dzkxxcsbrg7bwnlwwer563yuxd5pesr42dx634w5xvofm5z6qjw72ayd.onion",
