@@ -6115,6 +6115,11 @@
     "description": "Ransomware Gang"
   },
   {
+    "indicator": "https://t.me/UNC6040prt2",
+    "category": "telegram_threat_actors",
+    "description": "ShinyKingHuntersprt2"
+  },
+  {
     "indicator": "https://t.me/unitninee",
     "category": "telegram_threat_actors",
     "description": "UNIT NINE"
