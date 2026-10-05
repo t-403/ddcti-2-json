@@ -2155,6 +2155,11 @@
     "description": "BABUK v2"
   },
   {
+    "indicator": "http://byodxn5s7sua6oyyjj74rycgn6afncfckprt5ezskt3cni6lg3wdrgad.onion",
+    "category": "ransomware_gang",
+    "description": "BYOD"
+  },
+  {
     "indicator": "http://c2mdhim6btaiyae3xqthnxsz64brvdxsnbty4tvos65zb565y4v55iid.onion",
     "category": "ransomware_gang",
     "description": "PRYX (dark web) - 141C8F13F4B7A4C2EED05A29186AE10F8E849AE4AC2C3E7B167FD27B316E026A42B75D5AE83C"
@@ -2325,6 +2330,11 @@
     "description": "ECLIPSE"
   },
   {
+    "indicator": "http://egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion",
+    "category": "ransomware_gang",
+    "description": "ULOSE"
+  },
+  {
     "indicator": "http://ejzl7cjxmkx7lzhiqwidmrwtfjv45pkczbc4fnyaut3t7gll3yaiq5id.onion",
     "category": "ransomware_gang",
     "description": "BLACK WATER"
@@ -2438,6 +2448,11 @@
     "indicator": "http://gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion",
     "category": "ransomware_gang",
     "description": "FRESH GUNRA"
+  },
+  {
+    "indicator": "http://h7v7qkdil4lkm3ocwmcudzfmx7xmihtw53n3yk7b2cjtqu3zc4xqo7qd.onion",
+    "category": "ransomware_gang",
+    "description": "SILENT"
   },
   {
     "indicator": "http://handala-alert.to",
@@ -3463,11 +3478,6 @@
     "indicator": "http://sicarinb4ktqcdpubjifzw3vixvzgtwacjmc5ks56kev52gxitegigad.onion",
     "category": "ransomware_gang",
     "description": "SICARI KNIFE - 2368C617830435DD74C41323BD684F04627A8047F92A885419E0191AC21F6D49733E4FF2C60E"
-  },
-  {
-    "indicator": "http://silentbgdghp3zeldwpumnwabglreql7jcffhx5vqkvtf2lshc4n5zid.onion",
-    "category": "ransomware_gang",
-    "description": "SILENT"
   },
   {
     "indicator": "http://sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion/leaks",
