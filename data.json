@@ -2365,6 +2365,11 @@
     "description": "BIANLIAN (I2P mirror) - A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC"
   },
   {
+    "indicator": "http://espeonsh2drryv4bsonur5ud7d6gooho2mvktqdmakdpoxkwwersinid.onion",
+    "category": "ransomware_gang",
+    "description": "SHINYHUNTERS"
+  },
+  {
     "indicator": "http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion",
     "category": "ransomware_gang",
     "description": "EVEREST"
@@ -2448,11 +2453,6 @@
     "indicator": "http://gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion",
     "category": "ransomware_gang",
     "description": "FRESH GUNRA"
-  },
-  {
-    "indicator": "http://h7v7qkdil4lkm3ocwmcudzfmx7xmihtw53n3yk7b2cjtqu3zc4xqo7qd.onion",
-    "category": "ransomware_gang",
-    "description": "SILENT"
   },
   {
     "indicator": "http://handala-alert.to",
@@ -3440,11 +3440,6 @@
     "description": "SHIBA"
   },
   {
-    "indicator": "http://shnyhntww34phqoa6dcgnvps2yu7dlwzmy5lkvejwjdo6z7bmgshzayd.onion",
-    "category": "ransomware_gang",
-    "description": "SHINYHUNTERS"
-  },
-  {
     "indicator": "http://shrantacpxim7z6m6pnszi52bb2tp23sntby3hklt36rezdja7bdjsyd.onion/leaks",
     "category": "ransomware_gang",
     "description": "BLACKSHRANTAC"
@@ -3578,11 +3573,6 @@
     "indicator": "http://tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion",
     "category": "ransomware_gang",
     "description": "CRPX0"
-  },
-  {
-    "indicator": "http://toolatedhs5dtr2pv6h5kdraneak5gs3sxrecqhoufc5e45edior7mqd.onion",
-    "category": "ransomware_gang",
-    "description": "SHINYHUNTERS"
   },
   {
     "indicator": "http://toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion",
