@@ -4515,6 +4515,11 @@
     "description": "TCG"
   },
   {
+    "indicator": "https://t.me/+S2ElF-QqbdA4MGU1",
+    "category": "telegram_threat_actors",
+    "description": "SH"
+  },
+  {
     "indicator": "https://t.me/+SixmeKWogKY1NTk0",
     "category": "telegram_threat_actors",
     "description": "For Close System - F.C.S"
@@ -5503,11 +5508,6 @@
     "indicator": "https://t.me/kittensec",
     "category": "telegram_threat_actors",
     "description": "KittenSec"
-  },
-  {
-    "indicator": "https://t.me/kittykatkrew",
-    "category": "telegram_threat_actors",
-    "description": "Kittykatkrew | Type of attacks: Ransomware"
   },
   {
     "indicator": "https://t.me/Ktama_Official",
