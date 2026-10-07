@@ -3625,6 +3625,11 @@
     "description": "AUR0RA"
   },
   {
+    "indicator": "http://umbra7isogjsgdcndz3uu6qvl5zftjptt6s3iiuecjlwbt4yqyvrhcid.onion",
+    "category": "ransomware_gang",
+    "description": "UMBRA - 05e968dec429b5136fd94eccbec67ce1c56c7ba10014e35a70cc60dba3d58f2836"
+  },
+  {
     "indicator": "http://undgrddapc4reaunnrdrmnagvdelqfvmgycuvilgwb5uxm25sxawaoqd[.]onion/auth/login",
     "category": "ransomware_gang",
     "description": "TEAM UNDERGROUND (Victims page) - https://t.me/UndergroundDataLeaks"
@@ -5928,6 +5933,11 @@
     "indicator": "https://t.me/shadowseekers5",
     "category": "telegram_threat_actors",
     "description": "Shadow Seekers | Type of attacks: Data Leak"
+  },
+  {
+    "indicator": "https://t.me/SHdatacenter",
+    "category": "telegram_threat_actors",
+    "description": "ShinyHunters Leaks"
   },
   {
     "indicator": "https://t.me/shieldteam1",
