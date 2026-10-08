@@ -177,7 +177,7 @@
   {
     "indicator": "http://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion",
     "category": "forum",
-    "description": "PWNFORUMS (Dark) - https://t.me/PwnForums"
+    "description": "PWNFORUMS (Dark) - https://t.me/LoungePF"
   },
   {
     "indicator": "http://qvwje7edtrfby6pfnm3q7o3lju22mfx3xsjyl3y33l66sbq3qcnlmvad.onion",
@@ -940,7 +940,7 @@
     "description": "BREACH FORUMS"
   },
   {
-    "indicator": "https://pwnforums.st/",
+    "indicator": "https://pwnforums.pw",
     "category": "forum",
     "description": "PWNFORUMS (Deep) - https://t.me/PwnForums"
   },
@@ -3415,6 +3415,11 @@
     "description": "DONUT BLOG"
   },
   {
+    "indicator": "http://scarlettgugldabhgz3uertpnxglxytddxbd5vnoma5pihfk6k5q2sid.onion",
+    "category": "ransomware_gang",
+    "description": "SCARLETTGROUP - 05866673bcba27e7713eec9bbf6ffe0d01895d522b321e8dda7056e4172115b32e"
+  },
+  {
     "indicator": "http://sdwbytqeb664krp2wz2qs3lxxah2rhneuotot5hy7g4jpn2pindigcad.onion",
     "category": "ransomware_gang",
     "description": "SHADOWBYT3$ - ShadowByt3S@proton.me"
@@ -5578,6 +5583,11 @@
     "indicator": "https://t.me/logsgang2",
     "category": "telegram_threat_actors",
     "description": "Logs | Type of attacks: combos"
+  },
+  {
+    "indicator": "https://t.me/LoungePF",
+    "category": "telegram_threat_actors",
+    "description": "LougnPF (Pwnforums) | Type of attacks: Forum"
   },
   {
     "indicator": "https://t.me/lulzsecmuslimsworld",
