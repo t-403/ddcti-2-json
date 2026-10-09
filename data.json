@@ -4475,6 +4475,11 @@
     "description": "Hyder_N3x Buckup Channel | Type of attacks: DDoS"
   },
   {
+    "indicator": "https://t.me/+DrRnoicKhmM2NjBl",
+    "category": "telegram_threat_actors",
+    "description": "SH - PART 5"
+  },
+  {
     "indicator": "https://t.me/+f6HgnXuFRiIxMzhk",
     "category": "telegram_threat_actors",
     "description": "Pro Team Channel | Type of attacks: combos"
@@ -4495,9 +4500,19 @@
     "description": "AKATSUKI gang (Algerian Ministry breach)"
   },
   {
+    "indicator": "https://t.me/+is1gFZnRfK40YmY1",
+    "category": "telegram_threat_actors",
+    "description": "SH - PART 2"
+  },
+  {
     "indicator": "https://t.me/+jCjbvdsUSJIzN2Vl",
     "category": "telegram_threat_actors",
     "description": "The Collective Sentinel"
+  },
+  {
+    "indicator": "https://t.me/+knSjTUFyz2k5N2U1",
+    "category": "telegram_threat_actors",
+    "description": "SH - PART 4"
   },
   {
     "indicator": "https://t.me/+l2fmYlvJnTA2MTc0",
@@ -4523,6 +4538,11 @@
     "indicator": "https://t.me/+O7yT5lylY89lMTcy",
     "category": "telegram_threat_actors",
     "description": "TCG"
+  },
+  {
+    "indicator": "https://t.me/+QtwXY6nRr_8wODI1",
+    "category": "telegram_threat_actors",
+    "description": "SH - PART 3"
   },
   {
     "indicator": "https://t.me/+S2ElF-QqbdA4MGU1",
@@ -6028,6 +6048,11 @@
     "indicator": "https://t.me/SumatraUtaraCyberTeam",
     "category": "telegram_threat_actors",
     "description": "SumatraUtara | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/syndnet",
+    "category": "telegram_threat_actors",
+    "description": "fuck society"
   },
   {
     "indicator": "https://t.me/T34M_F34RL3SS",
