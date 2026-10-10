@@ -4980,6 +4980,11 @@
     "description": "Cyber Jihad Movement | Type of attacks: DDoS"
   },
   {
+    "indicator": "https://t.me/cybertroll2",
+    "category": "telegram_threat_actors",
+    "description": "CyberTroll Team Main"
+  },
+  {
     "indicator": "https://t.me/CyperBattle",
     "category": "telegram_threat_actors",
     "description": "Cyber Battle | Type of attacks: DDoS"
