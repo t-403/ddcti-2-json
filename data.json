@@ -4825,6 +4825,11 @@
     "description": "Breaches (breached.st forum)"
   },
   {
+    "indicator": "https://t.me/Breachforumsh",
+    "category": "telegram_threat_actors",
+    "description": "Breachforums Official"
+  },
+  {
     "indicator": "https://t.me/BreachForumsNews",
     "category": "telegram_threat_actors",
     "description": "BreachForums | Type of attacks: Forum"
@@ -5978,6 +5983,11 @@
     "indicator": "https://t.me/shieldteam1",
     "category": "telegram_threat_actors",
     "description": ""
+  },
+  {
+    "indicator": "https://t.me/ShinyEquationCartel",
+    "category": "telegram_threat_actors",
+    "description": "ShinyEquationCartel"
   },
   {
     "indicator": "https://t.me/ShizoPrivacy",
