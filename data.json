@@ -4550,11 +4550,6 @@
     "description": "SH - PART 3"
   },
   {
-    "indicator": "https://t.me/+S2ElF-QqbdA4MGU1",
-    "category": "telegram_threat_actors",
-    "description": "SH"
-  },
-  {
     "indicator": "https://t.me/+SixmeKWogKY1NTk0",
     "category": "telegram_threat_actors",
     "description": "For Close System - F.C.S"
@@ -4988,11 +4983,6 @@
     "indicator": "https://t.me/CyberJihadMovement",
     "category": "telegram_threat_actors",
     "description": "Cyber Jihad Movement | Type of attacks: DDoS"
-  },
-  {
-    "indicator": "https://t.me/cybertroll2",
-    "category": "telegram_threat_actors",
-    "description": "CyberTroll Team Main"
   },
   {
     "indicator": "https://t.me/CyperBattle",
@@ -5928,11 +5918,6 @@
     "indicator": "https://t.me/rdpstealer",
     "category": "telegram_threat_actors",
     "description": "Rdp Stealer | Type of attacks: Infostealer"
-  },
-  {
-    "indicator": "https://t.me/revolusihime666",
-    "category": "telegram_threat_actors",
-    "description": "HIME666"
   },
   {
     "indicator": "https://t.me/RFShoutbox",
