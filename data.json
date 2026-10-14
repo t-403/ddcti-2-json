@@ -3815,6 +3815,11 @@
     "description": "BLACKLOCKS"
   },
   {
+    "indicator": "http://yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion",
+    "category": "ransomware_gang",
+    "description": "HYFLOCK - 0545dac824d6f4479f0368b06bcbe938dee01146f07f821dccec07e1f92c53ba5e"
+  },
+  {
     "indicator": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion",
     "category": "ransomware_gang",
     "description": "STORM"
