@@ -2525,7 +2525,7 @@
     "description": "MINTEYE - 75E3C08957DD5A6A9796CDCCC8021FEE7084CB64DAE2C512994348DCC58C8541355B423C774E"
   },
   {
-    "indicator": "http://i2ohjeeqe37jre4f2u7pyq73cbm6lecumdxapkvrlryna6rc3it4zsid.onion/",
+    "indicator": "http://i2ohjeeqe37jre4f2u7pyq73cbm6lecumdxapkvrlryna6rc3it4zsid.onion",
     "category": "ransomware_gang",
     "description": "THE GENTLEMEN - F8E24C7F5B12CD69C44C73F438F65E9BF560ADF35EBBDF92CF9A9B84079F8F04060FF98D098E"
   },
@@ -3513,6 +3513,11 @@
     "indicator": "http://sinobia6mw6ht2wcdjphessyzpy7ph2y4dyqbd74bgobgju4ybytmkqd.onion/leaks",
     "category": "ransomware_gang",
     "description": "SINOBI"
+  },
+  {
+    "indicator": "http://sinsp6ibw32abbcoagbjwetgm2w56u7tr4izy3xzp7ehqoenxvdd3qyd.onion",
+    "category": "ransomware_gang",
+    "description": "THE SEVEN DEADLY SINS"
   },
   {
     "indicator": "http://spiralstfe7rtbna7zlv6szdwmjvjszf2d64zkf6z5jykrwnw5jbgpyd.onion",
