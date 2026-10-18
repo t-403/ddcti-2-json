@@ -4555,6 +4555,11 @@
     "description": "SH - PART 3"
   },
   {
+    "indicator": "https://t.me/+rA5BG6LgMEEyYzJk",
+    "category": "telegram_threat_actors",
+    "description": "Houthi Hacker 711"
+  },
+  {
     "indicator": "https://t.me/+SixmeKWogKY1NTk0",
     "category": "telegram_threat_actors",
     "description": "For Close System - F.C.S"
