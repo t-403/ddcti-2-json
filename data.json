@@ -4475,6 +4475,11 @@
     "description": "Tor Zireael"
   },
   {
+    "indicator": "https://t.me/+c6YjupW8zIVkOTQ1",
+    "category": "telegram_threat_actors",
+    "description": "Official SH contact"
+  },
+  {
     "indicator": "https://t.me/+D2e-YSFvtAhhMWU1",
     "category": "telegram_threat_actors",
     "description": "BFRepoV4Files | Type of attacks: DataLeaks"
@@ -5988,6 +5993,11 @@
     "indicator": "https://t.me/ShinyEquationCartel",
     "category": "telegram_threat_actors",
     "description": "ShinyEquationCartel"
+  },
+  {
+    "indicator": "https://t.me/shinyequationcartelbackup",
+    "category": "telegram_threat_actors",
+    "description": "S.E.C"
   },
   {
     "indicator": "https://t.me/ShizoPrivacy",
