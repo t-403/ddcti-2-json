@@ -3550,6 +3550,11 @@
     "description": "MEDUSA LOCKER (aka BAVACAI"
   },
   {
+    "indicator": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/",
+    "category": "ransomware_gang",
+    "description": "MEDUZA LOCKER"
+  },
+  {
     "indicator": "http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion",
     "category": "ransomware_gang",
     "description": "TERMITE"
@@ -3738,6 +3743,11 @@
     "indicator": "http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion",
     "category": "ransomware_gang",
     "description": "BLACK SUIT"
+  },
+  {
+    "indicator": "http://whitearz6uvtfdefgsc4r3mzmyswtte65k5umcmv6cu6zhi4l5k4irad.onion",
+    "category": "ransomware_gang",
+    "description": "WHITEARMOR W.A - 05e7d90e446b823946dc3dfd8210ce14835cad13b28edadc798b51c186a29f5f7b"
   },
   {
     "indicator": "http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion",
@@ -4238,6 +4248,11 @@
     "indicator": "https://t.me/+p--PGff5qRUzZmIy",
     "category": "telegram_infostealer",
     "description": "Fehu Cloud"
+  },
+  {
+    "indicator": "https://t.me/+tjvNwD1H2Q4yMTVk",
+    "category": "telegram_infostealer",
+    "description": "Harmony Cloud"
   },
   {
     "indicator": "https://t.me/+Ur4QkkziwJI0ZDQx",
