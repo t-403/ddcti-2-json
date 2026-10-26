@@ -5770,11 +5770,6 @@
     "description": "Nightspire breach"
   },
   {
-    "indicator": "https://t.me/nnm05716english",
-    "category": "telegram_threat_actors",
-    "description": "NoName057(16) Eng_vers | Type of attacks: DDoS"
-  },
-  {
     "indicator": "https://t.me/normalhuntercrime",
     "category": "telegram_threat_actors",
     "description": "Normal Hunters"
