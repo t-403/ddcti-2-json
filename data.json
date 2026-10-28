@@ -5215,6 +5215,11 @@
     "description": "Database Email Lists and Numbers Lists | Type of attacks: combos"
   },
   {
+    "indicator": "https://t.me/espeonsh",
+    "category": "telegram_threat_actors",
+    "description": "ShinyHunters/Lapsus$/UNC6783"
+  },
+  {
     "indicator": "https://t.me/EternityMalwareTeam",
     "category": "telegram_threat_actors",
     "description": "Eternity Malware"
@@ -5760,6 +5765,11 @@
     "description": "New Blood Project"
   },
   {
+    "indicator": "https://t.me/NewUNC6783",
+    "category": "telegram_threat_actors",
+    "description": "UNC6783"
+  },
+  {
     "indicator": "https://t.me/nightmare_hacker",
     "category": "telegram_threat_actors",
     "description": "NIGHTMARE"
@@ -5793,6 +5803,11 @@
     "indicator": "https://t.me/openleak",
     "category": "telegram_threat_actors",
     "description": "Data Leaks"
+  },
+  {
+    "indicator": "https://t.me/outsidenovember",
+    "category": "telegram_threat_actors",
+    "description": "OutSideNovember"
   },
   {
     "indicator": "https://t.me/OXO_News_HN",
