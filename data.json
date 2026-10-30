@@ -4565,6 +4565,16 @@
     "description": "Data Globe | Type of attacks: Data Breach"
   },
   {
+    "indicator": "https://t.me/+mkenB9QfhQliMDZk",
+    "category": "telegram_threat_actors",
+    "description": "DDoSia Project"
+  },
+  {
+    "indicator": "https://t.me/+mwIXV9Zifx45NTEx",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16)"
+  },
+  {
     "indicator": "https://t.me/+n0Z8jU9JpgEwOTY9",
     "category": "telegram_threat_actors",
     "description": "GARUDIANS INDO BLACK HAT"
@@ -4575,6 +4585,11 @@
     "description": "TCG"
   },
   {
+    "indicator": "https://t.me/+q3YVsglIc-c0ZTQx",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16)"
+  },
+  {
     "indicator": "https://t.me/+QtwXY6nRr_8wODI1",
     "category": "telegram_threat_actors",
     "description": "SH - PART 3"
@@ -4583,6 +4598,11 @@
     "indicator": "https://t.me/+rA5BG6LgMEEyYzJk",
     "category": "telegram_threat_actors",
     "description": "Houthi Hacker 711"
+  },
+  {
+    "indicator": "https://t.me/+s4lixGcPk_hlOTMx",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16)"
   },
   {
     "indicator": "https://t.me/+SixmeKWogKY1NTk0",
@@ -4598,6 +4618,11 @@
     "indicator": "https://t.me/+uV_Lxf2uOHhkMjAy",
     "category": "telegram_threat_actors",
     "description": "Killnet Store Chat"
+  },
+  {
+    "indicator": "https://t.me/+VCbIg0TBi4BjY2Nh",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16)"
   },
   {
     "indicator": "https://t.me/+WCSE2vgon6IYGLgz",
@@ -4625,9 +4650,19 @@
     "description": "Team1914_official_Chat | Type of attacks: DDoS"
   },
   {
+    "indicator": "https://t.me/+y5wwDVXk9Yg0NWQx",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16) eng vers"
+  },
+  {
     "indicator": "https://t.me/+yHbZsasiHkE0MWYy",
     "category": "telegram_threat_actors",
     "description": "Elite Squad Chat"
+  },
+  {
+    "indicator": "https://t.me/+yM1NGYGCKQk3MGIx",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16)"
   },
   {
     "indicator": "https://t.me/+YR89p_rg8Oo0Y2Ux",
@@ -5075,9 +5110,19 @@
     "description": "Dark Storm Team"
   },
   {
+    "indicator": "https://t.me/darkstormteam9",
+    "category": "telegram_threat_actors",
+    "description": "Dark Storm Team"
+  },
+  {
     "indicator": "https://t.me/Darkstormteamback",
     "category": "telegram_threat_actors",
     "description": "Dark Storm Team"
+  },
+  {
+    "indicator": "https://t.me/darkstormteamchats",
+    "category": "telegram_threat_actors",
+    "description": "Dark Storm Team chat"
   },
   {
     "indicator": "https://t.me/darxe_base",
@@ -5425,6 +5470,11 @@
     "description": "Proxy service"
   },
   {
+    "indicator": "https://t.me/httpstmeVI8Cr1np5kxhy4",
+    "category": "telegram_threat_actors",
+    "description": "BD Anonymous"
+  },
+  {
     "indicator": "https://t.me/icrewhackers",
     "category": "telegram_threat_actors",
     "description": ""
@@ -5463,6 +5513,11 @@
     "indicator": "https://t.me/infinity_hackers_group",
     "category": "telegram_threat_actors",
     "description": "Infinity Hackers By"
+  },
+  {
+    "indicator": "https://t.me/infrastructuredestruction",
+    "category": "telegram_threat_actors",
+    "description": "Infrastructure Destruction Squad"
   },
   {
     "indicator": "https://t.me/infrastructurek",
@@ -5785,6 +5840,11 @@
     "description": "Nightspire breach"
   },
   {
+    "indicator": "https://t.me/nnm05716fra",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16)"
+  },
+  {
     "indicator": "https://t.me/normalhuntercrime",
     "category": "telegram_threat_actors",
     "description": "Normal Hunters"
@@ -5943,6 +6003,11 @@
     "indicator": "https://t.me/RansomTeam",
     "category": "telegram_threat_actors",
     "description": "RansomTeam Chat"
+  },
+  {
+    "indicator": "https://t.me/Ransomwareg",
+    "category": "telegram_threat_actors",
+    "description": "BLACKNET-00 Ransomware"
   },
   {
     "indicator": "https://t.me/RansomwareTeam",
@@ -6255,6 +6320,11 @@
     "description": ""
   },
   {
+    "indicator": "https://t.me/waykuratdistrc",
+    "category": "telegram_threat_actors",
+    "description": "WAY-KURAP OPERATION"
+  },
+  {
     "indicator": "https://t.me/We_are_not_eternal",
     "category": "telegram_threat_actors",
     "description": ""
@@ -6378,6 +6448,11 @@
     "indicator": "https://t.me/ZxS3xx",
     "category": "telegram_threat_actors",
     "description": "ZxS3C🪬"
+  },
+  {
+    "indicator": "https://t.me/zzzszzsd",
+    "category": "telegram_threat_actors",
+    "description": "infrastructure destruction squad 聊天"
   },
   {
     "indicator": "https://telegram.me/Defacement",
