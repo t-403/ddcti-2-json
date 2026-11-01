@@ -4455,6 +4455,11 @@
     "description": "Universe Cloud"
   },
   {
+    "indicator": "https://t.me/+35h5P-WxO6MyMTJh",
+    "category": "telegram_threat_actors",
+    "description": "SH Groups 2"
+  },
+  {
     "indicator": "https://t.me/+3ZYKShO-lpM2NTM1",
     "category": "telegram_threat_actors",
     "description": "Escanors Official"
@@ -6163,6 +6168,11 @@
     "indicator": "https://t.me/SumatraUtaraCyberTeam",
     "category": "telegram_threat_actors",
     "description": "SumatraUtara | Type of attacks: DDoS"
+  },
+  {
+    "indicator": "https://t.me/SWORDINTEL",
+    "category": "telegram_threat_actors",
+    "description": "The Silicon Inspector"
   },
   {
     "indicator": "https://t.me/syndnet",
