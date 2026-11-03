@@ -1950,6 +1950,11 @@
     "description": "VALENCIA"
   },
   {
+    "indicator": "http://6hzpdc5pxt57jmjxyegwjyhcinr2z3ajucizndehykz7zfrtaptln5qd.onion",
+    "category": "ransomware_gang",
+    "description": "OBSOFT - 546E7020A4555378F824BA528E4845CD549A31CC7EA148F10174921FACAFBB640B5F5934DF5D"
+  },
+  {
     "indicator": "http://6oeuvb4fq65xlrft2ezxjmkeqnu7oafbsevrr3ocer27wft6ivvhstqd.onion",
     "category": "ransomware_gang",
     "description": "GUNRA"
@@ -3268,6 +3273,11 @@
     "indicator": "http://pippahtohg6qgioqu3ixrsueefuw7thythmmeanyrgwn3eixcuu6jvqd.onion",
     "category": "ransomware_gang",
     "description": "M3RX"
+  },
+  {
+    "indicator": "http://pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion",
+    "category": "ransomware_gang",
+    "description": "PIXELLEAKS - 546E7020A4555378F824BA528E4845CD549A31CC7EA148F10174921FACAFBB640B5F5934DF5D - http://pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion/feed"
   },
   {
     "indicator": "http://po4tq2brx4rgwbdx4mac24fz34uuuf7oigosebp32n2462m2vxl6biqd.onion/wall_of_shame",
