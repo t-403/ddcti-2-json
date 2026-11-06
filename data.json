@@ -2010,6 +2010,11 @@
     "description": "ALPHV (aka BlackCat 2)"
   },
   {
+    "indicator": "http://aoqinwwrizxbrwm3qb6l4jzgujgmcetp4jaug7fqylbf3xcwqwzvbuid.onion",
+    "category": "ransomware_gang",
+    "description": "AOQIN LEAKS"
+  },
+  {
     "indicator": "http://apt73grpjgjwykrenq7vnjejue76vosdzptdvmonv7vyqnsyokrw57ad.onion/",
     "category": "ransomware_gang",
     "description": "APT73 (ERALEIG - Dark) - 9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group"
@@ -2263,6 +2268,11 @@
     "indicator": "http://dcarryhaih5oldidg3tbqwnde4lxljytnpvberrwgj2vlvunopd46dad.onion",
     "category": "ransomware_gang",
     "description": "DATA CARRY"
+  },
+  {
+    "indicator": "http://destell6tk2la7w4d7d4apfzsywbt2lsdpui7i2rsfyrike7pxolrbyd.onion",
+    "category": "ransomware_gang",
+    "description": "DESTELLO"
   },
   {
     "indicator": "http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion/",
@@ -3277,7 +3287,7 @@
   {
     "indicator": "http://pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion",
     "category": "ransomware_gang",
-    "description": "PIXELLEAKS - 546E7020A4555378F824BA528E4845CD549A31CC7EA148F10174921FACAFBB640B5F5934DF5D - http://pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion/feed"
+    "description": "PIXELLEAKS"
   },
   {
     "indicator": "http://po4tq2brx4rgwbdx4mac24fz34uuuf7oigosebp32n2462m2vxl6biqd.onion/wall_of_shame",
