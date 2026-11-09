@@ -4555,6 +4555,11 @@
     "description": "Sector16/S16 #Killnet"
   },
   {
+    "indicator": "https://t.me/+iK7ypBGWTUJlOGI0",
+    "category": "telegram_threat_actors",
+    "description": "Z-Pentest"
+  },
+  {
     "indicator": "https://t.me/+ipEzVrjM43NkODc0",
     "category": "telegram_threat_actors",
     "description": "AKATSUKI gang (Algerian Ministry breach)"
