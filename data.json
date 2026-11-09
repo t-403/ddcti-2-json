@@ -5040,6 +5040,11 @@
     "description": "CVE Feed"
   },
   {
+    "indicator": "https://t.me/Cyb3rAvengers",
+    "category": "telegram_threat_actors",
+    "description": "CyberAv3ngers"
+  },
+  {
     "indicator": "https://t.me/Cyb3rBlitz",
     "category": "telegram_threat_actors",
     "description": "Cyber Blitz"
@@ -5808,6 +5813,11 @@
     "indicator": "https://t.me/MR_X10_SY",
     "category": "telegram_threat_actors",
     "description": "Data leaks: Merged with HIDER_NIX"
+  },
+  {
+    "indicator": "https://t.me/MrS0ul_Official",
+    "category": "telegram_threat_actors",
+    "description": "Mr. Soul Official"
   },
   {
     "indicator": "https://t.me/mrtanjirox",
