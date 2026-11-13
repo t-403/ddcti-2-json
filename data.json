@@ -2525,6 +2525,11 @@
     "description": "Cyberfeeddigest"
   },
   {
+    "indicator": "http://hhevzhgcokx6xlzh4o4exuo2kryy6ectpb7trm5ut2g3u4trskptv7ad.onion",
+    "category": "ransomware_gang",
+    "description": "CURIOUS WORM"
+  },
+  {
     "indicator": "http://hkk62og3s2tce2gipcdxg3m27z4b62mrmml6ugctzdxs25o26q3a4mid.onion",
     "category": "ransomware_gang",
     "description": "FS-TEAM"
