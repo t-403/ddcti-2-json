@@ -4495,6 +4495,16 @@
     "description": "Universe Cloud"
   },
   {
+    "indicator": "https://t.me/+-ojdpM4FCPA1MzAx",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16) - ES"
+  },
+  {
+    "indicator": "https://t.me/+1QpgQXid7A85NWRh",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16) eng vers"
+  },
+  {
     "indicator": "https://t.me/+35h5P-WxO6MyMTJh",
     "category": "telegram_threat_actors",
     "description": "SH Groups 2"
@@ -4560,6 +4570,11 @@
     "description": "SH - PART 5"
   },
   {
+    "indicator": "https://t.me/+EAXSh4Lu20cwMzRh",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16) - RU"
+  },
+  {
     "indicator": "https://t.me/+f6HgnXuFRiIxMzhk",
     "category": "telegram_threat_actors",
     "description": "Pro Team Channel | Type of attacks: combos"
@@ -4590,9 +4605,19 @@
     "description": "SH - PART 2"
   },
   {
+    "indicator": "https://t.me/+IXLNLLsXEg83OGUx",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16) - IT"
+  },
+  {
     "indicator": "https://t.me/+jCjbvdsUSJIzN2Vl",
     "category": "telegram_threat_actors",
     "description": "The Collective Sentinel"
+  },
+  {
+    "indicator": "https://t.me/+jwNpFQT7WMw5Mjg0",
+    "category": "telegram_threat_actors",
+    "description": "DDoSia Project"
   },
   {
     "indicator": "https://t.me/+knSjTUFyz2k5N2U1",
@@ -4658,6 +4683,11 @@
     "indicator": "https://t.me/+SixmeKWogKY1NTk0",
     "category": "telegram_threat_actors",
     "description": "For Close System - F.C.S"
+  },
+  {
+    "indicator": "https://t.me/+tFkAL9_LZYRjZTNh",
+    "category": "telegram_threat_actors",
+    "description": "NoName057(16) - DE"
   },
   {
     "indicator": "https://t.me/+uIojmLMIJz0yNzIy",
@@ -5902,7 +5932,7 @@
   {
     "indicator": "https://t.me/nnm05716fra",
     "category": "telegram_threat_actors",
-    "description": "NoName057(16)"
+    "description": "NoName057(16) - FR"
   },
   {
     "indicator": "https://t.me/normalhuntercrime",
