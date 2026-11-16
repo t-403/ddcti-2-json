@@ -1765,6 +1765,46 @@
     "description": "Savastan0"
   },
   {
+    "indicator": "https://sever.cx",
+    "category": "markets",
+    "description": "SeverVault"
+  },
+  {
+    "indicator": "https://sever.st",
+    "category": "markets",
+    "description": "SeverVault"
+  },
+  {
+    "indicator": "https://sever.to",
+    "category": "markets",
+    "description": "SeverVault"
+  },
+  {
+    "indicator": "https://sever.ws",
+    "category": "markets",
+    "description": "SeverVault"
+  },
+  {
+    "indicator": "https://sever4apt73wclanpzgoelsscbj274xupr4npybhyr4vyvxl7jlarrqd.onion",
+    "category": "markets",
+    "description": "SeverVault"
+  },
+  {
+    "indicator": "https://severgoodb3kdzmdnrnx3gb4jbw4gxe43mhvnxaacfq7oowb2ttsh7id.onion",
+    "category": "markets",
+    "description": "SeverVault"
+  },
+  {
+    "indicator": "https://severown5xd6ojimw7qij32dvgeav5ath7fei4w7rbui5zo2rutk3yad.onion",
+    "category": "markets",
+    "description": "SeverVault"
+  },
+  {
+    "indicator": "https://severxpppwio5sku5ffx2ddlbqszqous3wr7hph52dlcbdr3henfibid.onion",
+    "category": "markets",
+    "description": "SeverVault"
+  },
+  {
     "indicator": "https://shadowcarders.com",
     "category": "markets",
     "description": "SHADOWCARDERS"
