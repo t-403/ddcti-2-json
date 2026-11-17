@@ -2670,6 +2670,11 @@
     "description": "INC RANSOM"
   },
   {
+    "indicator": "http://incptbug3ziqym4rhgsj7h7hbpzt3v4ympcf42gsdb5haqq237fziaad.onion",
+    "category": "ransomware_gang",
+    "description": "INCEPTION - 820328ad9effb2f0855cea50018592bc3bec3765798ca76a5e3e73d691235195"
+  },
+  {
     "indicator": "http://ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion",
     "category": "ransomware_gang",
     "description": "PLAY"
