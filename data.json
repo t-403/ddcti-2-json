@@ -6435,6 +6435,11 @@
     "description": "UserSec # KillNet"
   },
   {
+    "indicator": "https://t.me/V3lV3tTeam",
+    "category": "telegram_threat_actors",
+    "description": "Velvet Team"
+  },
+  {
     "indicator": "https://t.me/V3TerN",
     "category": "telegram_threat_actors",
     "description": "Devilzone (2) - configs, combos, etc"
