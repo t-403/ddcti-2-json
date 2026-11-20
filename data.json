@@ -190,11 +190,6 @@
     "description": "RAMBLE"
   },
   {
-    "indicator": "http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion",
-    "category": "forum",
-    "description": "RAMP (Dark)"
-  },
-  {
     "indicator": "http://runionv3do7jdylpx7ufc6qkmygehsiuichjcstpj4hb2ycqrnmp67ad.onion",
     "category": "forum",
     "description": "RUNION"
@@ -243,6 +238,11 @@
     "indicator": "http://tieronemkfevyizxcnt355agysp2iemvhon6iyclwrc7yuc7oszgzrid.onion",
     "category": "forum",
     "description": "T1ER0NE"
+  },
+  {
+    "indicator": "http://tyoeevaqn6alon623bfm7r4e7z3so54ky6uvbqkza3fyun7g4cm24hyd.onion/",
+    "category": "forum",
+    "description": "FORUMNOX (Dark)"
   },
   {
     "indicator": "http://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion/index.php",
@@ -665,6 +665,11 @@
     "description": "KKKSECFORUM"
   },
   {
+    "indicator": "https://forumnox.com",
+    "category": "forum",
+    "description": "FORUMNOX (Deep) - [Telegram community](https://t.me/forumnoxcommunity), [Telegram announcements](https://t.me/forumnoxannouncements), [X](https://x.com/forumnox)"
+  },
+  {
     "indicator": "https://forumteam.online",
     "category": "forum",
     "description": "FORUMTEAM.ONLINE"
@@ -728,6 +733,11 @@
     "indicator": "https://infinity.ink",
     "category": "forum",
     "description": "INFINITY"
+  },
+  {
+    "indicator": "https://intelforums.cc",
+    "category": "forum",
+    "description": "INTELFORUMS"
   },
   {
     "indicator": "https://korovka.cc",
@@ -948,11 +958,6 @@
     "indicator": "https://raidforums.ru/",
     "category": "forum",
     "description": "RAID FORUMS - https://t.me/RaidForumsHub"
-  },
-  {
-    "indicator": "https://ramp4u.io",
-    "category": "forum",
-    "description": "RAMP (Deep)"
   },
   {
     "indicator": "https://rehubcom.ag",
@@ -2048,6 +2053,11 @@
     "indicator": "http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion",
     "category": "ransomware_gang",
     "description": "Abrahams Ax (Dark)"
+  },
+  {
+    "indicator": "http://agznlsyqig44nihyodfjay3fnk33ktjduynv2kwcbsm5nbyarc42q4ad.onion",
+    "category": "ransomware_gang",
+    "description": "GPT LOCK"
   },
   {
     "indicator": "http://alphvuzxyxv6ylumd2ngp46xzq3pw6zflomrghvxeuks6kklberrbmyd.onion",
@@ -5445,6 +5455,16 @@
     "description": "For Close System - F.C.S"
   },
   {
+    "indicator": "https://t.me/forumnoxannouncements",
+    "category": "telegram_threat_actors",
+    "description": "Forum Nox announcements"
+  },
+  {
+    "indicator": "https://t.me/forumnoxcommunity",
+    "category": "telegram_threat_actors",
+    "description": "Forum Nox commmunity"
+  },
+  {
     "indicator": "https://t.me/FR3DENSOFSECURITY_2023",
     "category": "telegram_threat_actors",
     "description": ""
@@ -6653,6 +6673,11 @@
     "indicator": "https://x.com/D1eNet",
     "category": "twitter_threat_actors",
     "description": "DieNet - Type: DDoS"
+  },
+  {
+    "indicator": "https://x.com/forumnox",
+    "category": "twitter_threat_actors",
+    "description": "Forum NOX - Type: Forum"
   },
   {
     "indicator": "https://x.com/GonjeshkeDarand",
