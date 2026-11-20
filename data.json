@@ -2265,6 +2265,11 @@
     "description": "CMD ORGANIZATION"
   },
   {
+    "indicator": "http://copqdofcqjngdtugmxpannsh277t4pyngqkrcja636tnyhqbhucxnmid.onion",
+    "category": "ransomware_gang",
+    "description": "HANDSOME BOY HACKING CLUB - contacthbhc@protonmail.com"
+  },
+  {
     "indicator": "http://cpjhb63lxycwbyus2n35ddyhdzxhf756l4rtwdttojzhzgppt3vpmsqd.onion",
     "category": "ransomware_gang",
     "description": "BENZONA (File Server) - 7308E8CFE8AA18D718B5EF44C34A2E5E2C90B7FDB150FA2EC31E995F5F4B23044A98802A4DF0 - Twitter: @InfinityLeak"
@@ -2798,6 +2803,11 @@
     "indicator": "http://leak7y2247fj7dbb35rpfyxuyaqtwbshiwxp6h35ttzlhrxmhvi4fead.onion/",
     "category": "ransomware_gang",
     "description": "RALord"
+  },
+  {
+    "indicator": "http://lnvpdjkv2bflmmotu3doqxhzks2m2svuiirdiizjfe7p3e5isfg4xqid.onion",
+    "category": "ransomware_gang",
+    "description": "SILENTVAULT - 76918f6660388800801d3262a63ae835b949486af65344e3cc48b6955923846d02b7f4eeffe6"
   },
   {
     "indicator": "http://lockbit23xxhej7swdop24cru7ks2w66pw7zgdkydqo6f7wfyfqo7oqd.onion",
@@ -3820,6 +3830,11 @@
     "description": "J GROUP"
   },
   {
+    "indicator": "http://warden7xzx54m6xk2zn5wpptekpe5rgewdjkfxnkjuu63fbbvjnljrqd.onion/",
+    "category": "ransomware_gang",
+    "description": "WARDEN"
+  },
+  {
     "indicator": "http://weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd.onion/",
     "category": "ransomware_gang",
     "description": "WALocker"
@@ -4068,6 +4083,11 @@
     "indicator": "https://cikleak.net",
     "category": "ransomware_gang",
     "description": "CIKLEAK"
+  },
+  {
+    "indicator": "https://codice-ledger.io",
+    "category": "ransomware_gang",
+    "description": "SOULGROUP - e1512a8e5584f73469843209d239548d7436400c7cbda833859bfd5a7b377f34e87c3298f2c4"
   },
   {
     "indicator": "https://crpx0.su",
